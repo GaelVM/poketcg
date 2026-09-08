@@ -1,0 +1,580 @@
+[
+  {
+    "id": "A2-147",
+    "set": "A2",
+    "number": 147,
+    "name": "Giant Cape",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "All"
+    ],
+    "packs": [
+      "Dialga"
+    ],
+    "ex": false,
+    "image": "cTR_10_000290_00_OOKINAMANTO_U.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2/147.webp",
+    "setName": "Space-Time Smackdown",
+    "releaseDate": "2025-01-29"
+  },
+  {
+    "id": "A2-148",
+    "set": "A2",
+    "number": 148,
+    "name": "Rocky Helmet",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "All"
+    ],
+    "packs": [
+      "Palkia"
+    ],
+    "ex": false,
+    "image": "cTR_10_000300_00_GOTSUGOTSUMETTO_U.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2/148.webp",
+    "setName": "Space-Time Smackdown",
+    "releaseDate": "2025-01-29"
+  },
+  {
+    "id": "A2-149",
+    "set": "A2",
+    "number": 149,
+    "name": "Lum Berry",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "All"
+    ],
+    "packs": [
+      "Palkia"
+    ],
+    "ex": false,
+    "image": "cTR_10_000310_00_RAMUNOMI_U.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2/149.webp",
+    "setName": "Space-Time Smackdown",
+    "releaseDate": "2025-01-29"
+  },
+  {
+    "id": "A3-146",
+    "set": "A3",
+    "number": 146,
+    "name": "Poison Barb",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "Darkness"
+    ],
+    "packs": [
+      "Lunala"
+    ],
+    "ex": false,
+    "image": "cTR_10_000500_00_DOKUBARI_U.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3/146.webp",
+    "setName": "Celestial Guardians",
+    "releaseDate": "2025-04-30"
+  },
+  {
+    "id": "A3-147",
+    "set": "A3",
+    "number": 147,
+    "name": "Leaf Cape",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "Grass"
+    ],
+    "packs": [
+      "Solgaleo"
+    ],
+    "ex": false,
+    "image": "cTR_10_000510_00_LEAFMANTO_U.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3/147.webp",
+    "setName": "Celestial Guardians",
+    "releaseDate": "2025-04-30"
+  },
+  {
+    "id": "A3a-065",
+    "set": "A3a",
+    "number": 65,
+    "name": "Electrical Cord",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "Lightning"
+    ],
+    "packs": [
+      "Extradimensional"
+    ],
+    "ex": false,
+    "image": "cTR_10_000620_00_EREKIKORD_U.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3a/65.webp",
+    "setName": "Extradimensional Crisis",
+    "releaseDate": "2025-05-29"
+  },
+  {
+    "id": "A3a-066",
+    "set": "A3a",
+    "number": 66,
+    "name": "Beastite",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "UltraBeast"
+    ],
+    "packs": [
+      "Extradimensional"
+    ],
+    "ex": false,
+    "image": "cTR_10_000630_00_BISUTONAITO_U.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3a/66.webp",
+    "setName": "Extradimensional Crisis",
+    "releaseDate": "2025-05-29"
+  },
+  {
+    "id": "A3b-067",
+    "set": "A3b",
+    "number": 67,
+    "name": "Leftovers",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "All"
+    ],
+    "packs": [
+      "Eevee"
+    ],
+    "ex": false,
+    "image": "cTR_10_000680_00_TABENOKOSHI_U.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/67.webp",
+    "setName": "Eevee Grove",
+    "releaseDate": "2025-06-26"
+  },
+  {
+    "id": "A4-153",
+    "set": "A4",
+    "number": 153,
+    "name": "Steel Apron",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "Metal"
+    ],
+    "packs": [
+      "Ho-Oh"
+    ],
+    "ex": false,
+    "image": "cTR_10_000730_00_GOUTETUNOMAEKAKE_U.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4/153.webp",
+    "setName": "Wisdom of Sea and Sky",
+    "releaseDate": "2025-07-30"
+  },
+  {
+    "id": "A4-154",
+    "set": "A4",
+    "number": 154,
+    "name": "Dark Pendant",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "Darkness"
+    ],
+    "packs": [
+      "Ho-Oh"
+    ],
+    "ex": false,
+    "image": "cTR_10_000740_00_DARKPENDANTO_U.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4/154.webp",
+    "setName": "Wisdom of Sea and Sky",
+    "releaseDate": "2025-07-30"
+  },
+  {
+    "id": "A4-155",
+    "set": "A4",
+    "number": 155,
+    "name": "Rescue Scarf",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "All"
+    ],
+    "packs": [
+      "Lugia",
+      "Ho-Oh"
+    ],
+    "ex": false,
+    "image": "cTR_10_000750_00_RESUKYUSUKAFU_U.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4/155.webp",
+    "setName": "Wisdom of Sea and Sky",
+    "releaseDate": "2025-07-30"
+  },
+  {
+    "id": "A4a-067",
+    "set": "A4a",
+    "number": 67,
+    "name": "Inflatable Boat",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "Water"
+    ],
+    "packs": [
+      "Secluded"
+    ],
+    "ex": false,
+    "image": "cTR_10_000820_00_WHOTABOTO_U.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/67.webp",
+    "setName": "Secluded Springs",
+    "releaseDate": "2025-08-28"
+  },
+  {
+    "id": "A4a-068",
+    "set": "A4a",
+    "number": 68,
+    "name": "Memory Light",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "Stage1",
+      "Stage2"
+    ],
+    "packs": [
+      "Secluded"
+    ],
+    "ex": false,
+    "image": "cTR_10_000830_00_MEMORYLIGHT_U.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/68.webp",
+    "setName": "Secluded Springs",
+    "releaseDate": "2025-08-28"
+  },
+  {
+    "id": "A4b-318",
+    "set": "A4b",
+    "number": 318,
+    "name": "Electrical Cord",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "Lightning"
+    ],
+    "packs": [
+      "Deluxe"
+    ],
+    "ex": false,
+    "image": "A4b_318.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4b/318.webp",
+    "setName": "Deluxe Pack: ex",
+    "releaseDate": "2025-09-30"
+  },
+  {
+    "id": "A4b-319",
+    "set": "A4b",
+    "number": 319,
+    "name": "Electrical Cord",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "Lightning"
+    ],
+    "packs": [
+      "Deluxe"
+    ],
+    "ex": false,
+    "image": "A4b_319.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4b/319.webp",
+    "setName": "Deluxe Pack: ex",
+    "releaseDate": "2025-09-30"
+  },
+  {
+    "id": "A4b-320",
+    "set": "A4b",
+    "number": 320,
+    "name": "Giant Cape",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "All"
+    ],
+    "packs": [
+      "Deluxe"
+    ],
+    "ex": false,
+    "image": "A4b_320.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4b/320.webp",
+    "setName": "Deluxe Pack: ex",
+    "releaseDate": "2025-09-30"
+  },
+  {
+    "id": "A4b-321",
+    "set": "A4b",
+    "number": 321,
+    "name": "Giant Cape",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "All"
+    ],
+    "packs": [
+      "Deluxe"
+    ],
+    "ex": false,
+    "image": "A4b_321.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4b/321.webp",
+    "setName": "Deluxe Pack: ex",
+    "releaseDate": "2025-09-30"
+  },
+  {
+    "id": "A4b-322",
+    "set": "A4b",
+    "number": 322,
+    "name": "Rocky Helmet",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "All"
+    ],
+    "packs": [
+      "Deluxe"
+    ],
+    "ex": false,
+    "image": "A4b_322.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4b/322.webp",
+    "setName": "Deluxe Pack: ex",
+    "releaseDate": "2025-09-30"
+  },
+  {
+    "id": "A4b-323",
+    "set": "A4b",
+    "number": 323,
+    "name": "Rocky Helmet",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "All"
+    ],
+    "packs": [
+      "Deluxe"
+    ],
+    "ex": false,
+    "image": "A4b_323.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4b/323.webp",
+    "setName": "Deluxe Pack: ex",
+    "releaseDate": "2025-09-30"
+  },
+  {
+    "id": "A4b-324",
+    "set": "A4b",
+    "number": 324,
+    "name": "Leaf Cape",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "Grass"
+    ],
+    "packs": [
+      "Deluxe"
+    ],
+    "ex": false,
+    "image": "A4b_324.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4b/324.webp",
+    "setName": "Deluxe Pack: ex",
+    "releaseDate": "2025-09-30"
+  },
+  {
+    "id": "A4b-325",
+    "set": "A4b",
+    "number": 325,
+    "name": "Leaf Cape",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "Grass"
+    ],
+    "packs": [
+      "Deluxe"
+    ],
+    "ex": false,
+    "image": "A4b_325.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4b/325.webp",
+    "setName": "Deluxe Pack: ex",
+    "releaseDate": "2025-09-30"
+  },
+  {
+    "id": "B1-218",
+    "set": "B1",
+    "number": 218,
+    "name": "Sitrus Berry",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "All"
+    ],
+    "packs": [
+      "Mega Altaria"
+    ],
+    "ex": false,
+    "image": "cTR_10_000920_00_OBONNOMI_U.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/218.webp",
+    "setName": "Mega Rising",
+    "releaseDate": "2025-10-30"
+  },
+  {
+    "id": "B1-219",
+    "set": "B1",
+    "number": 219,
+    "name": "Heavy Helmet",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "Retreat3Plus"
+    ],
+    "packs": [
+      "Mega Gyarados"
+    ],
+    "ex": false,
+    "image": "cTR_10_000930_00_BABYMET_U.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/219.webp",
+    "setName": "Mega Rising",
+    "releaseDate": "2025-10-30"
+  },
+  {
+    "id": "B1-220",
+    "set": "B1",
+    "number": 220,
+    "name": "Lucky Mittens",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "All"
+    ],
+    "packs": [
+      "Mega Altaria"
+    ],
+    "ex": false,
+    "image": "cTR_10_000940_00_LUCKYMITTENS_U.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/220.webp",
+    "setName": "Mega Rising",
+    "releaseDate": "2025-10-30"
+  }
+]

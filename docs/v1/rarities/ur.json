@@ -1,0 +1,493 @@
+[
+  {
+    "id": "A1-284",
+    "set": "A1",
+    "number": 284,
+    "name": "Charizard ex",
+    "rarity": "UR",
+    "element": "fire",
+    "type": "pokemon",
+    "stage": 2,
+    "health": 50,
+    "retreatCost": 1,
+    "weakness": "Water",
+    "goodWith": [],
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ],
+    "ex": false,
+    "image": "cPK_20_000360_02_LIZARDONex_UR.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1/284.webp",
+    "setName": "Genes Formidables",
+    "releaseDate": "2024-10-30"
+  },
+  {
+    "id": "A1-285",
+    "set": "A1",
+    "number": 285,
+    "name": "Pikachu ex",
+    "rarity": "UR",
+    "element": "lightning",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 50,
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "goodWith": [],
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ],
+    "ex": false,
+    "image": "cPK_20_000960_02_PIKACHUex_UR.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1/285.webp",
+    "setName": "Genes Formidables",
+    "releaseDate": "2024-10-30"
+  },
+  {
+    "id": "A1-286",
+    "set": "A1",
+    "number": 286,
+    "name": "Mewtwo ex",
+    "rarity": "UR",
+    "element": "psychic",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 50,
+    "retreatCost": 1,
+    "weakness": "Dark",
+    "goodWith": [],
+    "packs": [
+      "Charizard",
+      "Mewtwo",
+      "Pikachu"
+    ],
+    "ex": false,
+    "image": "cPK_20_001290_02_MEWTWOex_UR.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1/286.webp",
+    "setName": "Genes Formidables",
+    "releaseDate": "2024-10-30"
+  },
+  {
+    "id": "A1a-086",
+    "set": "A1a",
+    "number": 86,
+    "name": "Mew ex",
+    "rarity": "UR",
+    "element": "psychic",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 50,
+    "retreatCost": 1,
+    "weakness": "Dark",
+    "goodWith": [],
+    "packs": [
+      "Mew"
+    ],
+    "ex": false,
+    "image": "cPK_20_002450_02_MEWex_UR.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/86.webp",
+    "setName": "La Isla Singular",
+    "releaseDate": "2024-12-17"
+  },
+  {
+    "id": "A2-206",
+    "set": "A2",
+    "number": 206,
+    "name": "Palkia ex",
+    "rarity": "UR",
+    "element": "water",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 50,
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "goodWith": [],
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ],
+    "ex": false,
+    "image": "cPK_20_003300_02_PALKIAex_UR.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2/206.webp",
+    "setName": "Space-Time Smackdown",
+    "releaseDate": "2025-01-29"
+  },
+  {
+    "id": "A2-207",
+    "set": "A2",
+    "number": 207,
+    "name": "Dialga ex",
+    "rarity": "UR",
+    "element": "metal",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 50,
+    "retreatCost": 1,
+    "weakness": "fire",
+    "goodWith": [],
+    "packs": [
+      "Dialga",
+      "Palkia"
+    ],
+    "ex": false,
+    "image": "cPK_20_004000_02_DIALGAex_UR.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2/207.webp",
+    "setName": "Space-Time Smackdown",
+    "releaseDate": "2025-01-29"
+  },
+  {
+    "id": "A2a-096",
+    "set": "A2a",
+    "number": 96,
+    "name": "Arceus ex",
+    "rarity": "UR",
+    "element": "colorless",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 50,
+    "retreatCost": 1,
+    "weakness": "fire",
+    "goodWith": [],
+    "packs": [
+      "Arceus"
+    ],
+    "ex": false,
+    "image": "cPK_20_004950_02_ARCEUSex_UR.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2a/96.webp",
+    "setName": "Luz Triunfal",
+    "releaseDate": "2025-02-28"
+  },
+  {
+    "id": "A2b-111",
+    "set": "A2b",
+    "number": 111,
+    "name": "Poké Ball",
+    "rarity": "UR",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "All"
+    ],
+    "packs": [
+      "Shining"
+    ],
+    "ex": false,
+    "image": "cTR_20_000030_00_MONSTERBALL_UR.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/111.webp",
+    "setName": "Shining Revelry",
+    "releaseDate": "2025-03-27"
+  },
+  {
+    "id": "A3-238",
+    "set": "A3",
+    "number": 238,
+    "name": "Lunala ex",
+    "rarity": "UR",
+    "element": "psychic",
+    "type": "pokemon",
+    "stage": 2,
+    "health": 50,
+    "retreatCost": 1,
+    "weakness": "Dark",
+    "goodWith": [],
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ],
+    "ex": false,
+    "image": "cPK_20_006680_02_LUNALAex_UR.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3/238.webp",
+    "setName": "Celestial Guardians",
+    "releaseDate": "2025-04-30"
+  },
+  {
+    "id": "A3-239",
+    "set": "A3",
+    "number": 239,
+    "name": "Solgaleo ex",
+    "rarity": "UR",
+    "element": "metal",
+    "type": "pokemon",
+    "stage": 2,
+    "health": 50,
+    "retreatCost": 1,
+    "weakness": "fire",
+    "goodWith": [],
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ],
+    "ex": false,
+    "image": "cPK_20_007030_02_SOLGALEOex_UR.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3/239.webp",
+    "setName": "Celestial Guardians",
+    "releaseDate": "2025-04-30"
+  },
+  {
+    "id": "A3a-103",
+    "set": "A3a",
+    "number": 103,
+    "name": "Nihilego",
+    "rarity": "UR",
+    "element": "darkness",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 50,
+    "retreatCost": 1,
+    "weakness": "fire",
+    "goodWith": [],
+    "packs": [
+      "Extradimensional"
+    ],
+    "ex": false,
+    "image": "cPK_20_007790_00_UTUROID_UR.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3a/103.webp",
+    "setName": "Extradimensional Crisis",
+    "releaseDate": "2025-05-29"
+  },
+  {
+    "id": "A3b-107",
+    "set": "A3b",
+    "number": 107,
+    "name": "Eevee Bag",
+    "rarity": "UR",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "Eevee"
+    ],
+    "packs": [
+      "Eevee"
+    ],
+    "ex": false,
+    "image": "cTR_20_000670_00_IIBUINOBAKKU_UR.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/107.webp",
+    "setName": "Eevee Grove",
+    "releaseDate": "2025-06-26"
+  },
+  {
+    "id": "A4-240",
+    "set": "A4",
+    "number": 240,
+    "name": "Ho-Oh ex",
+    "rarity": "UR",
+    "element": "fire",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 50,
+    "retreatCost": 1,
+    "weakness": "Water",
+    "goodWith": [],
+    "packs": [
+      "Lugia",
+      "Ho-Oh"
+    ],
+    "ex": false,
+    "image": "cPK_20_008900_02_HOUOUex_UR.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4/240.webp",
+    "setName": "Wisdom of Sea and Sky",
+    "releaseDate": "2025-07-30"
+  },
+  {
+    "id": "A4-241",
+    "set": "A4",
+    "number": 241,
+    "name": "Lugia ex",
+    "rarity": "UR",
+    "element": "colorless",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 50,
+    "retreatCost": 1,
+    "weakness": "fire",
+    "goodWith": [],
+    "packs": [
+      "Lugia",
+      "Ho-Oh"
+    ],
+    "ex": false,
+    "image": "cPK_20_010050_02_LUGIAex_UR.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4/241.webp",
+    "setName": "Wisdom of Sea and Sky",
+    "releaseDate": "2025-07-30"
+  },
+  {
+    "id": "A4a-105",
+    "set": "A4a",
+    "number": 105,
+    "name": "Mantyke",
+    "rarity": "UR",
+    "element": "water",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 50,
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "goodWith": [],
+    "packs": [
+      "Secluded"
+    ],
+    "ex": false,
+    "image": "cPK_20_010420_00_TAMANTA_UR.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/105.webp",
+    "setName": "Secluded Springs",
+    "releaseDate": "2025-08-28"
+  },
+  {
+    "id": "A4b-379",
+    "set": "A4b",
+    "number": 379,
+    "name": "Rare Candy",
+    "rarity": "UR",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "Stage2"
+    ],
+    "packs": [
+      "Deluxe"
+    ],
+    "ex": false,
+    "image": "A4b_379.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4b/379.webp",
+    "setName": "Deluxe Pack: ex",
+    "releaseDate": "2025-09-30"
+  },
+  {
+    "id": "B1-329",
+    "set": "B1",
+    "number": 329,
+    "name": "Lilligant",
+    "rarity": "UR",
+    "element": "grass",
+    "type": "pokemon",
+    "stage": 1,
+    "health": 50,
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "goodWith": [],
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ],
+    "ex": false,
+    "image": "cPK_20_011000_00_DREDEAR_UR.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/329.webp",
+    "setName": "Mega Rising",
+    "releaseDate": "2025-10-30"
+  },
+  {
+    "id": "B1-330",
+    "set": "B1",
+    "number": 330,
+    "name": "Klefki",
+    "rarity": "UR",
+    "element": "metal",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 50,
+    "retreatCost": 1,
+    "weakness": "fire",
+    "goodWith": [],
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ],
+    "ex": false,
+    "image": "cPK_20_012020_00_CLEFFY_UR.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/330.webp",
+    "setName": "Mega Rising",
+    "releaseDate": "2025-10-30"
+  },
+  {
+    "id": "B1-331",
+    "set": "B1",
+    "number": 331,
+    "name": "Flame Patch",
+    "rarity": "UR",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "Fire"
+    ],
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ],
+    "ex": false,
+    "image": "cTR_20_000910_00_FUREIMUPACCHI_UR.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/331.webp",
+    "setName": "Mega Rising",
+    "releaseDate": "2025-10-30"
+  },
+  {
+    "id": "B1a-102",
+    "set": "B1a",
+    "number": 102,
+    "name": "Aegislash",
+    "rarity": "UR",
+    "element": "Metal",
+    "type": "pokemon",
+    "stage": 2,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "Honedge",
+      "Doublade"
+    ],
+    "packs": [
+      "Crimson Blaze"
+    ],
+    "ex": false,
+    "image": "cPK_20_012540_00_GILLGARDBLADEFORME_UR.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1a/102.webp",
+    "setName": "Crimson Blaze",
+    "releaseDate": "2025-12-17"
+  },
+  {
+    "id": "B1a-103",
+    "set": "B1a",
+    "number": 103,
+    "name": "Quick-Grow Extract",
+    "rarity": "UR",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Crimson Blaze"
+    ],
+    "ex": false,
+    "image": "cTR_20_001020_00_SOUJYUKUEKISU_UR.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1a/103.webp",
+    "setName": "Crimson Blaze",
+    "releaseDate": "2025-12-17"
+  }
+]
