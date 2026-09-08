@@ -2,19 +2,9 @@
 
 API JSON estatica para consumir desde una web alojada en cPanel. Se publica con GitHub Pages y se actualiza mediante GitHub Actions.
 
-## Publicar en GitHub
+URL:
 
-1. Crea un repositorio publico, por ejemplo `pokemon-tcg-pocket-api`.
-2. Sube todos los archivos de este paquete a la raiz del repositorio.
-3. Ve a **Settings > Pages**.
-4. En **Build and deployment**, selecciona **Deploy from a branch**.
-5. Selecciona la rama `main` y la carpeta `/docs`.
-6. Guarda.
-7. Ve a **Actions > Update API > Run workflow** para importar la base completa actual.
-
-Tu URL quedara normalmente asi:
-
-`https://TU-USUARIO.github.io/pokemon-tcg-pocket-api/`
+`https://GaelVM.github.io/poketcg/`
 
 ## Endpoints
 
@@ -30,7 +20,7 @@ Tu URL quedara normalmente asi:
 Ejemplo desde JavaScript:
 
 ```js
-const API = 'https://TU-USUARIO.github.io/pokemon-tcg-pocket-api/v1';
+const API = 'https://GaelVM.github.io/poketcg/v1';
 const cards = await fetch(`${API}/cards.json`).then(r => r.json());
 ```
 
