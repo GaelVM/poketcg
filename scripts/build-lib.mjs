@@ -28,5 +28,4 @@ export async function build(cards, sets=[], rarities={}, source='seed') {
   const search = cards.map(c=>({id:c.id,name:c.name,set:c.set,number:c.number,rarity:c.rarity,element:c.element||c.type||null,ex:!!c.ex}));
   await write('search-index.json', search);
   await write('metadata.json', {apiVersion:'1.0.0', generatedAt:new Date().toISOString(), source, cards:cards.length, sets:bySet.size, types:byType.size, rarities:byRarity.size});
-  await fs.writeFile(path.resolve('docs/index.html'), `<!doctype html><meta charset="utf-8"><title>Pokemon TCG Pocket API</title><style>body{font:16px system-ui;max-width:820px;margin:40px auto;padding:0 20px}code{background:#eee;padding:2px 6px}</style><h1>Pokemon TCG Pocket API</h1><p>API JSON estatica. Version <code>v1</code>.</p><ul><li><a href="v1/metadata.json">metadata.json</a></li><li><a href="v1/cards.json">cards.json</a></li><li><a href="v1/sets.json">sets.json</a></li><li><a href="v1/search-index.json">search-index.json</a></li></ul><p>Consulta el README del repositorio para endpoints y licencia.</p>`);
 }
