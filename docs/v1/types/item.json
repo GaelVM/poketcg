@@ -1,128 +1,978 @@
 [
   {
-    "id": "Promo-A_1",
+    "id": "A1a-064",
+    "set": "A1a",
+    "number": 64,
+    "name": "Pokémon Flute",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "All"
+    ],
+    "packs": [
+      "Mew"
+    ],
+    "ex": false,
+    "image": "cTR_10_000200_00_POKEMONNOFUE_U.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/64.webp",
+    "setName": "La Isla Singular",
+    "releaseDate": "2024-12-17"
+  },
+  {
+    "id": "A1a-065",
+    "set": "A1a",
+    "number": 65,
+    "name": "Mythical Slab",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "Psychic"
+    ],
+    "packs": [
+      "Mew"
+    ],
+    "ex": false,
+    "image": "cTR_10_000190_00_MABOROSHINOSEKIBAN_U.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/65.webp",
+    "setName": "La Isla Singular",
+    "releaseDate": "2024-12-17"
+  },
+  {
+    "id": "A2-146",
+    "set": "A2",
+    "number": 146,
+    "name": "Pokémon Communication",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "All"
+    ],
+    "packs": [
+      "Dialga"
+    ],
+    "ex": false,
+    "image": "cTR_10_000280_00_POKEMONTSUUSHIN_U.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2/146.webp",
+    "setName": "Space-Time Smackdown",
+    "releaseDate": "2025-01-29"
+  },
+  {
+    "id": "A2b-111",
+    "set": "A2b",
+    "number": 111,
+    "name": "Poké Ball",
+    "rarity": "UR",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "All"
+    ],
+    "packs": [
+      "Shining"
+    ],
+    "ex": false,
+    "image": "cTR_20_000030_00_MONSTERBALL_UR.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/111.webp",
+    "setName": "Shining Revelry",
+    "releaseDate": "2025-03-27"
+  },
+  {
+    "id": "A3-142",
+    "set": "A3",
+    "number": 142,
+    "name": "Big Malasada",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "All"
+    ],
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ],
+    "ex": false,
+    "image": "cTR_10_000460_00_OOKIIMARASADA_U.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3/142.webp",
+    "setName": "Celestial Guardians",
+    "releaseDate": "2025-04-30"
+  },
+  {
+    "id": "A3-143",
+    "set": "A3",
+    "number": 143,
+    "name": "Fishing Net",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "Water"
+    ],
+    "packs": [
+      "Lunala"
+    ],
+    "ex": false,
+    "image": "cTR_10_000470_00_OSAKANANETTO_U.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3/143.webp",
+    "setName": "Celestial Guardians",
+    "releaseDate": "2025-04-30"
+  },
+  {
+    "id": "A3-144",
+    "set": "A3",
+    "number": 144,
+    "name": "Rare Candy",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "Stage2"
+    ],
+    "packs": [
+      "Solgaleo",
+      "Lunala"
+    ],
+    "ex": false,
+    "image": "cTR_10_000480_00_FUSHIGINAAME_U.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3/144.webp",
+    "setName": "Celestial Guardians",
+    "releaseDate": "2025-04-30"
+  },
+  {
+    "id": "A3-145",
+    "set": "A3",
+    "number": 145,
+    "name": "Rotom Dex",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "All"
+    ],
+    "packs": [
+      "Solgaleo"
+    ],
+    "ex": false,
+    "image": "cTR_10_000490_00_ROTOMUZUKAN_U.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3/145.webp",
+    "setName": "Celestial Guardians",
+    "releaseDate": "2025-04-30"
+  },
+  {
+    "id": "A3a-063",
+    "set": "A3a",
+    "number": 63,
+    "name": "Beast Wall",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "UltraBeast"
+    ],
+    "packs": [
+      "Extradimensional"
+    ],
+    "ex": false,
+    "image": "cTR_10_000600_00_BISUTOWORU_U.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3a/63.webp",
+    "setName": "Extradimensional Crisis",
+    "releaseDate": "2025-05-29"
+  },
+  {
+    "id": "A3a-064",
+    "set": "A3a",
+    "number": 64,
+    "name": "Repel",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "All"
+    ],
+    "packs": [
+      "Extradimensional"
+    ],
+    "ex": false,
+    "image": "cTR_10_000610_00_MUSHIYOKESUPUREI_U.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3a/64.webp",
+    "setName": "Extradimensional Crisis",
+    "releaseDate": "2025-05-29"
+  },
+  {
+    "id": "A3b-066",
+    "set": "A3b",
+    "number": 66,
+    "name": "Eevee Bag",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "Eevee"
+    ],
+    "packs": [
+      "Eevee"
+    ],
+    "ex": false,
+    "image": "cTR_10_000670_00_IIBUINOBAKKU_U.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/66.webp",
+    "setName": "Eevee Grove",
+    "releaseDate": "2025-06-26"
+  },
+  {
+    "id": "A3b-107",
+    "set": "A3b",
+    "number": 107,
+    "name": "Eevee Bag",
+    "rarity": "UR",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "Eevee"
+    ],
+    "packs": [
+      "Eevee"
+    ],
+    "ex": false,
+    "image": "cTR_20_000670_00_IIBUINOBAKKU_UR.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/107.webp",
+    "setName": "Eevee Grove",
+    "releaseDate": "2025-06-26"
+  },
+  {
+    "id": "A4-151",
+    "set": "A4",
+    "number": 151,
+    "name": "Elemental Switch",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "Fire",
+      "Water",
+      "Lightning"
+    ],
+    "packs": [
+      "Lugia"
+    ],
+    "ex": false,
+    "image": "cTR_10_000710_00_EREMENTARUTSUKEKAE_U.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4/151.webp",
+    "setName": "Wisdom of Sea and Sky",
+    "releaseDate": "2025-07-30"
+  },
+  {
+    "id": "A4-152",
+    "set": "A4",
+    "number": 152,
+    "name": "Squirt Bottle",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "All"
+    ],
+    "packs": [
+      "Lugia"
+    ],
+    "ex": false,
+    "image": "cTR_10_000720_00_ZEHIGAMEJOURO_U.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4/152.webp",
+    "setName": "Wisdom of Sea and Sky",
+    "releaseDate": "2025-07-30"
+  },
+  {
+    "id": "A4b-308",
+    "set": "A4b",
+    "number": 308,
+    "name": "Eevee Bag",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "Eevee"
+    ],
+    "packs": [
+      "Deluxe"
+    ],
+    "ex": false,
+    "image": "A4b_308.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4b/308.webp",
+    "setName": "Deluxe Pack: ex",
+    "releaseDate": "2025-09-30"
+  },
+  {
+    "id": "A4b-309",
+    "set": "A4b",
+    "number": 309,
+    "name": "Eevee Bag",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "Eevee"
+    ],
+    "packs": [
+      "Deluxe"
+    ],
+    "ex": false,
+    "image": "A4b_309.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4b/309.webp",
+    "setName": "Deluxe Pack: ex",
+    "releaseDate": "2025-09-30"
+  },
+  {
+    "id": "A4b-310",
+    "set": "A4b",
+    "number": 310,
+    "name": "Elemental Switch",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "Fire",
+      "Water",
+      "Lightning"
+    ],
+    "packs": [
+      "Deluxe"
+    ],
+    "ex": false,
+    "image": "A4b_310.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4b/310.webp",
+    "setName": "Deluxe Pack: ex",
+    "releaseDate": "2025-09-30"
+  },
+  {
+    "id": "A4b-311",
+    "set": "A4b",
+    "number": 311,
+    "name": "Elemental Switch",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "Fire",
+      "Water",
+      "Lightning"
+    ],
+    "packs": [
+      "Deluxe"
+    ],
+    "ex": false,
+    "image": "A4b_311.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4b/311.webp",
+    "setName": "Deluxe Pack: ex",
+    "releaseDate": "2025-09-30"
+  },
+  {
+    "id": "A4b-314",
+    "set": "A4b",
+    "number": 314,
+    "name": "Rare Candy",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "Stage2"
+    ],
+    "packs": [
+      "Deluxe"
+    ],
+    "ex": false,
+    "image": "A4b_314.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4b/314.webp",
+    "setName": "Deluxe Pack: ex",
+    "releaseDate": "2025-09-30"
+  },
+  {
+    "id": "A4b-315",
+    "set": "A4b",
+    "number": 315,
+    "name": "Rare Candy",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "Stage2"
+    ],
+    "packs": [
+      "Deluxe"
+    ],
+    "ex": false,
+    "image": "A4b_315.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4b/315.webp",
+    "setName": "Deluxe Pack: ex",
+    "releaseDate": "2025-09-30"
+  },
+  {
+    "id": "A4b-316",
+    "set": "A4b",
+    "number": 316,
+    "name": "Pokémon Communication",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "All"
+    ],
+    "packs": [
+      "Deluxe"
+    ],
+    "ex": false,
+    "image": "A4b_316.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4b/316.webp",
+    "setName": "Deluxe Pack: ex",
+    "releaseDate": "2025-09-30"
+  },
+  {
+    "id": "A4b-317",
+    "set": "A4b",
+    "number": 317,
+    "name": "Pokémon Communication",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "All"
+    ],
+    "packs": [
+      "Deluxe"
+    ],
+    "ex": false,
+    "image": "A4b_317.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4b/317.webp",
+    "setName": "Deluxe Pack: ex",
+    "releaseDate": "2025-09-30"
+  },
+  {
+    "id": "A4b-379",
+    "set": "A4b",
+    "number": 379,
+    "name": "Rare Candy",
+    "rarity": "UR",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "Stage2"
+    ],
+    "packs": [
+      "Deluxe"
+    ],
+    "ex": false,
+    "image": "A4b_379.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4b/379.webp",
+    "setName": "Deluxe Pack: ex",
+    "releaseDate": "2025-09-30"
+  },
+  {
+    "id": "B1-213",
+    "set": "B1",
+    "number": 213,
+    "name": "Prank Spinner",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "All"
+    ],
+    "packs": [
+      "Mega Blaziken"
+    ],
+    "ex": false,
+    "image": "cTR_10_000870_00_ITAZURAROULETTE_U.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/213.webp",
+    "setName": "Mega Rising",
+    "releaseDate": "2025-10-30"
+  },
+  {
+    "id": "B1-215",
+    "set": "B1",
+    "number": 215,
+    "name": "Hitting Hammer",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "All"
+    ],
+    "packs": [
+      "Mega Gyarados"
+    ],
+    "ex": false,
+    "image": "cTR_10_000890_00_HITHAMMER_U.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/215.webp",
+    "setName": "Mega Rising",
+    "releaseDate": "2025-10-30"
+  },
+  {
+    "id": "B1-217",
+    "set": "B1",
+    "number": 217,
+    "name": "Flame Patch",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "Fire"
+    ],
+    "packs": [
+      "Mega Blaziken"
+    ],
+    "ex": false,
+    "image": "cTR_10_000910_00_FUREIMUPACCHI_U.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/217.webp",
+    "setName": "Mega Rising",
+    "releaseDate": "2025-10-30"
+  },
+  {
+    "id": "B1-331",
+    "set": "B1",
+    "number": 331,
+    "name": "Flame Patch",
+    "rarity": "UR",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [
+      "Fire"
+    ],
+    "packs": [
+      "Mega Altaria",
+      "Mega Blaziken",
+      "Mega Gyarados"
+    ],
+    "ex": false,
+    "image": "cTR_20_000910_00_FUREIMUPACCHI_UR.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/331.webp",
+    "setName": "Mega Rising",
+    "releaseDate": "2025-10-30"
+  },
+  {
+    "id": "B1a-066",
+    "set": "B1a",
+    "number": 66,
+    "name": "Clemont’s Backpack",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Crimson Blaze"
+    ],
+    "ex": false,
+    "image": "cTR_10_001010_00_CITRONNORYUKKU_U.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1a/66.webp",
+    "setName": "Crimson Blaze",
+    "releaseDate": "2025-12-17"
+  },
+  {
+    "id": "B1a-067",
+    "set": "B1a",
+    "number": 67,
+    "name": "Quick-Grow Extract",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Crimson Blaze"
+    ],
+    "ex": false,
+    "image": "cTR_10_001020_00_SOUJYUKUEKISU_U.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1a/67.webp",
+    "setName": "Crimson Blaze",
+    "releaseDate": "2025-12-17"
+  },
+  {
+    "id": "B1a-103",
+    "set": "B1a",
+    "number": 103,
+    "name": "Quick-Grow Extract",
+    "rarity": "UR",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Crimson Blaze"
+    ],
+    "ex": false,
+    "image": "cTR_20_001020_00_SOUJYUKUEKISU_UR.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1a/103.webp",
+    "setName": "Crimson Blaze",
+    "releaseDate": "2025-12-17"
+  },
+  {
+    "id": "PROMO-A-001",
     "set": "PROMO-A",
     "number": 1,
     "name": "Potion",
-    "rarity": "promo",
-    "element": "item",
-    "type": "pokemon",
+    "rarity": "C",
+    "element": null,
+    "type": "item",
     "stage": null,
     "health": null,
     "retreatCost": null,
     "weakness": null,
+    "goodWith": [
+      "All"
+    ],
     "packs": [
-      "promo"
+      "Vol. 1",
+      "Vol. 2",
+      "Vol. 3",
+      "Vol. 4",
+      "Vol. 5",
+      "Vol. 6",
+      "Vol. 7",
+      "Vol. 8",
+      "Vol. 9",
+      "Vol. 10",
+      "Vol. 11",
+      "Vol. 12",
+      "Vol. 13"
     ],
     "ex": false,
-    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_001_EN.webp"
+    "image": "cTR_90_000010_00_KIZUGUSURI_C.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/PROMO-A/1.webp",
+    "setName": "Promo A",
+    "releaseDate": "2024-10-30"
   },
   {
-    "id": "Promo-A_2",
+    "id": "PROMO-A-002",
     "set": "PROMO-A",
     "number": 2,
     "name": "X Speed",
-    "rarity": "promo",
-    "element": "item",
-    "type": "pokemon",
+    "rarity": "C",
+    "element": null,
+    "type": "item",
     "stage": null,
     "health": null,
     "retreatCost": null,
     "weakness": null,
+    "goodWith": [
+      "All"
+    ],
     "packs": [
-      "promo"
+      "Vol. 1",
+      "Vol. 2",
+      "Vol. 3",
+      "Vol. 4",
+      "Vol. 5",
+      "Vol. 6",
+      "Vol. 7",
+      "Vol. 8",
+      "Vol. 9",
+      "Vol. 10",
+      "Vol. 11",
+      "Vol. 12",
+      "Vol. 13"
     ],
     "ex": false,
-    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_002_EN.webp"
+    "image": "cTR_90_000020_00_SPEEDER_C.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/PROMO-A/2.webp",
+    "setName": "Promo A",
+    "releaseDate": "2024-10-30"
   },
   {
-    "id": "Promo-A_3",
+    "id": "PROMO-A-003",
     "set": "PROMO-A",
     "number": 3,
     "name": "Hand Scope",
-    "rarity": "promo",
-    "element": "item",
-    "type": "pokemon",
+    "rarity": "C",
+    "element": null,
+    "type": "item",
     "stage": null,
     "health": null,
     "retreatCost": null,
     "weakness": null,
+    "goodWith": [
+      "All"
+    ],
     "packs": [
-      "promo"
+      "Vol. 1",
+      "Vol. 2",
+      "Vol. 3",
+      "Vol. 4",
+      "Vol. 5",
+      "Vol. 6",
+      "Vol. 7",
+      "Vol. 8",
+      "Vol. 9",
+      "Vol. 10",
+      "Vol. 11",
+      "Vol. 12",
+      "Vol. 13"
     ],
     "ex": false,
-    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_003_EN.webp"
+    "image": "cTR_90_000050_00_HANDSCOPE_C.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/PROMO-A/3.webp",
+    "setName": "Promo A",
+    "releaseDate": "2024-10-30"
   },
   {
-    "id": "Promo-A_4",
+    "id": "PROMO-A-004",
     "set": "PROMO-A",
     "number": 4,
     "name": "Pokédex",
-    "rarity": "promo",
-    "element": "item",
-    "type": "pokemon",
+    "rarity": "C",
+    "element": null,
+    "type": "item",
     "stage": null,
     "health": null,
     "retreatCost": null,
     "weakness": null,
+    "goodWith": [
+      "All"
+    ],
     "packs": [
-      "promo"
+      "Vol. 1",
+      "Vol. 2",
+      "Vol. 3",
+      "Vol. 4",
+      "Vol. 5",
+      "Vol. 6",
+      "Vol. 7",
+      "Vol. 8",
+      "Vol. 9",
+      "Vol. 10",
+      "Vol. 11",
+      "Vol. 12",
+      "Vol. 13"
     ],
     "ex": false,
-    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_004_EN.webp"
+    "image": "cTR_90_000060_00_POKEMONZUKAN_C.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/PROMO-A/4.webp",
+    "setName": "Promo A",
+    "releaseDate": "2024-10-30"
   },
   {
-    "id": "Promo-A_5",
+    "id": "PROMO-A-005",
     "set": "PROMO-A",
     "number": 5,
     "name": "Poké Ball",
-    "rarity": "promo",
-    "element": "item",
-    "type": "pokemon",
+    "rarity": "C",
+    "element": null,
+    "type": "item",
     "stage": null,
     "health": null,
     "retreatCost": null,
     "weakness": null,
+    "goodWith": [
+      "All"
+    ],
     "packs": [
-      "promo"
+      "Vol. 1",
+      "Vol. 2",
+      "Vol. 3",
+      "Vol. 4",
+      "Vol. 5",
+      "Vol. 6",
+      "Vol. 7",
+      "Vol. 8",
+      "Vol. 9",
+      "Vol. 10",
+      "Vol. 11",
+      "Vol. 12",
+      "Vol. 13"
     ],
     "ex": false,
-    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_005_EN.webp"
+    "image": "cTR_90_000030_00_MONSTERBALL_C.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/PROMO-A/5.webp",
+    "setName": "Promo A",
+    "releaseDate": "2024-10-30"
   },
   {
-    "id": "Promo-A_6",
+    "id": "PROMO-A-006",
     "set": "PROMO-A",
     "number": 6,
     "name": "Red Card",
-    "rarity": "promo",
-    "element": "item",
-    "type": "pokemon",
+    "rarity": "C",
+    "element": null,
+    "type": "item",
     "stage": null,
     "health": null,
     "retreatCost": null,
     "weakness": null,
+    "goodWith": [
+      "All"
+    ],
     "packs": [
-      "promo"
+      "Vol. 1",
+      "Vol. 2",
+      "Vol. 3",
+      "Vol. 4",
+      "Vol. 5",
+      "Vol. 6",
+      "Vol. 7",
+      "Vol. 8",
+      "Vol. 9",
+      "Vol. 10",
+      "Vol. 11",
+      "Vol. 12",
+      "Vol. 13"
     ],
     "ex": false,
-    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_006_EN.webp"
+    "image": "cTR_90_000070_00_REDCARD_C.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/PROMO-A/6.webp",
+    "setName": "Promo A",
+    "releaseDate": "2024-10-30"
   },
   {
-    "id": "Promo-A_8",
+    "id": "PROMO-A-008",
     "set": "PROMO-A",
     "number": 8,
     "name": "Pokédex",
-    "rarity": "promo",
-    "element": "item",
-    "type": "pokemon",
+    "rarity": "C",
+    "element": null,
+    "type": "item",
     "stage": null,
     "health": null,
     "retreatCost": null,
     "weakness": null,
+    "goodWith": [
+      "All"
+    ],
     "packs": [
-      "promo"
+      "Vol. 1",
+      "Vol. 2",
+      "Vol. 3",
+      "Vol. 4",
+      "Vol. 5",
+      "Vol. 6",
+      "Vol. 7",
+      "Vol. 8",
+      "Vol. 9",
+      "Vol. 10",
+      "Vol. 11",
+      "Vol. 12",
+      "Vol. 13"
     ],
     "ex": false,
-    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_008_EN.webp"
+    "image": "cTR_90_000060_01_POKEMONZUKAN_C.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/PROMO-A/8.webp",
+    "setName": "Promo A",
+    "releaseDate": "2024-10-30"
   }
 ]

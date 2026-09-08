@@ -1,0 +1,222 @@
+[
+  {
+    "id": "A1-216",
+    "set": "A1",
+    "number": 216,
+    "name": "Helix Fossil",
+    "rarity": "C",
+    "element": null,
+    "type": "Fossil",
+    "stage": "basic",
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Pikachu"
+    ],
+    "ex": false,
+    "image": "cTR_10_000080_00_KAINOKASEKI_C.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1/216.webp",
+    "setName": "Genes Formidables",
+    "releaseDate": "2024-10-30"
+  },
+  {
+    "id": "A1-217",
+    "set": "A1",
+    "number": 217,
+    "name": "Dome Fossil",
+    "rarity": "C",
+    "element": null,
+    "type": "Fossil",
+    "stage": "basic",
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Charizard"
+    ],
+    "ex": false,
+    "image": "cTR_10_000090_00_KOURANOKASEKI_C.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1/217.webp",
+    "setName": "Genes Formidables",
+    "releaseDate": "2024-10-30"
+  },
+  {
+    "id": "A1-218",
+    "set": "A1",
+    "number": 218,
+    "name": "Old Amber",
+    "rarity": "C",
+    "element": null,
+    "type": "Fossil",
+    "stage": "basic",
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Mewtwo"
+    ],
+    "ex": false,
+    "image": "cTR_10_000100_00_HIMITSUNOKOHAKU_C.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1/218.webp",
+    "setName": "Genes Formidables",
+    "releaseDate": "2024-10-30"
+  },
+  {
+    "id": "A1a-063",
+    "set": "A1a",
+    "number": 63,
+    "name": "Old Amber",
+    "rarity": "C",
+    "element": null,
+    "type": "Fossil",
+    "stage": "basic",
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Mew"
+    ],
+    "ex": false,
+    "image": "cTR_10_000100_00_HIMITSUNOKOHAKU_C.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/63.webp",
+    "setName": "La Isla Singular",
+    "releaseDate": "2024-12-17"
+  },
+  {
+    "id": "A2-144",
+    "set": "A2",
+    "number": 144,
+    "name": "Skull Fossil",
+    "rarity": "C",
+    "element": null,
+    "type": "Fossil",
+    "stage": "basic",
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Dialga"
+    ],
+    "ex": false,
+    "image": "cTR_10_000260_00_ZUGAINOKASEKI_C.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2/144.webp",
+    "setName": "Space-Time Smackdown",
+    "releaseDate": "2025-01-29"
+  },
+  {
+    "id": "A2-145",
+    "set": "A2",
+    "number": 145,
+    "name": "Armor Fossil",
+    "rarity": "C",
+    "element": null,
+    "type": "Fossil",
+    "stage": "basic",
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Palkia"
+    ],
+    "ex": false,
+    "image": "cTR_10_000270_00_TATENOKASEKI_C.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2/145.webp",
+    "setName": "Space-Time Smackdown",
+    "releaseDate": "2025-01-29"
+  },
+  {
+    "id": "A4b-312",
+    "set": "A4b",
+    "number": 312,
+    "name": "Old Amber",
+    "rarity": "C",
+    "element": null,
+    "type": "Fossil",
+    "stage": "basic",
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Deluxe"
+    ],
+    "ex": false,
+    "image": "A4b_312.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4b/312.webp",
+    "setName": "Deluxe Pack: ex",
+    "releaseDate": "2025-09-30"
+  },
+  {
+    "id": "A4b-313",
+    "set": "A4b",
+    "number": 313,
+    "name": "Old Amber",
+    "rarity": "C",
+    "element": null,
+    "type": "Fossil",
+    "stage": "basic",
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Deluxe"
+    ],
+    "ex": false,
+    "image": "A4b_313.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4b/313.webp",
+    "setName": "Deluxe Pack: ex",
+    "releaseDate": "2025-09-30"
+  },
+  {
+    "id": "B1-214",
+    "set": "B1",
+    "number": 214,
+    "name": "Plume Fossil",
+    "rarity": "C",
+    "element": null,
+    "type": "Fossil",
+    "stage": "basic",
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Mega Blaziken"
+    ],
+    "ex": false,
+    "image": "cTR_10_000880_00_HANENOKASEKI_C.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/214.webp",
+    "setName": "Mega Rising",
+    "releaseDate": "2025-10-30"
+  },
+  {
+    "id": "B1-216",
+    "set": "B1",
+    "number": 216,
+    "name": "Cover Fossil",
+    "rarity": "C",
+    "element": null,
+    "type": "Fossil",
+    "stage": "basic",
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Mega Gyarados"
+    ],
+    "ex": false,
+    "image": "cTR_10_000900_00_FUTANOKASEKI_C.webp",
+    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/216.webp",
+    "setName": "Mega Rising",
+    "releaseDate": "2025-10-30"
+  }
+]
