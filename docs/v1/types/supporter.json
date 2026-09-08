@@ -1,0 +1,20 @@
+[
+  {
+    "id": "Promo-A_7",
+    "set": "PROMO-A",
+    "number": 7,
+    "name": "Professor's Research",
+    "rarity": "promo",
+    "element": "supporter",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_007_EN.webp"
+  }
+]

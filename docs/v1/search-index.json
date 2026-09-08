@@ -1,0 +1,3647 @@
+[
+  {
+    "id": "A1_001",
+    "name": "Bulbasaur",
+    "set": "A1",
+    "number": 1,
+    "rarity": "1Diamond",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1_002",
+    "name": "Ivysaur",
+    "set": "A1",
+    "number": 2,
+    "rarity": "2Diamond",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1_003",
+    "name": "Venusaur",
+    "set": "A1",
+    "number": 3,
+    "rarity": "3Diamond",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1_004",
+    "name": "Venusaur ex",
+    "set": "A1",
+    "number": 4,
+    "rarity": "4Diamond",
+    "element": "grass",
+    "ex": true
+  },
+  {
+    "id": "A1_005",
+    "name": "Caterpie",
+    "set": "A1",
+    "number": 5,
+    "rarity": "1Diamond",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1_006",
+    "name": "Metapod",
+    "set": "A1",
+    "number": 6,
+    "rarity": "1Diamond",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1_007",
+    "name": "Butterfree",
+    "set": "A1",
+    "number": 7,
+    "rarity": "3Diamond",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1_008",
+    "name": "Weedle",
+    "set": "A1",
+    "number": 8,
+    "rarity": "1Diamond",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1_009",
+    "name": "Kakuna",
+    "set": "A1",
+    "number": 9,
+    "rarity": "1Diamond",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1_010",
+    "name": "Beedrill",
+    "set": "A1",
+    "number": 10,
+    "rarity": "3Diamond",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1_011",
+    "name": "Oddish",
+    "set": "A1",
+    "number": 11,
+    "rarity": "1Diamond",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1_012",
+    "name": "Gloom",
+    "set": "A1",
+    "number": 12,
+    "rarity": "2Diamond",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1_013",
+    "name": "Vileplume",
+    "set": "A1",
+    "number": 13,
+    "rarity": "3Diamond",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1_014",
+    "name": "Paras",
+    "set": "A1",
+    "number": 14,
+    "rarity": "1Diamond",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1_015",
+    "name": "Parasect",
+    "set": "A1",
+    "number": 15,
+    "rarity": "2Diamond",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1_016",
+    "name": "Venonat",
+    "set": "A1",
+    "number": 16,
+    "rarity": "1Diamond",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1_017",
+    "name": "Venomoth",
+    "set": "A1",
+    "number": 17,
+    "rarity": "2Diamond",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1_018",
+    "name": "Bellsprout",
+    "set": "A1",
+    "number": 18,
+    "rarity": "normal",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1_019",
+    "name": "Weepinbell",
+    "set": "A1",
+    "number": 19,
+    "rarity": "2Diamond",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1_020",
+    "name": "Victreebel",
+    "set": "A1",
+    "number": 20,
+    "rarity": "3Diamond",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1_021",
+    "name": "Exeggcute",
+    "set": "A1",
+    "number": 21,
+    "rarity": "normal",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1_022",
+    "name": "Exeggutor",
+    "set": "A1",
+    "number": 22,
+    "rarity": "3Diamond",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1_023",
+    "name": "Exeggutor ex",
+    "set": "A1",
+    "number": 23,
+    "rarity": "4Diamond",
+    "element": "grass",
+    "ex": true
+  },
+  {
+    "id": "A1_024",
+    "name": "Tangela",
+    "set": "A1",
+    "number": 24,
+    "rarity": "normal",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1_025",
+    "name": "Scyther",
+    "set": "A1",
+    "number": 25,
+    "rarity": "normal",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1_026",
+    "name": "Pinsir",
+    "set": "A1",
+    "number": 26,
+    "rarity": "2Diamond",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1_027",
+    "name": "Cottonee",
+    "set": "A1",
+    "number": 27,
+    "rarity": "normal",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1_028",
+    "name": "Whimsicott",
+    "set": "A1",
+    "number": 28,
+    "rarity": "2Diamond",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1_029",
+    "name": "Petilil",
+    "set": "A1",
+    "number": 29,
+    "rarity": "normal",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1_030",
+    "name": "Lilligant",
+    "set": "A1",
+    "number": 30,
+    "rarity": "2Diamond",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1_031",
+    "name": "Skiddo",
+    "set": "A1",
+    "number": 31,
+    "rarity": "normal",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1_032",
+    "name": "Gogoat",
+    "set": "A1",
+    "number": 32,
+    "rarity": "normal",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1_033",
+    "name": "Charmander",
+    "set": "A1",
+    "number": 33,
+    "rarity": "normal",
+    "element": "fire",
+    "ex": false
+  },
+  {
+    "id": "A1_034",
+    "name": "Charmeleon",
+    "set": "A1",
+    "number": 34,
+    "rarity": "2Diamond",
+    "element": "fire",
+    "ex": false
+  },
+  {
+    "id": "A1_035",
+    "name": "Charizard",
+    "set": "A1",
+    "number": 35,
+    "rarity": "3Diamond",
+    "element": "fire",
+    "ex": false
+  },
+  {
+    "id": "A1_036",
+    "name": "Charizard ex",
+    "set": "A1",
+    "number": 36,
+    "rarity": "4Diamond",
+    "element": "fire",
+    "ex": true
+  },
+  {
+    "id": "A1_037",
+    "name": "Vulpix",
+    "set": "A1",
+    "number": 37,
+    "rarity": "normal",
+    "element": "fire",
+    "ex": false
+  },
+  {
+    "id": "A1_038",
+    "name": "Ninetales",
+    "set": "A1",
+    "number": 38,
+    "rarity": "2Diamond",
+    "element": "fire",
+    "ex": false
+  },
+  {
+    "id": "A1_039",
+    "name": "Growlithe",
+    "set": "A1",
+    "number": 39,
+    "rarity": "normal",
+    "element": "fire",
+    "ex": false
+  },
+  {
+    "id": "A1_040",
+    "name": "Arcanine",
+    "set": "A1",
+    "number": 40,
+    "rarity": "3Diamond",
+    "element": "fire",
+    "ex": false
+  },
+  {
+    "id": "A1_041",
+    "name": "Arcanine ex",
+    "set": "A1",
+    "number": 41,
+    "rarity": "4Diamond",
+    "element": "fire",
+    "ex": true
+  },
+  {
+    "id": "A1_042",
+    "name": "Ponyta",
+    "set": "A1",
+    "number": 42,
+    "rarity": "normal",
+    "element": "fire",
+    "ex": false
+  },
+  {
+    "id": "A1_043",
+    "name": "Rapidash",
+    "set": "A1",
+    "number": 43,
+    "rarity": "2Diamond",
+    "element": "fire",
+    "ex": false
+  },
+  {
+    "id": "A1_044",
+    "name": "Magmar",
+    "set": "A1",
+    "number": 44,
+    "rarity": "normal",
+    "element": "fire",
+    "ex": false
+  },
+  {
+    "id": "A1_045",
+    "name": "Flareon",
+    "set": "A1",
+    "number": 45,
+    "rarity": "3Diamond",
+    "element": "fire",
+    "ex": false
+  },
+  {
+    "id": "A1_046",
+    "name": "Moltres",
+    "set": "A1",
+    "number": 46,
+    "rarity": "3Diamond",
+    "element": "fire",
+    "ex": false
+  },
+  {
+    "id": "A1_047",
+    "name": "Moltres ex",
+    "set": "A1",
+    "number": 47,
+    "rarity": "4Diamond",
+    "element": "fire",
+    "ex": true
+  },
+  {
+    "id": "A1_048",
+    "name": "Heatmor",
+    "set": "A1",
+    "number": 48,
+    "rarity": "normal",
+    "element": "fire",
+    "ex": false
+  },
+  {
+    "id": "A1_049",
+    "name": "Salandit",
+    "set": "A1",
+    "number": 49,
+    "rarity": "normal",
+    "element": "fire",
+    "ex": false
+  },
+  {
+    "id": "A1_050",
+    "name": "Salazzle",
+    "set": "A1",
+    "number": 50,
+    "rarity": "normal",
+    "element": "fire",
+    "ex": false
+  },
+  {
+    "id": "A1_051",
+    "name": "Sizzlipede",
+    "set": "A1",
+    "number": 51,
+    "rarity": "normal",
+    "element": "fire",
+    "ex": false
+  },
+  {
+    "id": "A1_052",
+    "name": "Centiskorch",
+    "set": "A1",
+    "number": 52,
+    "rarity": "2Diamond",
+    "element": "fire",
+    "ex": false
+  },
+  {
+    "id": "A1_053",
+    "name": "Squirtle",
+    "set": "A1",
+    "number": 53,
+    "rarity": "normal",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1_054",
+    "name": "Wartortle",
+    "set": "A1",
+    "number": 54,
+    "rarity": "2Diamond",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1_055",
+    "name": "Blastoise",
+    "set": "A1",
+    "number": 55,
+    "rarity": "3Diamond",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1_056",
+    "name": "Blastoise ex",
+    "set": "A1",
+    "number": 56,
+    "rarity": "4Diamond",
+    "element": "water",
+    "ex": true
+  },
+  {
+    "id": "A1_057",
+    "name": "Psyduck",
+    "set": "A1",
+    "number": 57,
+    "rarity": "normal",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1_058",
+    "name": "Golduck",
+    "set": "A1",
+    "number": 58,
+    "rarity": "2Diamond",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1_059",
+    "name": "Poliwag",
+    "set": "A1",
+    "number": 59,
+    "rarity": "normal",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1_060",
+    "name": "Poliwhirl",
+    "set": "A1",
+    "number": 60,
+    "rarity": "2Diamond",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1_061",
+    "name": "Poliwrath",
+    "set": "A1",
+    "number": 61,
+    "rarity": "3Diamond",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1_062",
+    "name": "Tentacool",
+    "set": "A1",
+    "number": 62,
+    "rarity": "normal",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1_063",
+    "name": "Tentacruel",
+    "set": "A1",
+    "number": 63,
+    "rarity": "2Diamond",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1_064",
+    "name": "Seel",
+    "set": "A1",
+    "number": 64,
+    "rarity": "normal",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1_065",
+    "name": "Dewgong",
+    "set": "A1",
+    "number": 65,
+    "rarity": "2Diamond",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1_066",
+    "name": "Shellder",
+    "set": "A1",
+    "number": 66,
+    "rarity": "normal",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1_067",
+    "name": "Cloyster",
+    "set": "A1",
+    "number": 67,
+    "rarity": "normal",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1_068",
+    "name": "Krabby",
+    "set": "A1",
+    "number": 68,
+    "rarity": "normal",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1_069",
+    "name": "Kingler",
+    "set": "A1",
+    "number": 69,
+    "rarity": "normal",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1_070",
+    "name": "Horsea",
+    "set": "A1",
+    "number": 70,
+    "rarity": "normal",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1_071",
+    "name": "Seadra",
+    "set": "A1",
+    "number": 71,
+    "rarity": "normal",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1_072",
+    "name": "Goldeen",
+    "set": "A1",
+    "number": 72,
+    "rarity": "normal",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1_073",
+    "name": "Seaking",
+    "set": "A1",
+    "number": 73,
+    "rarity": "normal",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1_074",
+    "name": "Staryu",
+    "set": "A1",
+    "number": 74,
+    "rarity": "normal",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1_075",
+    "name": "Starmie",
+    "set": "A1",
+    "number": 75,
+    "rarity": "normal",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1_076",
+    "name": "Starmie ex",
+    "set": "A1",
+    "number": 76,
+    "rarity": "4Diamond",
+    "element": "water",
+    "ex": true
+  },
+  {
+    "id": "A1_077",
+    "name": "Magikarp",
+    "set": "A1",
+    "number": 77,
+    "rarity": "normal",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1_078",
+    "name": "Gyarados",
+    "set": "A1",
+    "number": 78,
+    "rarity": "3Diamond",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1_079",
+    "name": "Lapras",
+    "set": "A1",
+    "number": 79,
+    "rarity": "3Diamond",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1_080",
+    "name": "Vaporeon",
+    "set": "A1",
+    "number": 80,
+    "rarity": "3Diamond",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1_081",
+    "name": "Omanyte",
+    "set": "A1",
+    "number": 81,
+    "rarity": "normal",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1_082",
+    "name": "Omastar",
+    "set": "A1",
+    "number": 82,
+    "rarity": "3Diamond",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1_083",
+    "name": "Articuno",
+    "set": "A1",
+    "number": 83,
+    "rarity": "3Diamond",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1_084",
+    "name": "Articuno ex",
+    "set": "A1",
+    "number": 84,
+    "rarity": "4Diamond",
+    "element": "undefined",
+    "ex": true
+  },
+  {
+    "id": "A1_085",
+    "name": "Ducklett",
+    "set": "A1",
+    "number": 85,
+    "rarity": "normal",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1_086",
+    "name": "Swanna",
+    "set": "A1",
+    "number": 86,
+    "rarity": "normal",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1_087",
+    "name": "Froakie",
+    "set": "A1",
+    "number": 87,
+    "rarity": "normal",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1_088",
+    "name": "Frogadier",
+    "set": "A1",
+    "number": 88,
+    "rarity": "normal",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1_089",
+    "name": "Greninja",
+    "set": "A1",
+    "number": 89,
+    "rarity": "3Diamond",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1_090",
+    "name": "Pyukumuku",
+    "set": "A1",
+    "number": 90,
+    "rarity": "normal",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1_091",
+    "name": "Bruxish",
+    "set": "A1",
+    "number": 91,
+    "rarity": "normal",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1_092",
+    "name": "Snom",
+    "set": "A1",
+    "number": 92,
+    "rarity": "normal",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1_093",
+    "name": "Frosmoth",
+    "set": "A1",
+    "number": 93,
+    "rarity": "normal",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1_094",
+    "name": "Pikachu",
+    "set": "A1",
+    "number": 94,
+    "rarity": "normal",
+    "element": "lightning",
+    "ex": false
+  },
+  {
+    "id": "A1_095",
+    "name": "Raichu",
+    "set": "A1",
+    "number": 95,
+    "rarity": "3Diamond",
+    "element": "lightning",
+    "ex": false
+  },
+  {
+    "id": "A1_096",
+    "name": "Pikachu ex",
+    "set": "A1",
+    "number": 96,
+    "rarity": "4Diamond",
+    "element": "lightning",
+    "ex": true
+  },
+  {
+    "id": "A1_097",
+    "name": "Magnemite",
+    "set": "A1",
+    "number": 97,
+    "rarity": "normal",
+    "element": "lightning",
+    "ex": false
+  },
+  {
+    "id": "A1_098",
+    "name": "Magneton",
+    "set": "A1",
+    "number": 98,
+    "rarity": "3Diamond",
+    "element": "lightning",
+    "ex": false
+  },
+  {
+    "id": "A1_099",
+    "name": "Voltorb",
+    "set": "A1",
+    "number": 99,
+    "rarity": "normal",
+    "element": "lightning",
+    "ex": false
+  },
+  {
+    "id": "A1_100",
+    "name": "Electrode",
+    "set": "A1",
+    "number": 100,
+    "rarity": "normal",
+    "element": "lightning",
+    "ex": false
+  },
+  {
+    "id": "A1_101",
+    "name": "Electabuzz",
+    "set": "A1",
+    "number": 101,
+    "rarity": "normal",
+    "element": "lightning",
+    "ex": false
+  },
+  {
+    "id": "A1_102",
+    "name": "Jolteon",
+    "set": "A1",
+    "number": 102,
+    "rarity": "3Diamond",
+    "element": "lightning",
+    "ex": false
+  },
+  {
+    "id": "A1_103",
+    "name": "Zapdos",
+    "set": "A1",
+    "number": 103,
+    "rarity": "3Diamond",
+    "element": "lightning",
+    "ex": false
+  },
+  {
+    "id": "A1_104",
+    "name": "Zapdos ex",
+    "set": "A1",
+    "number": 104,
+    "rarity": "4Diamond",
+    "element": "lightning",
+    "ex": true
+  },
+  {
+    "id": "A1_105",
+    "name": "Blitzle",
+    "set": "A1",
+    "number": 105,
+    "rarity": "normal",
+    "element": "lightning",
+    "ex": false
+  },
+  {
+    "id": "A1_106",
+    "name": "Zebstrika",
+    "set": "A1",
+    "number": 106,
+    "rarity": "normal",
+    "element": "lightning",
+    "ex": false
+  },
+  {
+    "id": "A1_107",
+    "name": "Tynamo",
+    "set": "A1",
+    "number": 107,
+    "rarity": "normal",
+    "element": "lightning",
+    "ex": false
+  },
+  {
+    "id": "A1_108",
+    "name": "Eelektrik",
+    "set": "A1",
+    "number": 108,
+    "rarity": "normal",
+    "element": "lightning",
+    "ex": false
+  },
+  {
+    "id": "A1_109",
+    "name": "Eelektross",
+    "set": "A1",
+    "number": 109,
+    "rarity": "3Diamond",
+    "element": "lightning",
+    "ex": false
+  },
+  {
+    "id": "A1_110",
+    "name": "Helioptile",
+    "set": "A1",
+    "number": 110,
+    "rarity": "normal",
+    "element": "lightning",
+    "ex": false
+  },
+  {
+    "id": "A1_111",
+    "name": "Heliolisk",
+    "set": "A1",
+    "number": 111,
+    "rarity": "normal",
+    "element": "lightning",
+    "ex": false
+  },
+  {
+    "id": "A1_112",
+    "name": "Pincurchin",
+    "set": "A1",
+    "number": 112,
+    "rarity": "normal",
+    "element": "lightning",
+    "ex": false
+  },
+  {
+    "id": "A1_113",
+    "name": "Clefairy",
+    "set": "A1",
+    "number": 113,
+    "rarity": "normal",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "A1_114",
+    "name": "Clefable",
+    "set": "A1",
+    "number": 114,
+    "rarity": "normal",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "A1_115",
+    "name": "Abra",
+    "set": "A1",
+    "number": 115,
+    "rarity": "normal",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "A1_116",
+    "name": "Kadabra",
+    "set": "A1",
+    "number": 116,
+    "rarity": "normal",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "A1_117",
+    "name": "Alakazam",
+    "set": "A1",
+    "number": 117,
+    "rarity": "3Diamond",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "A1_118",
+    "name": "Slowpoke",
+    "set": "A1",
+    "number": 118,
+    "rarity": "normal",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "A1_119",
+    "name": "Slowbro",
+    "set": "A1",
+    "number": 119,
+    "rarity": "normal",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "A1_120",
+    "name": "Gastly",
+    "set": "A1",
+    "number": 120,
+    "rarity": "normal",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "A1_121",
+    "name": "Haunter",
+    "set": "A1",
+    "number": 121,
+    "rarity": "normal",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "A1_122",
+    "name": "Gengar",
+    "set": "A1",
+    "number": 122,
+    "rarity": "3Diamond",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "A1_123",
+    "name": "Gengar ex",
+    "set": "A1",
+    "number": 123,
+    "rarity": "4Diamond",
+    "element": "psychic",
+    "ex": true
+  },
+  {
+    "id": "A1_124",
+    "name": "Drowzee",
+    "set": "A1",
+    "number": 124,
+    "rarity": "normal",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "A1_125",
+    "name": "Hypno",
+    "set": "A1",
+    "number": 125,
+    "rarity": "3Diamond",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "A1_126",
+    "name": "Mr. Mime",
+    "set": "A1",
+    "number": 126,
+    "rarity": "normal",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "A1_127",
+    "name": "Jynx",
+    "set": "A1",
+    "number": 127,
+    "rarity": "normal",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "A1_128",
+    "name": "Mewtwo",
+    "set": "A1",
+    "number": 128,
+    "rarity": "3Diamond",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "A1_129",
+    "name": "Mewtwo ex",
+    "set": "A1",
+    "number": 129,
+    "rarity": "4Diamond",
+    "element": "psychic",
+    "ex": true
+  },
+  {
+    "id": "A1_130",
+    "name": "Ralts",
+    "set": "A1",
+    "number": 130,
+    "rarity": "normal",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "A1_131",
+    "name": "Kirlia",
+    "set": "A1",
+    "number": 131,
+    "rarity": "normal",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "A1_132",
+    "name": "Gardevoir",
+    "set": "A1",
+    "number": 132,
+    "rarity": "3Diamond",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "A1_133",
+    "name": "Woobat",
+    "set": "A1",
+    "number": 133,
+    "rarity": "normal",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "A1_134",
+    "name": "Swoobat",
+    "set": "A1",
+    "number": 134,
+    "rarity": "normal",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "A1_135",
+    "name": "Golett",
+    "set": "A1",
+    "number": 135,
+    "rarity": "normal",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "A1_136",
+    "name": "Golurk",
+    "set": "A1",
+    "number": 136,
+    "rarity": "normal",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "A1_137",
+    "name": "Sandshrew",
+    "set": "A1",
+    "number": 137,
+    "rarity": "normal",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1_138",
+    "name": "Sandslash",
+    "set": "A1",
+    "number": 138,
+    "rarity": "normal",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1_139",
+    "name": "Diglett",
+    "set": "A1",
+    "number": 139,
+    "rarity": "normal",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1_140",
+    "name": "Dugtrio",
+    "set": "A1",
+    "number": 140,
+    "rarity": "normal",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1_141",
+    "name": "Mankey",
+    "set": "A1",
+    "number": 141,
+    "rarity": "normal",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1_142",
+    "name": "Primeape",
+    "set": "A1",
+    "number": 142,
+    "rarity": "normal",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1_143",
+    "name": "Machop",
+    "set": "A1",
+    "number": 143,
+    "rarity": "normal",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1_144",
+    "name": "Machoke",
+    "set": "A1",
+    "number": 144,
+    "rarity": "normal",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1_145",
+    "name": "Machamp",
+    "set": "A1",
+    "number": 145,
+    "rarity": "3Diamond",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1_146",
+    "name": "Machamp ex",
+    "set": "A1",
+    "number": 146,
+    "rarity": "4Diamond",
+    "element": "fighting",
+    "ex": true
+  },
+  {
+    "id": "A1_147",
+    "name": "Geodude",
+    "set": "A1",
+    "number": 147,
+    "rarity": "normal",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1_148",
+    "name": "Graveler",
+    "set": "A1",
+    "number": 148,
+    "rarity": "normal",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1_149",
+    "name": "Golem",
+    "set": "A1",
+    "number": 149,
+    "rarity": "3Diamond",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1_150",
+    "name": "Onix",
+    "set": "A1",
+    "number": 150,
+    "rarity": "normal",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1_151",
+    "name": "Cubone",
+    "set": "A1",
+    "number": 151,
+    "rarity": "normal",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1_152",
+    "name": "Marowak",
+    "set": "A1",
+    "number": 152,
+    "rarity": "normal",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1_153",
+    "name": "Marowak ex",
+    "set": "A1",
+    "number": 153,
+    "rarity": "4Diamond",
+    "element": "fighting",
+    "ex": true
+  },
+  {
+    "id": "A1_154",
+    "name": "Hitmonlee",
+    "set": "A1",
+    "number": 154,
+    "rarity": "normal",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1_155",
+    "name": "Hitmonchan",
+    "set": "A1",
+    "number": 155,
+    "rarity": "normal",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1_156",
+    "name": "Rhyhorn",
+    "set": "A1",
+    "number": 156,
+    "rarity": "normal",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1_157",
+    "name": "Rhydon",
+    "set": "A1",
+    "number": 157,
+    "rarity": "normal",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1_158",
+    "name": "Kabuto",
+    "set": "A1",
+    "number": 158,
+    "rarity": "normal",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1_159",
+    "name": "Kabutops",
+    "set": "A1",
+    "number": 159,
+    "rarity": "3Diamond",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1_160",
+    "name": "Mienfoo",
+    "set": "A1",
+    "number": 160,
+    "rarity": "normal",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1_161",
+    "name": "Mienshao",
+    "set": "A1",
+    "number": 161,
+    "rarity": "normal",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1_162",
+    "name": "Clobbopus",
+    "set": "A1",
+    "number": 162,
+    "rarity": "normal",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1_163",
+    "name": "Grapploct",
+    "set": "A1",
+    "number": 163,
+    "rarity": "normal",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1_164",
+    "name": "Ekans",
+    "set": "A1",
+    "number": 164,
+    "rarity": "normal",
+    "element": "darkness",
+    "ex": false
+  },
+  {
+    "id": "A1_165",
+    "name": "Arbok",
+    "set": "A1",
+    "number": 165,
+    "rarity": "normal",
+    "element": "darkness",
+    "ex": false
+  },
+  {
+    "id": "A1_166",
+    "name": "Nidoran ♀",
+    "set": "A1",
+    "number": 166,
+    "rarity": "normal",
+    "element": "darkness",
+    "ex": false
+  },
+  {
+    "id": "A1_167",
+    "name": "Nidorina",
+    "set": "A1",
+    "number": 167,
+    "rarity": "normal",
+    "element": "darkness",
+    "ex": false
+  },
+  {
+    "id": "A1_168",
+    "name": "Nidoqueen",
+    "set": "A1",
+    "number": 168,
+    "rarity": "3Diamond",
+    "element": "darkness",
+    "ex": false
+  },
+  {
+    "id": "A1_169",
+    "name": "Nidoran ♂",
+    "set": "A1",
+    "number": 169,
+    "rarity": "normal",
+    "element": "darkness",
+    "ex": false
+  },
+  {
+    "id": "A1_170",
+    "name": "Nidorino",
+    "set": "A1",
+    "number": 170,
+    "rarity": "normal",
+    "element": "darkness",
+    "ex": false
+  },
+  {
+    "id": "A1_171",
+    "name": "Nidoking",
+    "set": "A1",
+    "number": 171,
+    "rarity": "normal",
+    "element": "darkness",
+    "ex": false
+  },
+  {
+    "id": "A1_172",
+    "name": "Zubat",
+    "set": "A1",
+    "number": 172,
+    "rarity": "normal",
+    "element": "darkness",
+    "ex": false
+  },
+  {
+    "id": "A1_173",
+    "name": "Golbat",
+    "set": "A1",
+    "number": 173,
+    "rarity": "normal",
+    "element": "darkness",
+    "ex": false
+  },
+  {
+    "id": "A1_174",
+    "name": "Grimer",
+    "set": "A1",
+    "number": 174,
+    "rarity": "normal",
+    "element": "darkness",
+    "ex": false
+  },
+  {
+    "id": "A1_175",
+    "name": "Muk",
+    "set": "A1",
+    "number": 175,
+    "rarity": "normal",
+    "element": "darkness",
+    "ex": false
+  },
+  {
+    "id": "A1_176",
+    "name": "Koffing",
+    "set": "A1",
+    "number": 176,
+    "rarity": "normal",
+    "element": "darkness",
+    "ex": false
+  },
+  {
+    "id": "A1_177",
+    "name": "Weezing",
+    "set": "A1",
+    "number": 177,
+    "rarity": "normal",
+    "element": "darkness",
+    "ex": false
+  },
+  {
+    "id": "A1_178",
+    "name": "Mawile",
+    "set": "A1",
+    "number": 178,
+    "rarity": "normal",
+    "element": "metal",
+    "ex": false
+  },
+  {
+    "id": "A1_179",
+    "name": "Pawniard",
+    "set": "A1",
+    "number": 179,
+    "rarity": "normal",
+    "element": "metal",
+    "ex": false
+  },
+  {
+    "id": "A1_180",
+    "name": "Bisharp",
+    "set": "A1",
+    "number": 180,
+    "rarity": "normal",
+    "element": "metal",
+    "ex": false
+  },
+  {
+    "id": "A1_181",
+    "name": "Meltan",
+    "set": "A1",
+    "number": 181,
+    "rarity": "normal",
+    "element": "metal",
+    "ex": false
+  },
+  {
+    "id": "A1_182",
+    "name": "Melmetal",
+    "set": "A1",
+    "number": 182,
+    "rarity": "normal",
+    "element": "metal",
+    "ex": false
+  },
+  {
+    "id": "A1_183",
+    "name": "Dratini",
+    "set": "A1",
+    "number": 183,
+    "rarity": "normal",
+    "element": "dragon",
+    "ex": false
+  },
+  {
+    "id": "A1_184",
+    "name": "Dragonair",
+    "set": "A1",
+    "number": 184,
+    "rarity": "normal",
+    "element": "dragon",
+    "ex": false
+  },
+  {
+    "id": "A1_185",
+    "name": "Dragonite",
+    "set": "A1",
+    "number": 185,
+    "rarity": "normal",
+    "element": "dragon",
+    "ex": false
+  },
+  {
+    "id": "A1_186",
+    "name": "Pidgey",
+    "set": "A1",
+    "number": 186,
+    "rarity": "normal",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1_187",
+    "name": "Pidgeotto",
+    "set": "A1",
+    "number": 187,
+    "rarity": "normal",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1_188",
+    "name": "Pidgeot",
+    "set": "A1",
+    "number": 188,
+    "rarity": "normal",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1_189",
+    "name": "Rattata",
+    "set": "A1",
+    "number": 189,
+    "rarity": "normal",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1_190",
+    "name": "Raticate",
+    "set": "A1",
+    "number": 190,
+    "rarity": "normal",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1_191",
+    "name": "Spearow",
+    "set": "A1",
+    "number": 191,
+    "rarity": "normal",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1_192",
+    "name": "Fearow",
+    "set": "A1",
+    "number": 192,
+    "rarity": "normal",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1_193",
+    "name": "Jigglypuff",
+    "set": "A1",
+    "number": 193,
+    "rarity": "normal",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1_194",
+    "name": "Wigglytuff",
+    "set": "A1",
+    "number": 194,
+    "rarity": "normal",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1_195",
+    "name": "Wigglytuff ex",
+    "set": "A1",
+    "number": 195,
+    "rarity": "4Diamond",
+    "element": "colorless",
+    "ex": true
+  },
+  {
+    "id": "A1_196",
+    "name": "Meowth",
+    "set": "A1",
+    "number": 196,
+    "rarity": "normal",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1_197",
+    "name": "Persian",
+    "set": "A1",
+    "number": 197,
+    "rarity": "normal",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1_198",
+    "name": "Farfetch'd",
+    "set": "A1",
+    "number": 198,
+    "rarity": "normal",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1_199",
+    "name": "Doduo",
+    "set": "A1",
+    "number": 199,
+    "rarity": "normal",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1_200",
+    "name": "Dodrio",
+    "set": "A1",
+    "number": 200,
+    "rarity": "normal",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1_201",
+    "name": "Lickitung",
+    "set": "A1",
+    "number": 201,
+    "rarity": "normal",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1_202",
+    "name": "Chansey",
+    "set": "A1",
+    "number": 202,
+    "rarity": "normal",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1_203",
+    "name": "Kangaskhan",
+    "set": "A1",
+    "number": 203,
+    "rarity": "normal",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1_204",
+    "name": "Tauros",
+    "set": "A1",
+    "number": 204,
+    "rarity": "normal",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1_205",
+    "name": "Ditto",
+    "set": "A1",
+    "number": 205,
+    "rarity": "normal",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1_206",
+    "name": "Eevee",
+    "set": "A1",
+    "number": 206,
+    "rarity": "normal",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1_207",
+    "name": "Eevee",
+    "set": "A1",
+    "number": 207,
+    "rarity": "normal",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1_208",
+    "name": "Eevee",
+    "set": "A1",
+    "number": 208,
+    "rarity": "normal",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1_209",
+    "name": "Porygon",
+    "set": "A1",
+    "number": 209,
+    "rarity": "normal",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1_210",
+    "name": "Aerodactyl",
+    "set": "A1",
+    "number": 210,
+    "rarity": "normal",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1_211",
+    "name": "Snorlax",
+    "set": "A1",
+    "number": 211,
+    "rarity": "normal",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1_212",
+    "name": "Minccino",
+    "set": "A1",
+    "number": 212,
+    "rarity": "normal",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1_213",
+    "name": "Cinccino",
+    "set": "A1",
+    "number": 213,
+    "rarity": "normal",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1_214",
+    "name": "Wooloo",
+    "set": "A1",
+    "number": 214,
+    "rarity": "normal",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1_215",
+    "name": "Dubwool",
+    "set": "A1",
+    "number": 215,
+    "rarity": "normal",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1_216",
+    "name": "Helix Fossil",
+    "set": "A1",
+    "number": 216,
+    "rarity": "normal",
+    "element": "trainer",
+    "ex": false
+  },
+  {
+    "id": "A1_217",
+    "name": "Dome Fossil",
+    "set": "A1",
+    "number": 217,
+    "rarity": "normal",
+    "element": "trainer",
+    "ex": false
+  },
+  {
+    "id": "A1_218",
+    "name": "Old Amber",
+    "set": "A1",
+    "number": 218,
+    "rarity": "normal",
+    "element": "trainer",
+    "ex": false
+  },
+  {
+    "id": "A1_219",
+    "name": "Erika",
+    "set": "A1",
+    "number": 219,
+    "rarity": "normal",
+    "element": "trainer",
+    "ex": false
+  },
+  {
+    "id": "A1_220",
+    "name": "Misty",
+    "set": "A1",
+    "number": 220,
+    "rarity": "normal",
+    "element": "trainer",
+    "ex": false
+  },
+  {
+    "id": "A1_221",
+    "name": "Blaine",
+    "set": "A1",
+    "number": 221,
+    "rarity": "normal",
+    "element": "trainer",
+    "ex": false
+  },
+  {
+    "id": "A1_222",
+    "name": "Koga",
+    "set": "A1",
+    "number": 222,
+    "rarity": "normal",
+    "element": "trainer",
+    "ex": false
+  },
+  {
+    "id": "A1_223",
+    "name": "Giovanni",
+    "set": "A1",
+    "number": 223,
+    "rarity": "normal",
+    "element": "trainer",
+    "ex": false
+  },
+  {
+    "id": "A1_224",
+    "name": "Brock",
+    "set": "A1",
+    "number": 224,
+    "rarity": "normal",
+    "element": "trainer",
+    "ex": false
+  },
+  {
+    "id": "A1_225",
+    "name": "Sabrina",
+    "set": "A1",
+    "number": 225,
+    "rarity": "normal",
+    "element": "trainer",
+    "ex": false
+  },
+  {
+    "id": "A1_226",
+    "name": "Lt. Surge",
+    "set": "A1",
+    "number": 226,
+    "rarity": "normal",
+    "element": "trainer",
+    "ex": false
+  },
+  {
+    "id": "A1_227",
+    "name": "Bulbasaur",
+    "set": "A1",
+    "number": 227,
+    "rarity": "1Star",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1_228",
+    "name": "Gloom",
+    "set": "A1",
+    "number": 228,
+    "rarity": "1Star",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1_229",
+    "name": "Pinsir",
+    "set": "A1",
+    "number": 229,
+    "rarity": "1Star",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1_230",
+    "name": "Charmander",
+    "set": "A1",
+    "number": 230,
+    "rarity": "1Star",
+    "element": "fire",
+    "ex": false
+  },
+  {
+    "id": "A1_231",
+    "name": "Rapidash",
+    "set": "A1",
+    "number": 231,
+    "rarity": "1Star",
+    "element": "fire",
+    "ex": false
+  },
+  {
+    "id": "A1_232",
+    "name": "Squirtle",
+    "set": "A1",
+    "number": 232,
+    "rarity": "1Star",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1_233",
+    "name": "Gyarados",
+    "set": "A1",
+    "number": 233,
+    "rarity": "1Star",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1_234",
+    "name": "Lapras",
+    "set": "A1",
+    "number": 234,
+    "rarity": "1Star",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1_235",
+    "name": "Electrode",
+    "set": "A1",
+    "number": 235,
+    "rarity": "1Star",
+    "element": "lightning",
+    "ex": false
+  },
+  {
+    "id": "A1_236",
+    "name": "Alakazam",
+    "set": "A1",
+    "number": 236,
+    "rarity": "1Star",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "A1_237",
+    "name": "Slowpoke",
+    "set": "A1",
+    "number": 237,
+    "rarity": "1Star",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "A1_238",
+    "name": "Diglett",
+    "set": "A1",
+    "number": 238,
+    "rarity": "1Star",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1_239",
+    "name": "Cubone",
+    "set": "A1",
+    "number": 239,
+    "rarity": "1Star",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1_240",
+    "name": "Nidoqueen",
+    "set": "A1",
+    "number": 240,
+    "rarity": "1Star",
+    "element": "darkness",
+    "ex": false
+  },
+  {
+    "id": "A1_241",
+    "name": "Nidoking",
+    "set": "A1",
+    "number": 241,
+    "rarity": "1Star",
+    "element": "darkness",
+    "ex": false
+  },
+  {
+    "id": "A1_242",
+    "name": "Golbat",
+    "set": "A1",
+    "number": 242,
+    "rarity": "1Star",
+    "element": "darkness",
+    "ex": false
+  },
+  {
+    "id": "A1_243",
+    "name": "Weezing",
+    "set": "A1",
+    "number": 243,
+    "rarity": "1Star",
+    "element": "darkness",
+    "ex": false
+  },
+  {
+    "id": "A1_244",
+    "name": "Dragonite",
+    "set": "A1",
+    "number": 244,
+    "rarity": "1Star",
+    "element": "dragon",
+    "ex": false
+  },
+  {
+    "id": "A1_245",
+    "name": "Pidgeot",
+    "set": "A1",
+    "number": 245,
+    "rarity": "1Star",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1_246",
+    "name": "Meowth",
+    "set": "A1",
+    "number": 246,
+    "rarity": "1Star",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1_247",
+    "name": "Ditto",
+    "set": "A1",
+    "number": 247,
+    "rarity": "1Star",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1_248",
+    "name": "Eevee",
+    "set": "A1",
+    "number": 248,
+    "rarity": "1Star",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1_249",
+    "name": "Porygon",
+    "set": "A1",
+    "number": 249,
+    "rarity": "1Star",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1_250",
+    "name": "Snorlax",
+    "set": "A1",
+    "number": 250,
+    "rarity": "1Star",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1_251",
+    "name": "Venusaur ex",
+    "set": "A1",
+    "number": 251,
+    "rarity": "2Star",
+    "element": "undefined",
+    "ex": true
+  },
+  {
+    "id": "A1_252",
+    "name": "Exeggutor ex",
+    "set": "A1",
+    "number": 252,
+    "rarity": "2Star",
+    "element": "undefined",
+    "ex": true
+  },
+  {
+    "id": "A1_253",
+    "name": "Charizard ex",
+    "set": "A1",
+    "number": 253,
+    "rarity": "2Star",
+    "element": "fire",
+    "ex": true
+  },
+  {
+    "id": "A1_254",
+    "name": "Arcanine ex",
+    "set": "A1",
+    "number": 254,
+    "rarity": "2Star",
+    "element": "fire",
+    "ex": true
+  },
+  {
+    "id": "A1_255",
+    "name": "Moltres ex",
+    "set": "A1",
+    "number": 255,
+    "rarity": "2Star",
+    "element": "fire",
+    "ex": true
+  },
+  {
+    "id": "A1_256",
+    "name": "Blastoise ex",
+    "set": "A1",
+    "number": 256,
+    "rarity": "2Star",
+    "element": "undefined",
+    "ex": true
+  },
+  {
+    "id": "A1_257",
+    "name": "Starmie ex",
+    "set": "A1",
+    "number": 257,
+    "rarity": "2Star",
+    "element": "undefined",
+    "ex": true
+  },
+  {
+    "id": "A1_258",
+    "name": "Articuno ex",
+    "set": "A1",
+    "number": 258,
+    "rarity": "2Star",
+    "element": "undefined",
+    "ex": true
+  },
+  {
+    "id": "A1_259",
+    "name": "Pikachu ex",
+    "set": "A1",
+    "number": 259,
+    "rarity": "2Star",
+    "element": "lightning",
+    "ex": true
+  },
+  {
+    "id": "A1_260",
+    "name": "Zapdos ex",
+    "set": "A1",
+    "number": 260,
+    "rarity": "2Star",
+    "element": "lightning",
+    "ex": true
+  },
+  {
+    "id": "A1_261",
+    "name": "Gengar ex",
+    "set": "A1",
+    "number": 261,
+    "rarity": "2Star",
+    "element": "psychic",
+    "ex": true
+  },
+  {
+    "id": "A1_262",
+    "name": "Mewtwo ex",
+    "set": "A1",
+    "number": 262,
+    "rarity": "2Star",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1_263",
+    "name": "Machamp ex",
+    "set": "A1",
+    "number": 263,
+    "rarity": "2Star",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1_264",
+    "name": "Marowak ex",
+    "set": "A1",
+    "number": 264,
+    "rarity": "2Star",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1_265",
+    "name": "Wigglytuff ex",
+    "set": "A1",
+    "number": 265,
+    "rarity": "2Star",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1_266",
+    "name": "Erika",
+    "set": "A1",
+    "number": 266,
+    "rarity": "2Star",
+    "element": "trainer",
+    "ex": false
+  },
+  {
+    "id": "A1_267",
+    "name": "Misty",
+    "set": "A1",
+    "number": 267,
+    "rarity": "2Star",
+    "element": "trainer",
+    "ex": false
+  },
+  {
+    "id": "A1_268",
+    "name": "Blaine",
+    "set": "A1",
+    "number": 268,
+    "rarity": "2Star",
+    "element": "trainer",
+    "ex": false
+  },
+  {
+    "id": "A1_269",
+    "name": "Koga",
+    "set": "A1",
+    "number": 269,
+    "rarity": "2Star",
+    "element": "trainer",
+    "ex": false
+  },
+  {
+    "id": "A1_270",
+    "name": "Giovanni",
+    "set": "A1",
+    "number": 270,
+    "rarity": "2Star",
+    "element": "trainer",
+    "ex": false
+  },
+  {
+    "id": "A1_271",
+    "name": "Brock",
+    "set": "A1",
+    "number": 271,
+    "rarity": "2Star",
+    "element": "trainer",
+    "ex": false
+  },
+  {
+    "id": "A1_272",
+    "name": "Sabrina",
+    "set": "A1",
+    "number": 272,
+    "rarity": "2Star",
+    "element": "trainer",
+    "ex": false
+  },
+  {
+    "id": "A1_273",
+    "name": "Lt. Surge",
+    "set": "A1",
+    "number": 273,
+    "rarity": "2Star",
+    "element": "trainer",
+    "ex": false
+  },
+  {
+    "id": "A1_274",
+    "name": "Moltres ex",
+    "set": "A1",
+    "number": 274,
+    "rarity": "2Star",
+    "element": "fire",
+    "ex": false
+  },
+  {
+    "id": "A1_275",
+    "name": "Articuno ex",
+    "set": "A1",
+    "number": 275,
+    "rarity": "2Star",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1_276",
+    "name": "Zapdos ex",
+    "set": "A1",
+    "number": 276,
+    "rarity": "2Star",
+    "element": "lightning",
+    "ex": false
+  },
+  {
+    "id": "A1_277",
+    "name": "Gengar ex",
+    "set": "A1",
+    "number": 277,
+    "rarity": "2Star",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1_278",
+    "name": "Machamp ex",
+    "set": "A1",
+    "number": 278,
+    "rarity": "2Star",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1_279",
+    "name": "Wigglytuff ex",
+    "set": "A1",
+    "number": 279,
+    "rarity": "2Star",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1_280",
+    "name": "Charizard ex",
+    "set": "A1",
+    "number": 280,
+    "rarity": "3Star",
+    "element": "fire",
+    "ex": false
+  },
+  {
+    "id": "A1_281",
+    "name": "Pikachu ex",
+    "set": "A1",
+    "number": 281,
+    "rarity": "3Star",
+    "element": "lightning",
+    "ex": false
+  },
+  {
+    "id": "A1_282",
+    "name": "Mewtwo ex",
+    "set": "A1",
+    "number": 282,
+    "rarity": "3Star",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1_283",
+    "name": "Mew",
+    "set": "A1",
+    "number": 283,
+    "rarity": "3Star",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1_284",
+    "name": "Charizard ex",
+    "set": "A1",
+    "number": 284,
+    "rarity": "CrownRare",
+    "element": "fire",
+    "ex": false
+  },
+  {
+    "id": "A1_285",
+    "name": "Pikachu ex",
+    "set": "A1",
+    "number": 285,
+    "rarity": "CrownRare",
+    "element": "lightning",
+    "ex": false
+  },
+  {
+    "id": "A1_286",
+    "name": "Mewtwo ex",
+    "set": "A1",
+    "number": 286,
+    "rarity": "CrownRare",
+    "element": "undefined",
+    "ex": false
+  },
+  {
+    "id": "A1a_001",
+    "name": "Exeggcute",
+    "set": "A1a",
+    "number": 1,
+    "rarity": "1Diamond",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1a_002",
+    "name": "Exeggutor",
+    "set": "A1a",
+    "number": 2,
+    "rarity": "2Diamond",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1a_003",
+    "name": "Celebi ex",
+    "set": "A1a",
+    "number": 3,
+    "rarity": "4Diamond",
+    "element": "grass",
+    "ex": true
+  },
+  {
+    "id": "A1a_004",
+    "name": "Snivy",
+    "set": "A1a",
+    "number": 4,
+    "rarity": "1Diamond",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1a_005",
+    "name": "Servine",
+    "set": "A1a",
+    "number": 5,
+    "rarity": "2Diamond",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1a_006",
+    "name": "Serperior",
+    "set": "A1a",
+    "number": 6,
+    "rarity": "3Diamond",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1a_007",
+    "name": "Morelull",
+    "set": "A1a",
+    "number": 7,
+    "rarity": "1Diamond",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1a_008",
+    "name": "Shiinotic",
+    "set": "A1a",
+    "number": 8,
+    "rarity": "2Diamond",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1a_009",
+    "name": "Dhelmise",
+    "set": "A1a",
+    "number": 9,
+    "rarity": "2Diamond",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1a_010",
+    "name": "Ponyta",
+    "set": "A1a",
+    "number": 10,
+    "rarity": "1Diamond",
+    "element": "fire",
+    "ex": false
+  },
+  {
+    "id": "A1a_011",
+    "name": "Rapidash",
+    "set": "A1a",
+    "number": 11,
+    "rarity": "2Diamond",
+    "element": "fire",
+    "ex": false
+  },
+  {
+    "id": "A1a_012",
+    "name": "Magmar",
+    "set": "A1a",
+    "number": 12,
+    "rarity": "2Diamond",
+    "element": "fire",
+    "ex": false
+  },
+  {
+    "id": "A1a_013",
+    "name": "Larvesta",
+    "set": "A1a",
+    "number": 13,
+    "rarity": "1Diamond",
+    "element": "fire",
+    "ex": false
+  },
+  {
+    "id": "A1a_014",
+    "name": "Volcarona",
+    "set": "A1a",
+    "number": 14,
+    "rarity": "3Diamond",
+    "element": "fire",
+    "ex": false
+  },
+  {
+    "id": "A1a_015",
+    "name": "Salandit",
+    "set": "A1a",
+    "number": 15,
+    "rarity": "1Diamond",
+    "element": "fire",
+    "ex": false
+  },
+  {
+    "id": "A1a_016",
+    "name": "Salazzle",
+    "set": "A1a",
+    "number": 16,
+    "rarity": "1Diamond",
+    "element": "fire",
+    "ex": false
+  },
+  {
+    "id": "A1a_017",
+    "name": "Magikarp",
+    "set": "A1a",
+    "number": 17,
+    "rarity": "1Diamond",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1a_018",
+    "name": "Gyarados ex",
+    "set": "A1a",
+    "number": 18,
+    "rarity": "4Diamond",
+    "element": "water",
+    "ex": true
+  },
+  {
+    "id": "A1a_019",
+    "name": "Vaporeon",
+    "set": "A1a",
+    "number": 19,
+    "rarity": "3Diamond",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1a_020",
+    "name": "Finneon",
+    "set": "A1a",
+    "number": 20,
+    "rarity": "1Diamond",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1a_021",
+    "name": "Lumineon",
+    "set": "A1a",
+    "number": 21,
+    "rarity": "2Diamond",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1a_022",
+    "name": "Chewtle",
+    "set": "A1a",
+    "number": 22,
+    "rarity": "1Diamond",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1a_023",
+    "name": "Drednaw",
+    "set": "A1a",
+    "number": 23,
+    "rarity": "2Diamond",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1a_024",
+    "name": "Cramorant",
+    "set": "A1a",
+    "number": 24,
+    "rarity": "1Diamond",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1a_025",
+    "name": "Pikachu",
+    "set": "A1a",
+    "number": 25,
+    "rarity": "1Diamond",
+    "element": "lightning",
+    "ex": false
+  },
+  {
+    "id": "A1a_026",
+    "name": "Raichu",
+    "set": "A1a",
+    "number": 26,
+    "rarity": "3Diamond",
+    "element": "lightning",
+    "ex": false
+  },
+  {
+    "id": "A1a_027",
+    "name": "Electabuzz",
+    "set": "A1a",
+    "number": 27,
+    "rarity": "2Diamond",
+    "element": "lightning",
+    "ex": false
+  },
+  {
+    "id": "A1a_028",
+    "name": "Joltik",
+    "set": "A1a",
+    "number": 28,
+    "rarity": "1Diamond",
+    "element": "lightning",
+    "ex": false
+  },
+  {
+    "id": "A1a_029",
+    "name": "Galvantula",
+    "set": "A1a",
+    "number": 29,
+    "rarity": "2Diamond",
+    "element": "lightning",
+    "ex": false
+  },
+  {
+    "id": "A1a_030",
+    "name": "Dedenne",
+    "set": "A1a",
+    "number": 30,
+    "rarity": "1Diamond",
+    "element": "lightning",
+    "ex": false
+  },
+  {
+    "id": "A1a_031",
+    "name": "Mew",
+    "set": "A1a",
+    "number": 31,
+    "rarity": "3Diamond",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "A1a_032",
+    "name": "Mew ex",
+    "set": "A1a",
+    "number": 32,
+    "rarity": "4Diamond",
+    "element": "psychic",
+    "ex": true
+  },
+  {
+    "id": "A1a_033",
+    "name": "Sigilyph",
+    "set": "A1a",
+    "number": 33,
+    "rarity": "2Diamond",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "A1a_034",
+    "name": "Elgyem",
+    "set": "A1a",
+    "number": 34,
+    "rarity": "1Diamond",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "A1a_035",
+    "name": "Beheeyem",
+    "set": "A1a",
+    "number": 35,
+    "rarity": "2Diamond",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "A1a_036",
+    "name": "Flabebe",
+    "set": "A1a",
+    "number": 36,
+    "rarity": "1Diamond",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "A1a_037",
+    "name": "Floette",
+    "set": "A1a",
+    "number": 37,
+    "rarity": "1Diamond",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "A1a_038",
+    "name": "Florges",
+    "set": "A1a",
+    "number": 38,
+    "rarity": "2Diamond",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "A1a_039",
+    "name": "Swirlix",
+    "set": "A1a",
+    "number": 39,
+    "rarity": "1Diamond",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "A1a_040",
+    "name": "Slurpuff",
+    "set": "A1a",
+    "number": 40,
+    "rarity": "1Diamond",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "A1a_041",
+    "name": "Mankey",
+    "set": "A1a",
+    "number": 41,
+    "rarity": "1Diamond",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1a_042",
+    "name": "Primeape",
+    "set": "A1a",
+    "number": 42,
+    "rarity": "1Diamond",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1a_043",
+    "name": "Geodude",
+    "set": "A1a",
+    "number": 43,
+    "rarity": "1Diamond",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1a_044",
+    "name": "Graveler",
+    "set": "A1a",
+    "number": 44,
+    "rarity": "2Diamond",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1a_045",
+    "name": "Golem",
+    "set": "A1a",
+    "number": 45,
+    "rarity": "3Diamond",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1a_046",
+    "name": "Aerodactyl ex",
+    "set": "A1a",
+    "number": 46,
+    "rarity": "4Diamond",
+    "element": "fighting",
+    "ex": true
+  },
+  {
+    "id": "A1a_047",
+    "name": "Marshadow",
+    "set": "A1a",
+    "number": 47,
+    "rarity": "3Diamond",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1a_048",
+    "name": "Stonjourner",
+    "set": "A1a",
+    "number": 48,
+    "rarity": "2Diamond",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1a_049",
+    "name": "Koffing",
+    "set": "A1a",
+    "number": 49,
+    "rarity": "1Diamond",
+    "element": "darkness",
+    "ex": false
+  },
+  {
+    "id": "A1a_050",
+    "name": "Weezing",
+    "set": "A1a",
+    "number": 50,
+    "rarity": "2Diamond",
+    "element": "darkness",
+    "ex": false
+  },
+  {
+    "id": "A1a_051",
+    "name": "Purrloin",
+    "set": "A1a",
+    "number": 51,
+    "rarity": "1Diamond",
+    "element": "darkness",
+    "ex": false
+  },
+  {
+    "id": "A1a_052",
+    "name": "Liepard",
+    "set": "A1a",
+    "number": 52,
+    "rarity": "1Diamond",
+    "element": "darkness",
+    "ex": false
+  },
+  {
+    "id": "A1a_053",
+    "name": "Venipede",
+    "set": "A1a",
+    "number": 53,
+    "rarity": "1Diamond",
+    "element": "darkness",
+    "ex": false
+  },
+  {
+    "id": "A1a_054",
+    "name": "Whirlipede",
+    "set": "A1a",
+    "number": 54,
+    "rarity": "1Diamond",
+    "element": "darkness",
+    "ex": false
+  },
+  {
+    "id": "A1a_055",
+    "name": "Scolipede",
+    "set": "A1a",
+    "number": 55,
+    "rarity": "2Diamond",
+    "element": "darkness",
+    "ex": false
+  },
+  {
+    "id": "A1a_056",
+    "name": "Druddigon",
+    "set": "A1a",
+    "number": 56,
+    "rarity": "2Diamond",
+    "element": "dragon",
+    "ex": false
+  },
+  {
+    "id": "A1a_057",
+    "name": "Pidgey",
+    "set": "A1a",
+    "number": 57,
+    "rarity": "1Diamond",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1a_058",
+    "name": "Pidgeotto",
+    "set": "A1a",
+    "number": 58,
+    "rarity": "1Diamond",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1a_059",
+    "name": "Pidgeot ex",
+    "set": "A1a",
+    "number": 59,
+    "rarity": "4Diamond",
+    "element": "colorless",
+    "ex": true
+  },
+  {
+    "id": "A1a_060",
+    "name": "Tauros",
+    "set": "A1a",
+    "number": 60,
+    "rarity": "3Diamond",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1a_061",
+    "name": "Eevee",
+    "set": "A1a",
+    "number": 61,
+    "rarity": "1Diamond",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1a_062",
+    "name": "Chatot",
+    "set": "A1a",
+    "number": 62,
+    "rarity": "1Diamond",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "A1a_063",
+    "name": "Old Amber",
+    "set": "A1a",
+    "number": 63,
+    "rarity": "1Diamond",
+    "element": "trainer",
+    "ex": false
+  },
+  {
+    "id": "A1a_064",
+    "name": "Pokemon Flute",
+    "set": "A1a",
+    "number": 64,
+    "rarity": "2Diamond",
+    "element": "trainer",
+    "ex": false
+  },
+  {
+    "id": "A1a_065",
+    "name": "Mythical Slab",
+    "set": "A1a",
+    "number": 65,
+    "rarity": "2Diamond",
+    "element": "trainer",
+    "ex": false
+  },
+  {
+    "id": "A1a_066",
+    "name": "Budding Expeditioner",
+    "set": "A1a",
+    "number": 66,
+    "rarity": "2Diamond",
+    "element": "trainer",
+    "ex": false
+  },
+  {
+    "id": "A1a_067",
+    "name": "Blue",
+    "set": "A1a",
+    "number": 67,
+    "rarity": "2Diamond",
+    "element": "trainer",
+    "ex": false
+  },
+  {
+    "id": "A1a_068",
+    "name": "Leaf",
+    "set": "A1a",
+    "number": 68,
+    "rarity": "2Diamond",
+    "element": "trainer",
+    "ex": false
+  },
+  {
+    "id": "A1a_069",
+    "name": "Exeggutor",
+    "set": "A1a",
+    "number": 69,
+    "rarity": "1Star",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1a_070",
+    "name": "Serperior",
+    "set": "A1a",
+    "number": 70,
+    "rarity": "1Star",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "A1a_071",
+    "name": "Salandit",
+    "set": "A1a",
+    "number": 71,
+    "rarity": "1Star",
+    "element": "fire",
+    "ex": false
+  },
+  {
+    "id": "A1a_072",
+    "name": "Vaporeon",
+    "set": "A1a",
+    "number": 72,
+    "rarity": "1Star",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "A1a_073",
+    "name": "Dedenne",
+    "set": "A1a",
+    "number": 73,
+    "rarity": "1Star",
+    "element": "lightning",
+    "ex": false
+  },
+  {
+    "id": "A1a_074",
+    "name": "Marshadow",
+    "set": "A1a",
+    "number": 74,
+    "rarity": "1Star",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "A1a_075",
+    "name": "Celebi ex",
+    "set": "A1a",
+    "number": 75,
+    "rarity": "2Star",
+    "element": "grass",
+    "ex": true
+  },
+  {
+    "id": "A1a_076",
+    "name": "Gyarados ex",
+    "set": "A1a",
+    "number": 76,
+    "rarity": "2Star",
+    "element": "water",
+    "ex": true
+  },
+  {
+    "id": "A1a_077",
+    "name": "Mew ex",
+    "set": "A1a",
+    "number": 77,
+    "rarity": "2Star",
+    "element": "psychic",
+    "ex": true
+  },
+  {
+    "id": "A1a_078",
+    "name": "Aerodactyl ex",
+    "set": "A1a",
+    "number": 78,
+    "rarity": "2Star",
+    "element": "fighting",
+    "ex": true
+  },
+  {
+    "id": "A1a_079",
+    "name": "Pidgeot ex",
+    "set": "A1a",
+    "number": 79,
+    "rarity": "2Star",
+    "element": "colorless",
+    "ex": true
+  },
+  {
+    "id": "A1a_080",
+    "name": "Budding Expeditioner",
+    "set": "A1a",
+    "number": 80,
+    "rarity": "2Star",
+    "element": "trainer",
+    "ex": false
+  },
+  {
+    "id": "A1a_081",
+    "name": "Blue",
+    "set": "A1a",
+    "number": 81,
+    "rarity": "2Star",
+    "element": "trainer",
+    "ex": false
+  },
+  {
+    "id": "A1a_082",
+    "name": "Leaf",
+    "set": "A1a",
+    "number": 82,
+    "rarity": "2Star",
+    "element": "trainer",
+    "ex": false
+  },
+  {
+    "id": "A1a_083",
+    "name": "Mew ex",
+    "set": "A1a",
+    "number": 83,
+    "rarity": "2Star",
+    "element": "psychic",
+    "ex": true
+  },
+  {
+    "id": "A1a_084",
+    "name": "Aerodactyl ex",
+    "set": "A1a",
+    "number": 84,
+    "rarity": "2Star",
+    "element": "fighting",
+    "ex": true
+  },
+  {
+    "id": "A1a_085",
+    "name": "Celebi ex",
+    "set": "A1a",
+    "number": 85,
+    "rarity": "3Star",
+    "element": "grass",
+    "ex": true
+  },
+  {
+    "id": "A1a_086",
+    "name": "Mew ex",
+    "set": "A1a",
+    "number": 86,
+    "rarity": "CrownRare",
+    "element": "psychic",
+    "ex": true
+  },
+  {
+    "id": "Promo-A_1",
+    "name": "Potion",
+    "set": "PROMO-A",
+    "number": 1,
+    "rarity": "promo",
+    "element": "item",
+    "ex": false
+  },
+  {
+    "id": "Promo-A_2",
+    "name": "X Speed",
+    "set": "PROMO-A",
+    "number": 2,
+    "rarity": "promo",
+    "element": "item",
+    "ex": false
+  },
+  {
+    "id": "Promo-A_3",
+    "name": "Hand Scope",
+    "set": "PROMO-A",
+    "number": 3,
+    "rarity": "promo",
+    "element": "item",
+    "ex": false
+  },
+  {
+    "id": "Promo-A_4",
+    "name": "Pokédex",
+    "set": "PROMO-A",
+    "number": 4,
+    "rarity": "promo",
+    "element": "item",
+    "ex": false
+  },
+  {
+    "id": "Promo-A_5",
+    "name": "Poké Ball",
+    "set": "PROMO-A",
+    "number": 5,
+    "rarity": "promo",
+    "element": "item",
+    "ex": false
+  },
+  {
+    "id": "Promo-A_6",
+    "name": "Red Card",
+    "set": "PROMO-A",
+    "number": 6,
+    "rarity": "promo",
+    "element": "item",
+    "ex": false
+  },
+  {
+    "id": "Promo-A_7",
+    "name": "Professor's Research",
+    "set": "PROMO-A",
+    "number": 7,
+    "rarity": "promo",
+    "element": "supporter",
+    "ex": false
+  },
+  {
+    "id": "Promo-A_8",
+    "name": "Pokédex",
+    "set": "PROMO-A",
+    "number": 8,
+    "rarity": "promo",
+    "element": "item",
+    "ex": false
+  },
+  {
+    "id": "Promo-A_9",
+    "name": "Pikachu",
+    "set": "PROMO-A",
+    "number": 9,
+    "rarity": "promo",
+    "element": "lightning",
+    "ex": false
+  },
+  {
+    "id": "Promo-A_10",
+    "name": "Mewtwo",
+    "set": "PROMO-A",
+    "number": 10,
+    "rarity": "promo",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "Promo-A_11",
+    "name": "Chansey",
+    "set": "PROMO-A",
+    "number": 11,
+    "rarity": "promo",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "Promo-A_12",
+    "name": "Meowth",
+    "set": "PROMO-A",
+    "number": 12,
+    "rarity": "promo",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "Promo-A_13",
+    "name": "Butterfree",
+    "set": "PROMO-A",
+    "number": 13,
+    "rarity": "promo",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "Promo-A_14",
+    "name": "Lapras ex",
+    "set": "PROMO-A",
+    "number": 14,
+    "rarity": "promo",
+    "element": "water",
+    "ex": true
+  },
+  {
+    "id": "Promo-A_15",
+    "name": "Pikachu",
+    "set": "PROMO-A",
+    "number": 15,
+    "rarity": "promo",
+    "element": "lightning",
+    "ex": false
+  },
+  {
+    "id": "Promo-A_16",
+    "name": "Clefairy",
+    "set": "PROMO-A",
+    "number": 16,
+    "rarity": "promo",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "Promo-A_17",
+    "name": "Mankey",
+    "set": "PROMO-A",
+    "number": 17,
+    "rarity": "promo",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "Promo-A_18",
+    "name": "Venusaur",
+    "set": "PROMO-A",
+    "number": 18,
+    "rarity": "promo",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "Promo-A_19",
+    "name": "Greninja",
+    "set": "PROMO-A",
+    "number": 19,
+    "rarity": "promo",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "Promo-A_20",
+    "name": "Haunter",
+    "set": "PROMO-A",
+    "number": 20,
+    "rarity": "promo",
+    "element": "psychic",
+    "ex": false
+  },
+  {
+    "id": "Promo-A_21",
+    "name": "Onix",
+    "set": "PROMO-A",
+    "number": 21,
+    "rarity": "promo",
+    "element": "fighting",
+    "ex": false
+  },
+  {
+    "id": "Promo-A_22",
+    "name": "Jigglypuff",
+    "set": "PROMO-A",
+    "number": 22,
+    "rarity": "promo",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "Promo-A_23",
+    "name": "Bulbasaur",
+    "set": "PROMO-A",
+    "number": 23,
+    "rarity": "promo",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "Promo-A_24",
+    "name": "Magnemite",
+    "set": "PROMO-A",
+    "number": 24,
+    "rarity": "promo",
+    "element": "lightning",
+    "ex": false
+  },
+  {
+    "id": "Promo-A_25",
+    "name": "Moltres ex",
+    "set": "PROMO-A",
+    "number": 25,
+    "rarity": "promo",
+    "element": "fire",
+    "ex": true
+  },
+  {
+    "id": "Promo-A_26",
+    "name": "Pikachu",
+    "set": "PROMO-A",
+    "number": 26,
+    "rarity": "promo",
+    "element": "lightning",
+    "ex": false
+  },
+  {
+    "id": "Promo-A_27",
+    "name": "Snivy",
+    "set": "PROMO-A",
+    "number": 27,
+    "rarity": "promo",
+    "element": "grass",
+    "ex": false
+  },
+  {
+    "id": "Promo-A_28",
+    "name": "Volcarona",
+    "set": "PROMO-A",
+    "number": 28,
+    "rarity": "promo",
+    "element": "fire",
+    "ex": false
+  },
+  {
+    "id": "Promo-A_29",
+    "name": "Blastoise",
+    "set": "PROMO-A",
+    "number": 29,
+    "rarity": "promo",
+    "element": "water",
+    "ex": false
+  },
+  {
+    "id": "Promo-A_30",
+    "name": "Eevee",
+    "set": "PROMO-A",
+    "number": 30,
+    "rarity": "promo",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "Promo-A_31",
+    "name": "Cinccino",
+    "set": "PROMO-A",
+    "number": 31,
+    "rarity": "promo",
+    "element": "colorless",
+    "ex": false
+  },
+  {
+    "id": "Promo-A_32",
+    "name": "Charmander",
+    "set": "PROMO-A",
+    "number": 32,
+    "rarity": "promo",
+    "element": "fire",
+    "ex": false
+  },
+  {
+    "id": "Promo-A_33",
+    "name": "Squirtle",
+    "set": "PROMO-A",
+    "number": 33,
+    "rarity": "promo",
+    "element": "water",
+    "ex": false
+  }
+]

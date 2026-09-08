@@ -1,0 +1,107 @@
+[
+  {
+    "id": "A1_178",
+    "set": "A1",
+    "number": 178,
+    "name": "Mawile",
+    "rarity": "normal",
+    "element": "metal",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "charizard",
+      "mewtwo",
+      "pikachu",
+      "mew"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/A1_178_EN.webp"
+  },
+  {
+    "id": "A1_179",
+    "set": "A1",
+    "number": 179,
+    "name": "Pawniard",
+    "rarity": "normal",
+    "element": "metal",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "charizard",
+      "mewtwo",
+      "pikachu",
+      "mew"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/A1_179_EN.webp"
+  },
+  {
+    "id": "A1_180",
+    "set": "A1",
+    "number": 180,
+    "name": "Bisharp",
+    "rarity": "normal",
+    "element": "metal",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "charizard",
+      "mewtwo",
+      "pikachu",
+      "mew"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/A1_180_EN.webp"
+  },
+  {
+    "id": "A1_181",
+    "set": "A1",
+    "number": 181,
+    "name": "Meltan",
+    "rarity": "normal",
+    "element": "metal",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "charizard",
+      "mewtwo",
+      "pikachu",
+      "mew"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/A1_181_EN.webp"
+  },
+  {
+    "id": "A1_182",
+    "set": "A1",
+    "number": 182,
+    "name": "Melmetal",
+    "rarity": "normal",
+    "element": "metal",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "charizard",
+      "mewtwo",
+      "pikachu",
+      "mew"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/A1_182_EN.webp"
+  }
+]

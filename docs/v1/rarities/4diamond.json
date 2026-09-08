@@ -1,0 +1,422 @@
+[
+  {
+    "id": "A1_004",
+    "set": "A1",
+    "number": 4,
+    "name": "Venusaur ex",
+    "rarity": "4Diamond",
+    "element": "grass",
+    "type": "pokemon",
+    "stage": "ex",
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "charizard",
+      "mewtwo",
+      "pikachu",
+      "mew"
+    ],
+    "ex": true,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/A1_004_EN.webp"
+  },
+  {
+    "id": "A1_023",
+    "set": "A1",
+    "number": 23,
+    "name": "Exeggutor ex",
+    "rarity": "4Diamond",
+    "element": "grass",
+    "type": "pokemon",
+    "stage": "ex",
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "charizard",
+      "mewtwo",
+      "pikachu",
+      "mew"
+    ],
+    "ex": true,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/A1_023_EN.webp"
+  },
+  {
+    "id": "A1_036",
+    "set": "A1",
+    "number": 36,
+    "name": "Charizard ex",
+    "rarity": "4Diamond",
+    "element": "fire",
+    "type": "pokemon",
+    "stage": "ex",
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "charizard",
+      "mewtwo",
+      "pikachu",
+      "mew"
+    ],
+    "ex": true,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/A1_036_EN.webp"
+  },
+  {
+    "id": "A1_041",
+    "set": "A1",
+    "number": 41,
+    "name": "Arcanine ex",
+    "rarity": "4Diamond",
+    "element": "fire",
+    "type": "pokemon",
+    "stage": "ex",
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "charizard",
+      "mewtwo",
+      "pikachu",
+      "mew"
+    ],
+    "ex": true,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/A1_041_EN.webp"
+  },
+  {
+    "id": "A1_047",
+    "set": "A1",
+    "number": 47,
+    "name": "Moltres ex",
+    "rarity": "4Diamond",
+    "element": "fire",
+    "type": "pokemon",
+    "stage": "ex",
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "charizard",
+      "mewtwo",
+      "pikachu",
+      "mew"
+    ],
+    "ex": true,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/A1_047_EN.webp"
+  },
+  {
+    "id": "A1_056",
+    "set": "A1",
+    "number": 56,
+    "name": "Blastoise ex",
+    "rarity": "4Diamond",
+    "element": "water",
+    "type": "pokemon",
+    "stage": "ex",
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "charizard",
+      "mewtwo",
+      "pikachu",
+      "mew"
+    ],
+    "ex": true,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/A1_056_EN.webp"
+  },
+  {
+    "id": "A1_076",
+    "set": "A1",
+    "number": 76,
+    "name": "Starmie ex",
+    "rarity": "4Diamond",
+    "element": "water",
+    "type": "pokemon",
+    "stage": "ex",
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "charizard",
+      "mewtwo",
+      "pikachu",
+      "mew"
+    ],
+    "ex": true,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/A1_076_EN.webp"
+  },
+  {
+    "id": "A1_084",
+    "set": "A1",
+    "number": 84,
+    "name": "Articuno ex",
+    "rarity": "4Diamond",
+    "element": "undefined",
+    "type": "pokemon",
+    "stage": "ex",
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "charizard",
+      "mewtwo",
+      "pikachu",
+      "mew"
+    ],
+    "ex": true,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/A1_084_EN.webp"
+  },
+  {
+    "id": "A1_096",
+    "set": "A1",
+    "number": 96,
+    "name": "Pikachu ex",
+    "rarity": "4Diamond",
+    "element": "lightning",
+    "type": "pokemon",
+    "stage": "ex",
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "charizard",
+      "mewtwo",
+      "pikachu",
+      "mew"
+    ],
+    "ex": true,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/A1_096_EN.webp"
+  },
+  {
+    "id": "A1_104",
+    "set": "A1",
+    "number": 104,
+    "name": "Zapdos ex",
+    "rarity": "4Diamond",
+    "element": "lightning",
+    "type": "pokemon",
+    "stage": "ex",
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "charizard",
+      "mewtwo",
+      "pikachu",
+      "mew"
+    ],
+    "ex": true,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/A1_104_EN.webp"
+  },
+  {
+    "id": "A1_123",
+    "set": "A1",
+    "number": 123,
+    "name": "Gengar ex",
+    "rarity": "4Diamond",
+    "element": "psychic",
+    "type": "pokemon",
+    "stage": "ex",
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "charizard",
+      "mewtwo",
+      "pikachu",
+      "mew"
+    ],
+    "ex": true,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/A1_123_EN.webp"
+  },
+  {
+    "id": "A1_129",
+    "set": "A1",
+    "number": 129,
+    "name": "Mewtwo ex",
+    "rarity": "4Diamond",
+    "element": "psychic",
+    "type": "pokemon",
+    "stage": "ex",
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "charizard",
+      "mewtwo",
+      "pikachu",
+      "mew"
+    ],
+    "ex": true,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/A1_129_EN.webp"
+  },
+  {
+    "id": "A1_146",
+    "set": "A1",
+    "number": 146,
+    "name": "Machamp ex",
+    "rarity": "4Diamond",
+    "element": "fighting",
+    "type": "pokemon",
+    "stage": "ex",
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "charizard",
+      "mewtwo",
+      "pikachu",
+      "mew"
+    ],
+    "ex": true,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/A1_146_EN.webp"
+  },
+  {
+    "id": "A1_153",
+    "set": "A1",
+    "number": 153,
+    "name": "Marowak ex",
+    "rarity": "4Diamond",
+    "element": "fighting",
+    "type": "pokemon",
+    "stage": "ex",
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "charizard",
+      "mewtwo",
+      "pikachu",
+      "mew"
+    ],
+    "ex": true,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/A1_153_EN.webp"
+  },
+  {
+    "id": "A1_195",
+    "set": "A1",
+    "number": 195,
+    "name": "Wigglytuff ex",
+    "rarity": "4Diamond",
+    "element": "colorless",
+    "type": "pokemon",
+    "stage": "ex",
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "charizard",
+      "mewtwo",
+      "pikachu",
+      "mew"
+    ],
+    "ex": true,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/A1_195_EN.webp"
+  },
+  {
+    "id": "A1a_003",
+    "set": "A1a",
+    "number": 3,
+    "name": "Celebi ex",
+    "rarity": "4Diamond",
+    "element": "grass",
+    "type": "pokemon",
+    "stage": "ex",
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "charizard",
+      "mewtwo",
+      "pikachu",
+      "mew"
+    ],
+    "ex": true,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/A1a_003_EN.webp"
+  },
+  {
+    "id": "A1a_018",
+    "set": "A1a",
+    "number": 18,
+    "name": "Gyarados ex",
+    "rarity": "4Diamond",
+    "element": "water",
+    "type": "pokemon",
+    "stage": "ex",
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "charizard",
+      "mewtwo",
+      "pikachu",
+      "mew"
+    ],
+    "ex": true,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/A1a_018_EN.webp"
+  },
+  {
+    "id": "A1a_032",
+    "set": "A1a",
+    "number": 32,
+    "name": "Mew ex",
+    "rarity": "4Diamond",
+    "element": "psychic",
+    "type": "pokemon",
+    "stage": "ex",
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "charizard",
+      "mewtwo",
+      "pikachu",
+      "mew"
+    ],
+    "ex": true,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/A1a_032_EN.webp"
+  },
+  {
+    "id": "A1a_046",
+    "set": "A1a",
+    "number": 46,
+    "name": "Aerodactyl ex",
+    "rarity": "4Diamond",
+    "element": "fighting",
+    "type": "pokemon",
+    "stage": "ex",
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "charizard",
+      "mewtwo",
+      "pikachu",
+      "mew"
+    ],
+    "ex": true,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/A1a_046_EN.webp"
+  },
+  {
+    "id": "A1a_059",
+    "set": "A1a",
+    "number": 59,
+    "name": "Pidgeot ex",
+    "rarity": "4Diamond",
+    "element": "colorless",
+    "type": "pokemon",
+    "stage": "ex",
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "charizard",
+      "mewtwo",
+      "pikachu",
+      "mew"
+    ],
+    "ex": true,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/A1a_059_EN.webp"
+  }
+]

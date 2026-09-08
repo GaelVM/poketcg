@@ -1,0 +1,10 @@
+{
+  "name": "pokemon-tcg-pocket-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:seed": "node scripts/build-seed.mjs",
+    "sync": "node scripts/sync-upstream.mjs"
+  }
+}

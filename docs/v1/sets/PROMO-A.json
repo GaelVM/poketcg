@@ -1,0 +1,596 @@
+[
+  {
+    "id": "Promo-A_1",
+    "set": "PROMO-A",
+    "number": 1,
+    "name": "Potion",
+    "rarity": "promo",
+    "element": "item",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_001_EN.webp"
+  },
+  {
+    "id": "Promo-A_2",
+    "set": "PROMO-A",
+    "number": 2,
+    "name": "X Speed",
+    "rarity": "promo",
+    "element": "item",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_002_EN.webp"
+  },
+  {
+    "id": "Promo-A_3",
+    "set": "PROMO-A",
+    "number": 3,
+    "name": "Hand Scope",
+    "rarity": "promo",
+    "element": "item",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_003_EN.webp"
+  },
+  {
+    "id": "Promo-A_4",
+    "set": "PROMO-A",
+    "number": 4,
+    "name": "Pokédex",
+    "rarity": "promo",
+    "element": "item",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_004_EN.webp"
+  },
+  {
+    "id": "Promo-A_5",
+    "set": "PROMO-A",
+    "number": 5,
+    "name": "Poké Ball",
+    "rarity": "promo",
+    "element": "item",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_005_EN.webp"
+  },
+  {
+    "id": "Promo-A_6",
+    "set": "PROMO-A",
+    "number": 6,
+    "name": "Red Card",
+    "rarity": "promo",
+    "element": "item",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_006_EN.webp"
+  },
+  {
+    "id": "Promo-A_7",
+    "set": "PROMO-A",
+    "number": 7,
+    "name": "Professor's Research",
+    "rarity": "promo",
+    "element": "supporter",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_007_EN.webp"
+  },
+  {
+    "id": "Promo-A_8",
+    "set": "PROMO-A",
+    "number": 8,
+    "name": "Pokédex",
+    "rarity": "promo",
+    "element": "item",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_008_EN.webp"
+  },
+  {
+    "id": "Promo-A_9",
+    "set": "PROMO-A",
+    "number": 9,
+    "name": "Pikachu",
+    "rarity": "promo",
+    "element": "lightning",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_009_EN.webp"
+  },
+  {
+    "id": "Promo-A_10",
+    "set": "PROMO-A",
+    "number": 10,
+    "name": "Mewtwo",
+    "rarity": "promo",
+    "element": "psychic",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_010_EN.webp"
+  },
+  {
+    "id": "Promo-A_11",
+    "set": "PROMO-A",
+    "number": 11,
+    "name": "Chansey",
+    "rarity": "promo",
+    "element": "colorless",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_011_EN.webp"
+  },
+  {
+    "id": "Promo-A_12",
+    "set": "PROMO-A",
+    "number": 12,
+    "name": "Meowth",
+    "rarity": "promo",
+    "element": "colorless",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_012_EN.webp"
+  },
+  {
+    "id": "Promo-A_13",
+    "set": "PROMO-A",
+    "number": 13,
+    "name": "Butterfree",
+    "rarity": "promo",
+    "element": "grass",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_013_EN.webp"
+  },
+  {
+    "id": "Promo-A_14",
+    "set": "PROMO-A",
+    "number": 14,
+    "name": "Lapras ex",
+    "rarity": "promo",
+    "element": "water",
+    "type": "pokemon",
+    "stage": "ex",
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": true,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_014_EN.webp"
+  },
+  {
+    "id": "Promo-A_15",
+    "set": "PROMO-A",
+    "number": 15,
+    "name": "Pikachu",
+    "rarity": "promo",
+    "element": "lightning",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_015_EN.webp"
+  },
+  {
+    "id": "Promo-A_16",
+    "set": "PROMO-A",
+    "number": 16,
+    "name": "Clefairy",
+    "rarity": "promo",
+    "element": "psychic",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_016_EN.webp"
+  },
+  {
+    "id": "Promo-A_17",
+    "set": "PROMO-A",
+    "number": 17,
+    "name": "Mankey",
+    "rarity": "promo",
+    "element": "fighting",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_017_EN.webp"
+  },
+  {
+    "id": "Promo-A_18",
+    "set": "PROMO-A",
+    "number": 18,
+    "name": "Venusaur",
+    "rarity": "promo",
+    "element": "grass",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_018_EN.webp"
+  },
+  {
+    "id": "Promo-A_19",
+    "set": "PROMO-A",
+    "number": 19,
+    "name": "Greninja",
+    "rarity": "promo",
+    "element": "water",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_019_EN.webp"
+  },
+  {
+    "id": "Promo-A_20",
+    "set": "PROMO-A",
+    "number": 20,
+    "name": "Haunter",
+    "rarity": "promo",
+    "element": "psychic",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_020_EN.webp"
+  },
+  {
+    "id": "Promo-A_21",
+    "set": "PROMO-A",
+    "number": 21,
+    "name": "Onix",
+    "rarity": "promo",
+    "element": "fighting",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_021_EN.webp"
+  },
+  {
+    "id": "Promo-A_22",
+    "set": "PROMO-A",
+    "number": 22,
+    "name": "Jigglypuff",
+    "rarity": "promo",
+    "element": "colorless",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_022_EN.webp"
+  },
+  {
+    "id": "Promo-A_23",
+    "set": "PROMO-A",
+    "number": 23,
+    "name": "Bulbasaur",
+    "rarity": "promo",
+    "element": "grass",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_023_EN.webp"
+  },
+  {
+    "id": "Promo-A_24",
+    "set": "PROMO-A",
+    "number": 24,
+    "name": "Magnemite",
+    "rarity": "promo",
+    "element": "lightning",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_024_EN.webp"
+  },
+  {
+    "id": "Promo-A_25",
+    "set": "PROMO-A",
+    "number": 25,
+    "name": "Moltres ex",
+    "rarity": "promo",
+    "element": "fire",
+    "type": "pokemon",
+    "stage": "ex",
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": true,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_025_EN.webp"
+  },
+  {
+    "id": "Promo-A_26",
+    "set": "PROMO-A",
+    "number": 26,
+    "name": "Pikachu",
+    "rarity": "promo",
+    "element": "lightning",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_026_EN.webp"
+  },
+  {
+    "id": "Promo-A_27",
+    "set": "PROMO-A",
+    "number": 27,
+    "name": "Snivy",
+    "rarity": "promo",
+    "element": "grass",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_027_EN.webp"
+  },
+  {
+    "id": "Promo-A_28",
+    "set": "PROMO-A",
+    "number": 28,
+    "name": "Volcarona",
+    "rarity": "promo",
+    "element": "fire",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_028_EN.webp"
+  },
+  {
+    "id": "Promo-A_29",
+    "set": "PROMO-A",
+    "number": 29,
+    "name": "Blastoise",
+    "rarity": "promo",
+    "element": "water",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_029_EN.webp"
+  },
+  {
+    "id": "Promo-A_30",
+    "set": "PROMO-A",
+    "number": 30,
+    "name": "Eevee",
+    "rarity": "promo",
+    "element": "colorless",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_030_EN.webp"
+  },
+  {
+    "id": "Promo-A_31",
+    "set": "PROMO-A",
+    "number": 31,
+    "name": "Cinccino",
+    "rarity": "promo",
+    "element": "colorless",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_031_EN.webp"
+  },
+  {
+    "id": "Promo-A_32",
+    "set": "PROMO-A",
+    "number": 32,
+    "name": "Charmander",
+    "rarity": "promo",
+    "element": "fire",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_032_EN.webp"
+  },
+  {
+    "id": "Promo-A_33",
+    "set": "PROMO-A",
+    "number": 33,
+    "name": "Squirtle",
+    "rarity": "promo",
+    "element": "water",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_033_EN.webp"
+  }
+]

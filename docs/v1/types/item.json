@@ -1,0 +1,128 @@
+[
+  {
+    "id": "Promo-A_1",
+    "set": "PROMO-A",
+    "number": 1,
+    "name": "Potion",
+    "rarity": "promo",
+    "element": "item",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_001_EN.webp"
+  },
+  {
+    "id": "Promo-A_2",
+    "set": "PROMO-A",
+    "number": 2,
+    "name": "X Speed",
+    "rarity": "promo",
+    "element": "item",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_002_EN.webp"
+  },
+  {
+    "id": "Promo-A_3",
+    "set": "PROMO-A",
+    "number": 3,
+    "name": "Hand Scope",
+    "rarity": "promo",
+    "element": "item",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_003_EN.webp"
+  },
+  {
+    "id": "Promo-A_4",
+    "set": "PROMO-A",
+    "number": 4,
+    "name": "Pokédex",
+    "rarity": "promo",
+    "element": "item",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_004_EN.webp"
+  },
+  {
+    "id": "Promo-A_5",
+    "set": "PROMO-A",
+    "number": 5,
+    "name": "Poké Ball",
+    "rarity": "promo",
+    "element": "item",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_005_EN.webp"
+  },
+  {
+    "id": "Promo-A_6",
+    "set": "PROMO-A",
+    "number": 6,
+    "name": "Red Card",
+    "rarity": "promo",
+    "element": "item",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_006_EN.webp"
+  },
+  {
+    "id": "Promo-A_8",
+    "set": "PROMO-A",
+    "number": 8,
+    "name": "Pokédex",
+    "rarity": "promo",
+    "element": "item",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "promo"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/P-A_008_EN.webp"
+  }
+]

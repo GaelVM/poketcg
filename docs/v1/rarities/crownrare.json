@@ -1,0 +1,86 @@
+[
+  {
+    "id": "A1_284",
+    "set": "A1",
+    "number": 284,
+    "name": "Charizard ex",
+    "rarity": "CrownRare",
+    "element": "fire",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "charizard",
+      "mewtwo",
+      "pikachu",
+      "mew"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/A1_284_EN.webp"
+  },
+  {
+    "id": "A1_285",
+    "set": "A1",
+    "number": 285,
+    "name": "Pikachu ex",
+    "rarity": "CrownRare",
+    "element": "lightning",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "charizard",
+      "mewtwo",
+      "pikachu",
+      "mew"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/A1_285_EN.webp"
+  },
+  {
+    "id": "A1_286",
+    "set": "A1",
+    "number": 286,
+    "name": "Mewtwo ex",
+    "rarity": "CrownRare",
+    "element": "undefined",
+    "type": "pokemon",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "charizard",
+      "mewtwo",
+      "pikachu",
+      "mew"
+    ],
+    "ex": false,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/A1_286_EN.webp"
+  },
+  {
+    "id": "A1a_086",
+    "set": "A1a",
+    "number": 86,
+    "name": "Mew ex",
+    "rarity": "CrownRare",
+    "element": "psychic",
+    "type": "pokemon",
+    "stage": "ex",
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "packs": [
+      "charizard",
+      "mewtwo",
+      "pikachu",
+      "mew"
+    ],
+    "ex": true,
+    "imageUrl": "https://db.aegalaxygolatam.com/tcg-pocket/data/img/A1a_086_EN.webp"
+  }
+]
