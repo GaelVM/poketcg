@@ -17,7 +17,7 @@
     ],
     "ex": false,
     "image": "cPK_20_000360_01_LIZARDONex_IM.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1/280.webp",
+    "imagePath": "cards/A1/280.webp",
     "setName": "Genes Formidables",
     "releaseDate": "2024-10-30"
   },
@@ -39,7 +39,7 @@
     ],
     "ex": false,
     "image": "cPK_20_000960_01_PIKACHUex_IM.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1/281.webp",
+    "imagePath": "cards/A1/281.webp",
     "setName": "Genes Formidables",
     "releaseDate": "2024-10-30"
   },
@@ -61,7 +61,7 @@
     ],
     "ex": false,
     "image": "cPK_20_001290_01_MEWTWOex_IM.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1/282.webp",
+    "imagePath": "cards/A1/282.webp",
     "setName": "Genes Formidables",
     "releaseDate": "2024-10-30"
   },
@@ -85,7 +85,7 @@
     ],
     "ex": false,
     "image": "cPK_20_002140_00_MEW_IM.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1/283.webp",
+    "imagePath": "cards/A1/283.webp",
     "setName": "Genes Formidables",
     "releaseDate": "2024-10-30"
   },
@@ -107,7 +107,7 @@
     ],
     "ex": false,
     "image": "cPK_20_002170_01_CELEBIex_IM.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/85.webp",
+    "imagePath": "cards/A1a/85.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -129,7 +129,7 @@
     ],
     "ex": false,
     "image": "cPK_20_003300_01_PALKIAex_IM.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2/204.webp",
+    "imagePath": "cards/A2/204.webp",
     "setName": "Space-Time Smackdown",
     "releaseDate": "2025-01-29"
   },
@@ -151,7 +151,7 @@
     ],
     "ex": false,
     "image": "cPK_20_004000_01_DIALGAex_IM.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2/205.webp",
+    "imagePath": "cards/A2/205.webp",
     "setName": "Space-Time Smackdown",
     "releaseDate": "2025-01-29"
   },
@@ -173,7 +173,7 @@
     ],
     "ex": false,
     "image": "cPK_20_004950_01_ARCEUSex_IM.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2a/95.webp",
+    "imagePath": "cards/A2a/95.webp",
     "setName": "Luz Triunfal",
     "releaseDate": "2025-02-28"
   },
@@ -195,7 +195,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005520_01_GIRATINAex_IM.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/96.webp",
+    "imagePath": "cards/A2b/96.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -219,7 +219,7 @@
     ],
     "ex": false,
     "image": "cTR_20_000550_01_GUZUMA_IM.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3/208.webp",
+    "imagePath": "cards/A3/208.webp",
     "setName": "Celestial Guardians",
     "releaseDate": "2025-04-30"
   },
@@ -243,7 +243,7 @@
     ],
     "ex": false,
     "image": "cTR_20_000590_01_LILIE_IM.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3/209.webp",
+    "imagePath": "cards/A3/209.webp",
     "setName": "Celestial Guardians",
     "releaseDate": "2025-04-30"
   },
@@ -265,7 +265,7 @@
     ],
     "ex": false,
     "image": "cPK_20_007480_01_MASSIVOONex_IM.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3a/88.webp",
+    "imagePath": "cards/A3a/88.webp",
     "setName": "Extradimensional Crisis",
     "releaseDate": "2025-05-29"
   },
@@ -287,7 +287,7 @@
     ],
     "ex": false,
     "image": "cPK_20_008480_01_EIEVUIex_IM.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/92.webp",
+    "imagePath": "cards/A3b/92.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -309,7 +309,7 @@
     ],
     "ex": false,
     "image": "cPK_20_008900_01_HOUOUex_IM.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4/210.webp",
+    "imagePath": "cards/A4/210.webp",
     "setName": "Wisdom of Sea and Sky",
     "releaseDate": "2025-07-30"
   },
@@ -331,7 +331,7 @@
     ],
     "ex": false,
     "image": "cPK_20_010050_01_LUGIAex_IM.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4/211.webp",
+    "imagePath": "cards/A4/211.webp",
     "setName": "Wisdom of Sea and Sky",
     "releaseDate": "2025-07-30"
   },
@@ -353,7 +353,7 @@
     ],
     "ex": false,
     "image": "cPK_20_010400_01_SUICUNEex_IM.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/90.webp",
+    "imagePath": "cards/A4a/90.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -375,7 +375,7 @@
     ],
     "ex": false,
     "image": "A4b_376.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4b/376.webp",
+    "imagePath": "cards/A4b/376.webp",
     "setName": "Deluxe Pack: ex",
     "releaseDate": "2025-09-30"
   },
@@ -397,7 +397,7 @@
     ],
     "ex": false,
     "image": "cPK_20_011180_01_MEGABURSYAMOex_IM.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/284.webp",
+    "imagePath": "cards/B1/284.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -419,7 +419,7 @@
     ],
     "ex": false,
     "image": "cPK_20_011340_01_MEGAGYARADOSex_IM.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/285.webp",
+    "imagePath": "cards/B1/285.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -441,7 +441,7 @@
     ],
     "ex": false,
     "image": "cPK_20_011840_01_MEGATYLTALISex_IM.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/286.webp",
+    "imagePath": "cards/B1/286.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -468,7 +468,7 @@
     ],
     "ex": false,
     "image": "cPK_20_013190_01_MEGALIZARDONYex_IM.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1a/87.webp",
+    "imagePath": "cards/B1a/87.webp",
     "setName": "Crimson Blaze",
     "releaseDate": "2025-12-17"
   }

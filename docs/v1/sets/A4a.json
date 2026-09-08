@@ -17,7 +17,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010220_00_HANECCO_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/1.webp",
+    "imagePath": "cards/A4a/1.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -39,7 +39,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010230_00_POPOCCO_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/2.webp",
+    "imagePath": "cards/A4a/2.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -61,7 +61,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010240_00_WATACCOex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/3.webp",
+    "imagePath": "cards/A4a/3.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -83,7 +83,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010250_00_HIMANUTS_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/4.webp",
+    "imagePath": "cards/A4a/4.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -105,7 +105,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010260_00_KIMAWARI_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/5.webp",
+    "imagePath": "cards/A4a/5.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -127,7 +127,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010270_00_CELEBI_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/6.webp",
+    "imagePath": "cards/A4a/6.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -149,7 +149,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010280_00_AIANT_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/7.webp",
+    "imagePath": "cards/A4a/7.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -171,7 +171,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010290_00_MAGMAG_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/8.webp",
+    "imagePath": "cards/A4a/8.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -193,7 +193,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010300_00_MAGCARGOT_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/9.webp",
+    "imagePath": "cards/A4a/9.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -215,7 +215,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010210_00_ENTEIex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/10.webp",
+    "imagePath": "cards/A4a/10.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -237,7 +237,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010310_00_HINOYAKOMA_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/11.webp",
+    "imagePath": "cards/A4a/11.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -259,7 +259,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010320_00_FIARROW_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/12.webp",
+    "imagePath": "cards/A4a/12.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -281,7 +281,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010330_00_NYOROMO_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/13.webp",
+    "imagePath": "cards/A4a/13.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -303,7 +303,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010340_00_NYOROZO_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/14.webp",
+    "imagePath": "cards/A4a/14.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -325,7 +325,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010350_00_MENOKURAGE_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/15.webp",
+    "imagePath": "cards/A4a/15.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -347,7 +347,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010360_00_DOKUKURAGE_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/16.webp",
+    "imagePath": "cards/A4a/16.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -369,7 +369,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010370_00_YADON_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/17.webp",
+    "imagePath": "cards/A4a/17.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -391,7 +391,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010380_00_YADOKING_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/18.webp",
+    "imagePath": "cards/A4a/18.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -413,7 +413,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010390_00_ROUGELA_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/19.webp",
+    "imagePath": "cards/A4a/19.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -435,7 +435,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010400_00_SUICUNEex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/20.webp",
+    "imagePath": "cards/A4a/20.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -457,7 +457,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010410_00_HINBASS_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/21.webp",
+    "imagePath": "cards/A4a/21.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -479,7 +479,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010120_00_MILOKAROSS_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/22.webp",
+    "imagePath": "cards/A4a/22.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -501,7 +501,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010420_00_TAMANTA_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/23.webp",
+    "imagePath": "cards/A4a/23.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -523,7 +523,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010430_00_FREEGEO_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/24.webp",
+    "imagePath": "cards/A4a/24.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -545,7 +545,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010440_00_RAIKOUex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/25.webp",
+    "imagePath": "cards/A4a/25.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -567,7 +567,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010450_00_SHIBISHIRASU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/26.webp",
+    "imagePath": "cards/A4a/26.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -589,7 +589,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010460_00_SHIBIBEEL_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/27.webp",
+    "imagePath": "cards/A4a/27.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -611,7 +611,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010470_00_SHIBIRUDON_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/28.webp",
+    "imagePath": "cards/A4a/28.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -633,7 +633,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010480_00_MAGGYO_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/29.webp",
+    "imagePath": "cards/A4a/29.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -655,7 +655,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010490_00_WANPACHI_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/30.webp",
+    "imagePath": "cards/A4a/30.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -677,7 +677,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010500_00_PULSEWAN_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/31.webp",
+    "imagePath": "cards/A4a/31.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -699,7 +699,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010510_00_MUMA_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/32.webp",
+    "imagePath": "cards/A4a/32.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -721,7 +721,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010520_00_MUMARGI_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/33.webp",
+    "imagePath": "cards/A4a/33.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -743,7 +743,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010530_00_GALARSUNNYGO_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/34.webp",
+    "imagePath": "cards/A4a/34.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -765,7 +765,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010540_00_GALARSUNIGOON_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/35.webp",
+    "imagePath": "cards/A4a/35.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -787,7 +787,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010200_00_LATIAS_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/36.webp",
+    "imagePath": "cards/A4a/36.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -809,7 +809,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010550_00_LATIOS_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/37.webp",
+    "imagePath": "cards/A4a/37.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -831,7 +831,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010560_00_PURURILL_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/38.webp",
+    "imagePath": "cards/A4a/38.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -853,7 +853,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010570_00_BURUNGEL_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/39.webp",
+    "imagePath": "cards/A4a/39.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -875,7 +875,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010580_00_DIGDA_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/40.webp",
+    "imagePath": "cards/A4a/40.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -897,7 +897,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010590_00_DUGTRIO_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/41.webp",
+    "imagePath": "cards/A4a/41.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -919,7 +919,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010600_00_NYOROBONex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/42.webp",
+    "imagePath": "cards/A4a/42.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -941,7 +941,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010190_00_GOMAZOU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/43.webp",
+    "imagePath": "cards/A4a/43.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -963,7 +963,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010610_00_DONFAN_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/44.webp",
+    "imagePath": "cards/A4a/44.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -985,7 +985,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010620_00_GLANTH_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/45.webp",
+    "imagePath": "cards/A4a/45.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1007,7 +1007,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010630_00_ISHIZUMAI_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/46.webp",
+    "imagePath": "cards/A4a/46.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1029,7 +1029,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010640_00_IWAPALACE_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/47.webp",
+    "imagePath": "cards/A4a/47.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1051,7 +1051,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010650_00_HABUNAKE_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/48.webp",
+    "imagePath": "cards/A4a/48.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1073,7 +1073,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010130_00_ZORUA_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/49.webp",
+    "imagePath": "cards/A4a/49.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1095,7 +1095,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010140_00_ZOROARK_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/50.webp",
+    "imagePath": "cards/A4a/50.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1117,7 +1117,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010660_00_MAAIIKA_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/51.webp",
+    "imagePath": "cards/A4a/51.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1139,7 +1139,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010670_00_CALAMANERO_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/52.webp",
+    "imagePath": "cards/A4a/52.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1161,7 +1161,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010680_00_KUZUMO_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/53.webp",
+    "imagePath": "cards/A4a/53.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1183,7 +1183,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010690_00_DRAMIDORO_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/54.webp",
+    "imagePath": "cards/A4a/54.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1205,7 +1205,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010700_00_TYLTALIS_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/55.webp",
+    "imagePath": "cards/A4a/55.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1227,7 +1227,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010710_00_KAMONEGI_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/56.webp",
+    "imagePath": "cards/A4a/56.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1249,7 +1249,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010720_00_BERORINGA_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/57.webp",
+    "imagePath": "cards/A4a/57.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1271,7 +1271,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010730_00_BEROBELT_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/58.webp",
+    "imagePath": "cards/A4a/58.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1293,7 +1293,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010740_00_PUPURIN_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/59.webp",
+    "imagePath": "cards/A4a/59.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1315,7 +1315,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010750_00_HIMEGUMA_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/60.webp",
+    "imagePath": "cards/A4a/60.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1337,7 +1337,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010760_00_RINGUMA_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/61.webp",
+    "imagePath": "cards/A4a/61.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1359,7 +1359,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010180_00_MILTANK_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/62.webp",
+    "imagePath": "cards/A4a/62.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1381,7 +1381,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010770_00_RURIRI_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/63.webp",
+    "imagePath": "cards/A4a/63.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1403,7 +1403,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010780_00_TYLTTO_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/64.webp",
+    "imagePath": "cards/A4a/64.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1425,7 +1425,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010790_00_ZANGOOSE_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/65.webp",
+    "imagePath": "cards/A4a/65.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1447,7 +1447,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010800_00_YAYAKOMA_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/66.webp",
+    "imagePath": "cards/A4a/66.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1471,7 +1471,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000820_00_WHOTABOTO_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/67.webp",
+    "imagePath": "cards/A4a/67.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1496,7 +1496,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000830_00_MEMORYLIGHT_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/68.webp",
+    "imagePath": "cards/A4a/68.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1520,7 +1520,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000840_00_AKANE_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/69.webp",
+    "imagePath": "cards/A4a/69.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1544,7 +1544,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000850_00_TABINOGYOUSHOUNIN_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/70.webp",
+    "imagePath": "cards/A4a/70.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1568,7 +1568,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000860_00_MATSUBA_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/71.webp",
+    "imagePath": "cards/A4a/71.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1590,7 +1590,7 @@
     ],
     "ex": false,
     "image": "cPK_20_010120_00_MILOKAROSS_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/72.webp",
+    "imagePath": "cards/A4a/72.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1612,7 +1612,7 @@
     ],
     "ex": false,
     "image": "cPK_20_010480_00_MAGGYO_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/73.webp",
+    "imagePath": "cards/A4a/73.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1634,7 +1634,7 @@
     ],
     "ex": false,
     "image": "cPK_20_010490_00_WANPACHI_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/74.webp",
+    "imagePath": "cards/A4a/74.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1656,7 +1656,7 @@
     ],
     "ex": false,
     "image": "cPK_20_010550_00_LATIOS_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/75.webp",
+    "imagePath": "cards/A4a/75.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1678,7 +1678,7 @@
     ],
     "ex": false,
     "image": "cPK_20_010190_00_GOMAZOU_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/76.webp",
+    "imagePath": "cards/A4a/76.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1700,7 +1700,7 @@
     ],
     "ex": false,
     "image": "cPK_20_010770_00_RURIRI_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/77.webp",
+    "imagePath": "cards/A4a/77.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1722,7 +1722,7 @@
     ],
     "ex": false,
     "image": "cPK_20_010240_00_WATACCOex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/78.webp",
+    "imagePath": "cards/A4a/78.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1744,7 +1744,7 @@
     ],
     "ex": false,
     "image": "cPK_20_010210_00_ENTEIex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/79.webp",
+    "imagePath": "cards/A4a/79.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1766,7 +1766,7 @@
     ],
     "ex": false,
     "image": "cPK_20_010400_00_SUICUNEex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/80.webp",
+    "imagePath": "cards/A4a/80.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1788,7 +1788,7 @@
     ],
     "ex": false,
     "image": "cPK_20_010440_00_RAIKOUex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/81.webp",
+    "imagePath": "cards/A4a/81.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1810,7 +1810,7 @@
     ],
     "ex": false,
     "image": "cPK_20_010600_00_NYOROBONex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/82.webp",
+    "imagePath": "cards/A4a/82.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1834,7 +1834,7 @@
     ],
     "ex": false,
     "image": "cTR_20_000840_00_AKANE_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/83.webp",
+    "imagePath": "cards/A4a/83.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1858,7 +1858,7 @@
     ],
     "ex": false,
     "image": "cTR_20_000850_00_TABINOGYOUSHOUNIN_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/84.webp",
+    "imagePath": "cards/A4a/84.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1882,7 +1882,7 @@
     ],
     "ex": false,
     "image": "cTR_20_000860_00_MATSUBA_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/85.webp",
+    "imagePath": "cards/A4a/85.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1904,7 +1904,7 @@
     ],
     "ex": false,
     "image": "cPK_20_010240_01_WATACCOex_SAR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/86.webp",
+    "imagePath": "cards/A4a/86.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1926,7 +1926,7 @@
     ],
     "ex": false,
     "image": "cPK_20_010210_01_ENTEIex_SAR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/87.webp",
+    "imagePath": "cards/A4a/87.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1948,7 +1948,7 @@
     ],
     "ex": false,
     "image": "cPK_20_010440_01_RAIKOUex_SAR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/88.webp",
+    "imagePath": "cards/A4a/88.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1970,7 +1970,7 @@
     ],
     "ex": false,
     "image": "cPK_20_010600_01_NYOROBONex_SAR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/89.webp",
+    "imagePath": "cards/A4a/89.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -1992,7 +1992,7 @@
     ],
     "ex": false,
     "image": "cPK_20_010400_01_SUICUNEex_IM.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/90.webp",
+    "imagePath": "cards/A4a/90.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -2014,7 +2014,7 @@
     ],
     "ex": false,
     "image": "cPK_20_003080_00_HIKOZARU_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/91.webp",
+    "imagePath": "cards/A4a/91.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -2036,7 +2036,7 @@
     ],
     "ex": false,
     "image": "cPK_20_003090_00_MOUKAZARU_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/92.webp",
+    "imagePath": "cards/A4a/92.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -2058,7 +2058,7 @@
     ],
     "ex": false,
     "image": "cPK_20_000570_00_KODUCK_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/93.webp",
+    "imagePath": "cards/A4a/93.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -2080,7 +2080,7 @@
     ],
     "ex": false,
     "image": "cPK_20_000580_00_GOLDUCK_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/94.webp",
+    "imagePath": "cards/A4a/94.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -2102,7 +2102,7 @@
     ],
     "ex": false,
     "image": "cPK_20_000680_00_CRAB_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/95.webp",
+    "imagePath": "cards/A4a/95.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -2124,7 +2124,7 @@
     ],
     "ex": false,
     "image": "cPK_20_000690_00_KINGLER_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/96.webp",
+    "imagePath": "cards/A4a/96.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -2146,7 +2146,7 @@
     ],
     "ex": false,
     "image": "cPK_20_006350_01_NAMAKOBUSHI_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/97.webp",
+    "imagePath": "cards/A4a/97.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -2168,7 +2168,7 @@
     ],
     "ex": false,
     "image": "cPK_20_004690_00_FUKAMARU_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/98.webp",
+    "imagePath": "cards/A4a/98.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -2190,7 +2190,7 @@
     ],
     "ex": false,
     "image": "cPK_20_004700_00_GABITE_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/99.webp",
+    "imagePath": "cards/A4a/99.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -2212,7 +2212,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005620_00_PALDEAUPAH_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/100.webp",
+    "imagePath": "cards/A4a/100.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -2234,7 +2234,7 @@
     ],
     "ex": false,
     "image": "cPK_20_003100_02_GOUKAZARUex_SSR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/101.webp",
+    "imagePath": "cards/A4a/101.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -2256,7 +2256,7 @@
     ],
     "ex": false,
     "image": "cPK_20_002450_03_MEWex_SSR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/102.webp",
+    "imagePath": "cards/A4a/102.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -2278,7 +2278,7 @@
     ],
     "ex": false,
     "image": "cPK_20_004710_02_GABURIASex_SSR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/103.webp",
+    "imagePath": "cards/A4a/103.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -2300,7 +2300,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005630_02_PALDEADOOHex_SSR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/104.webp",
+    "imagePath": "cards/A4a/104.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   },
@@ -2322,7 +2322,7 @@
     ],
     "ex": false,
     "image": "cPK_20_010420_00_TAMANTA_UR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4a/105.webp",
+    "imagePath": "cards/A4a/105.webp",
     "setName": "Secluded Springs",
     "releaseDate": "2025-08-28"
   }

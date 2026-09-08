@@ -17,7 +17,7 @@
     ],
     "ex": false,
     "image": "cPK_10_007970_00_TROPIUS_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/1.webp",
+    "imagePath": "cards/A3b/1.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -39,7 +39,7 @@
     ],
     "ex": false,
     "image": "cPK_10_007980_00_LEAFIA_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/2.webp",
+    "imagePath": "cards/A3b/2.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -61,7 +61,7 @@
     ],
     "ex": false,
     "image": "cPK_10_007990_00_AMAKAJI_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/3.webp",
+    "imagePath": "cards/A3b/3.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -83,7 +83,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008000_00_AMAMAIKO_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/4.webp",
+    "imagePath": "cards/A3b/4.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -105,7 +105,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008010_00_AMAJO_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/5.webp",
+    "imagePath": "cards/A3b/5.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -127,7 +127,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008020_00_KAJICCHU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/6.webp",
+    "imagePath": "cards/A3b/6.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -149,7 +149,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008030_00_TARUPPLE_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/7.webp",
+    "imagePath": "cards/A3b/7.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -171,7 +171,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008040_00_BOOSTER_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/8.webp",
+    "imagePath": "cards/A3b/8.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -193,7 +193,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008050_00_BOOSTERex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/9.webp",
+    "imagePath": "cards/A3b/9.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -215,7 +215,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008060_00_COTOISE_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/10.webp",
+    "imagePath": "cards/A3b/10.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -237,7 +237,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008070_00_NYABBY_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/11.webp",
+    "imagePath": "cards/A3b/11.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -259,7 +259,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008080_00_NYAHEAT_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/12.webp",
+    "imagePath": "cards/A3b/12.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -281,7 +281,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008090_00_GAOGAEN_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/13.webp",
+    "imagePath": "cards/A3b/13.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -303,7 +303,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008100_00_YATOUMORI_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/14.webp",
+    "imagePath": "cards/A3b/14.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -325,7 +325,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008110_00_ENNEWT_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/15.webp",
+    "imagePath": "cards/A3b/15.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -347,7 +347,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008120_00_SHOWERS_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/16.webp",
+    "imagePath": "cards/A3b/16.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -369,7 +369,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008130_00_GLACIA_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/17.webp",
+    "imagePath": "cards/A3b/17.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -391,7 +391,7 @@
     ],
     "ex": false,
     "image": "cPK_10_007320_00_VANIPETI_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/18.webp",
+    "imagePath": "cards/A3b/18.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -413,7 +413,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008140_00_VANIRICH_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/19.webp",
+    "imagePath": "cards/A3b/19.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -435,7 +435,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008150_00_BAIVANILLA_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/20.webp",
+    "imagePath": "cards/A3b/20.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -457,7 +457,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008160_00_MAMANBOU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/21.webp",
+    "imagePath": "cards/A3b/21.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -479,7 +479,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008170_00_ASHIMARI_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/22.webp",
+    "imagePath": "cards/A3b/22.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -501,7 +501,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008180_00_OSYAMARI_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/23.webp",
+    "imagePath": "cards/A3b/23.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -523,7 +523,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008190_00_ASHIRENEex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/24.webp",
+    "imagePath": "cards/A3b/24.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -545,7 +545,7 @@
     ],
     "ex": false,
     "image": "cPK_10_007330_00_THUNDERS_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/25.webp",
+    "imagePath": "cards/A3b/25.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -567,7 +567,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008200_00_BACHURU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/26.webp",
+    "imagePath": "cards/A3b/26.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -589,7 +589,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008210_00_DENTULA_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/27.webp",
+    "imagePath": "cards/A3b/27.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -611,7 +611,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008220_00_EIFIE_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/28.webp",
+    "imagePath": "cards/A3b/28.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -633,7 +633,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008230_00_KOROMORI_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/29.webp",
+    "imagePath": "cards/A3b/29.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -655,7 +655,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008240_00_KOKOROMORI_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/30.webp",
+    "imagePath": "cards/A3b/30.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -677,7 +677,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008250_00_PEROPPAFU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/31.webp",
+    "imagePath": "cards/A3b/31.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -699,7 +699,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008260_00_PEROREAM_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/32.webp",
+    "imagePath": "cards/A3b/32.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -721,7 +721,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008270_00_NYMPHIA_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/33.webp",
+    "imagePath": "cards/A3b/33.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -743,7 +743,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008280_00_NYMPHIAex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/34.webp",
+    "imagePath": "cards/A3b/34.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -765,7 +765,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008290_00_MIMIKKYU_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/35.webp",
+    "imagePath": "cards/A3b/35.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -787,7 +787,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008300_00_MAHOMIL_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/36.webp",
+    "imagePath": "cards/A3b/36.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -809,7 +809,7 @@
     ],
     "ex": false,
     "image": "cPK_10_007340_00_MAWHIP_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/37.webp",
+    "imagePath": "cards/A3b/37.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -831,7 +831,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008310_00_DOJOACH_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/38.webp",
+    "imagePath": "cards/A3b/38.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -853,7 +853,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008320_00_NAMAZUN_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/39.webp",
+    "imagePath": "cards/A3b/39.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -875,7 +875,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008330_00_KOJOFU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/40.webp",
+    "imagePath": "cards/A3b/40.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -897,7 +897,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008340_00_KOJONDO_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/41.webp",
+    "imagePath": "cards/A3b/41.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -919,7 +919,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008350_00_MELECIE_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/42.webp",
+    "imagePath": "cards/A3b/42.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -941,7 +941,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008360_00_BRACKY_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/43.webp",
+    "imagePath": "cards/A3b/43.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -963,7 +963,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008370_00_YAMIRAMI_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/44.webp",
+    "imagePath": "cards/A3b/44.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -985,7 +985,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008380_00_CHORONEKO_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/45.webp",
+    "imagePath": "cards/A3b/45.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1007,7 +1007,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008390_00_LEPARDAS_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/46.webp",
+    "imagePath": "cards/A3b/46.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1029,7 +1029,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008400_00_KUCHEAT_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/47.webp",
+    "imagePath": "cards/A3b/47.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1051,7 +1051,7 @@
     ],
     "ex": false,
     "image": "cPK_10_007390_00_TOGEDEMARU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/48.webp",
+    "imagePath": "cards/A3b/48.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1073,7 +1073,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008410_00_MELTAN_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/49.webp",
+    "imagePath": "cards/A3b/49.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1095,7 +1095,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008420_00_MELMETAL_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/50.webp",
+    "imagePath": "cards/A3b/50.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1117,7 +1117,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008430_00_MINIRYU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/51.webp",
+    "imagePath": "cards/A3b/51.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1139,7 +1139,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008440_00_HAKURYU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/52.webp",
+    "imagePath": "cards/A3b/52.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1161,7 +1161,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008450_00_KAIRYUex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/53.webp",
+    "imagePath": "cards/A3b/53.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1183,7 +1183,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008460_00_JIJILONG_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/54.webp",
+    "imagePath": "cards/A3b/54.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1205,7 +1205,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008470_00_EIEVUI_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/55.webp",
+    "imagePath": "cards/A3b/55.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1227,7 +1227,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008480_00_EIEVUIex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/56.webp",
+    "imagePath": "cards/A3b/56.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1249,7 +1249,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008490_00_KABIGONex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/57.webp",
+    "imagePath": "cards/A3b/57.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1271,7 +1271,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008500_00_EIPAM_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/58.webp",
+    "imagePath": "cards/A3b/58.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1293,7 +1293,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008510_00_ETEBOTH_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/59.webp",
+    "imagePath": "cards/A3b/59.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1315,7 +1315,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008520_00_PERAP_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/60.webp",
+    "imagePath": "cards/A3b/60.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1337,7 +1337,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008530_00_TABUNNE_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/61.webp",
+    "imagePath": "cards/A3b/61.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1359,7 +1359,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008540_00_CHILLARMY_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/62.webp",
+    "imagePath": "cards/A3b/62.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1381,7 +1381,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008550_00_CHILLACCINO_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/63.webp",
+    "imagePath": "cards/A3b/63.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1403,7 +1403,7 @@
     ],
     "ex": false,
     "image": "cPK_10_008560_00_HOSHIGARISU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/64.webp",
+    "imagePath": "cards/A3b/64.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1425,7 +1425,7 @@
     ],
     "ex": false,
     "image": "cPK_10_007400_00_YOKUBARISU_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/65.webp",
+    "imagePath": "cards/A3b/65.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1449,7 +1449,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000670_00_IIBUINOBAKKU_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/66.webp",
+    "imagePath": "cards/A3b/66.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1473,7 +1473,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000680_00_TABENOKOSHI_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/67.webp",
+    "imagePath": "cards/A3b/67.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1499,7 +1499,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000690_00_HAU_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/68.webp",
+    "imagePath": "cards/A3b/68.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1523,7 +1523,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000700_00_BOTAN_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/69.webp",
+    "imagePath": "cards/A3b/69.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1545,7 +1545,7 @@
     ],
     "ex": false,
     "image": "cPK_20_007980_00_LEAFIA_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/70.webp",
+    "imagePath": "cards/A3b/70.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1567,7 +1567,7 @@
     ],
     "ex": false,
     "image": "cPK_20_008040_00_BOOSTER_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/71.webp",
+    "imagePath": "cards/A3b/71.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1589,7 +1589,7 @@
     ],
     "ex": false,
     "image": "cPK_20_008120_00_SHOWERS_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/72.webp",
+    "imagePath": "cards/A3b/72.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1611,7 +1611,7 @@
     ],
     "ex": false,
     "image": "cPK_20_008130_00_GLACIA_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/73.webp",
+    "imagePath": "cards/A3b/73.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1633,7 +1633,7 @@
     ],
     "ex": false,
     "image": "cPK_20_007330_00_THUNDERS_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/74.webp",
+    "imagePath": "cards/A3b/74.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1655,7 +1655,7 @@
     ],
     "ex": false,
     "image": "cPK_20_008220_00_EIFIE_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/75.webp",
+    "imagePath": "cards/A3b/75.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1677,7 +1677,7 @@
     ],
     "ex": false,
     "image": "cPK_20_008270_00_NYMPHIA_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/76.webp",
+    "imagePath": "cards/A3b/76.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1699,7 +1699,7 @@
     ],
     "ex": false,
     "image": "cPK_20_008360_00_BRACKY_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/77.webp",
+    "imagePath": "cards/A3b/77.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1721,7 +1721,7 @@
     ],
     "ex": false,
     "image": "cPK_20_008470_00_EIEVUI_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/78.webp",
+    "imagePath": "cards/A3b/78.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1743,7 +1743,7 @@
     ],
     "ex": false,
     "image": "cPK_20_008050_00_BOOSTERex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/79.webp",
+    "imagePath": "cards/A3b/79.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1765,7 +1765,7 @@
     ],
     "ex": false,
     "image": "cPK_20_008190_00_ASHIRENEex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/80.webp",
+    "imagePath": "cards/A3b/80.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1787,7 +1787,7 @@
     ],
     "ex": false,
     "image": "cPK_20_008280_00_NYMPHIAex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/81.webp",
+    "imagePath": "cards/A3b/81.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1809,7 +1809,7 @@
     ],
     "ex": false,
     "image": "cPK_20_008450_00_KAIRYUex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/82.webp",
+    "imagePath": "cards/A3b/82.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1831,7 +1831,7 @@
     ],
     "ex": false,
     "image": "cPK_20_008480_00_EIEVUIex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/83.webp",
+    "imagePath": "cards/A3b/83.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1853,7 +1853,7 @@
     ],
     "ex": false,
     "image": "cPK_20_008490_00_KABIGONex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/84.webp",
+    "imagePath": "cards/A3b/84.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1879,7 +1879,7 @@
     ],
     "ex": false,
     "image": "cTR_20_000690_00_HAU_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/85.webp",
+    "imagePath": "cards/A3b/85.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1903,7 +1903,7 @@
     ],
     "ex": false,
     "image": "cTR_20_000700_00_BOTAN_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/86.webp",
+    "imagePath": "cards/A3b/86.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1925,7 +1925,7 @@
     ],
     "ex": false,
     "image": "cPK_20_008050_01_BOOSTERex_SAR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/87.webp",
+    "imagePath": "cards/A3b/87.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1947,7 +1947,7 @@
     ],
     "ex": false,
     "image": "cPK_20_008190_01_ASHIRENEex_SAR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/88.webp",
+    "imagePath": "cards/A3b/88.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1969,7 +1969,7 @@
     ],
     "ex": false,
     "image": "cPK_20_008280_01_NYMPHIAex_SAR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/89.webp",
+    "imagePath": "cards/A3b/89.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -1991,7 +1991,7 @@
     ],
     "ex": false,
     "image": "cPK_20_008450_01_KAIRYUex_SAR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/90.webp",
+    "imagePath": "cards/A3b/90.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -2013,7 +2013,7 @@
     ],
     "ex": false,
     "image": "cPK_20_008490_01_KABIGONex_SAR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/91.webp",
+    "imagePath": "cards/A3b/91.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -2035,7 +2035,7 @@
     ],
     "ex": false,
     "image": "cPK_20_008480_01_EIEVUIex_IM.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/92.webp",
+    "imagePath": "cards/A3b/92.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -2057,7 +2057,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005240_00_KAILIOS_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/93.webp",
+    "imagePath": "cards/A3b/93.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -2079,7 +2079,7 @@
     ],
     "ex": false,
     "image": "cPK_20_000790_01_LAPLACE_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/94.webp",
+    "imagePath": "cards/A3b/94.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -2101,7 +2101,7 @@
     ],
     "ex": false,
     "image": "cPK_20_003350_00_BIRIRIDAMA_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/95.webp",
+    "imagePath": "cards/A3b/95.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -2123,7 +2123,7 @@
     ],
     "ex": false,
     "image": "cPK_20_003360_00_MARUMINE_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/96.webp",
+    "imagePath": "cards/A3b/96.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -2145,7 +2145,7 @@
     ],
     "ex": false,
     "image": "cPK_20_003490_00_RALTS_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/97.webp",
+    "imagePath": "cards/A3b/97.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -2167,7 +2167,7 @@
     ],
     "ex": false,
     "image": "cPK_20_003500_00_KIRLIA_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/98.webp",
+    "imagePath": "cards/A3b/98.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -2189,7 +2189,7 @@
     ],
     "ex": false,
     "image": "cPK_20_001320_00_SIRNIGHT_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/99.webp",
+    "imagePath": "cards/A3b/99.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -2211,7 +2211,7 @@
     ],
     "ex": false,
     "image": "cPK_20_001640_00_ARBO_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/100.webp",
+    "imagePath": "cards/A3b/100.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -2233,7 +2233,7 @@
     ],
     "ex": false,
     "image": "cPK_20_001650_00_ARBOK_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/101.webp",
+    "imagePath": "cards/A3b/101.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -2255,7 +2255,7 @@
     ],
     "ex": false,
     "image": "cPK_20_001980_00_KAMONEGI_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/102.webp",
+    "imagePath": "cards/A3b/102.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -2277,7 +2277,7 @@
     ],
     "ex": false,
     "image": "cPK_20_000470_02_FIREex_SSR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/103.webp",
+    "imagePath": "cards/A3b/103.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -2299,7 +2299,7 @@
     ],
     "ex": false,
     "image": "cPK_20_000840_02_FREEZERex_SSR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/104.webp",
+    "imagePath": "cards/A3b/104.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -2321,7 +2321,7 @@
     ],
     "ex": false,
     "image": "cPK_20_001040_02_THUNDERex_SSR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/105.webp",
+    "imagePath": "cards/A3b/105.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -2343,7 +2343,7 @@
     ],
     "ex": false,
     "image": "cPK_20_003760_02_ERUREIDOex_SSR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/106.webp",
+    "imagePath": "cards/A3b/106.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   },
@@ -2367,7 +2367,7 @@
     ],
     "ex": false,
     "image": "cTR_20_000670_00_IIBUINOBAKKU_UR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A3b/107.webp",
+    "imagePath": "cards/A3b/107.webp",
     "setName": "Eevee Grove",
     "releaseDate": "2025-06-26"
   }

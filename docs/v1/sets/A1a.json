@@ -17,7 +17,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002150_00_TAMATAMA_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/1.webp",
+    "imagePath": "cards/A1a/1.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -39,7 +39,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002160_00_NASSY_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/2.webp",
+    "imagePath": "cards/A1a/2.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -61,7 +61,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002170_00_CELEBIex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/3.webp",
+    "imagePath": "cards/A1a/3.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -83,7 +83,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002180_00_TSUTARJA_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/4.webp",
+    "imagePath": "cards/A1a/4.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -105,7 +105,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002190_00_JANOVY_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/5.webp",
+    "imagePath": "cards/A1a/5.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -127,7 +127,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002200_00_JALORDA_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/6.webp",
+    "imagePath": "cards/A1a/6.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -149,7 +149,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002210_00_NEMASYU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/7.webp",
+    "imagePath": "cards/A1a/7.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -171,7 +171,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002220_00_MASHADE_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/8.webp",
+    "imagePath": "cards/A1a/8.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -193,7 +193,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002230_00_DADARIN_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/9.webp",
+    "imagePath": "cards/A1a/9.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -215,7 +215,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002240_00_PONYTA_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/10.webp",
+    "imagePath": "cards/A1a/10.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -237,7 +237,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002250_00_GALLOP_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/11.webp",
+    "imagePath": "cards/A1a/11.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -259,7 +259,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002260_00_BOOBER_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/12.webp",
+    "imagePath": "cards/A1a/12.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -281,7 +281,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002270_00_MERLARVA_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/13.webp",
+    "imagePath": "cards/A1a/13.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -303,7 +303,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002280_00_ULGAMOTH_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/14.webp",
+    "imagePath": "cards/A1a/14.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -325,7 +325,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002290_00_YATOUMORI_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/15.webp",
+    "imagePath": "cards/A1a/15.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -347,7 +347,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002300_00_ENNEWT_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/16.webp",
+    "imagePath": "cards/A1a/16.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -369,7 +369,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002310_00_KOIKING_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/17.webp",
+    "imagePath": "cards/A1a/17.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -391,7 +391,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002320_00_GYARADOSex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/18.webp",
+    "imagePath": "cards/A1a/18.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -413,7 +413,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002330_00_SHOWERS_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/19.webp",
+    "imagePath": "cards/A1a/19.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -435,7 +435,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002340_00_KEIKOUO_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/20.webp",
+    "imagePath": "cards/A1a/20.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -457,7 +457,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002350_00_NEOLANT_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/21.webp",
+    "imagePath": "cards/A1a/21.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -479,7 +479,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002360_00_KAMUKAME_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/22.webp",
+    "imagePath": "cards/A1a/22.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -501,7 +501,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002370_00_KAJIRIGAME_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/23.webp",
+    "imagePath": "cards/A1a/23.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -523,7 +523,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002380_00_UU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/24.webp",
+    "imagePath": "cards/A1a/24.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -545,7 +545,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002390_00_PIKACHU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/25.webp",
+    "imagePath": "cards/A1a/25.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -567,7 +567,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002400_00_RAICHU_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/26.webp",
+    "imagePath": "cards/A1a/26.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -589,7 +589,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002410_00_ELEBOO_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/27.webp",
+    "imagePath": "cards/A1a/27.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -611,7 +611,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002420_00_BACHURU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/28.webp",
+    "imagePath": "cards/A1a/28.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -633,7 +633,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002430_00_DENTULA_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/29.webp",
+    "imagePath": "cards/A1a/29.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -655,7 +655,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002440_00_DEDENNE_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/30.webp",
+    "imagePath": "cards/A1a/30.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -677,7 +677,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002140_00_MEW_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/31.webp",
+    "imagePath": "cards/A1a/31.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -699,7 +699,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002450_00_MEWex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/32.webp",
+    "imagePath": "cards/A1a/32.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -721,7 +721,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002460_00_SYMBOLER_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/33.webp",
+    "imagePath": "cards/A1a/33.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -743,7 +743,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002470_00_LIGRAY_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/34.webp",
+    "imagePath": "cards/A1a/34.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -765,7 +765,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002500_00_OHBEM_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/35.webp",
+    "imagePath": "cards/A1a/35.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -787,7 +787,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002510_00_FLABEBE_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/36.webp",
+    "imagePath": "cards/A1a/36.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -809,7 +809,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002520_00_FLOETTE_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/37.webp",
+    "imagePath": "cards/A1a/37.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -831,7 +831,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002480_00_FLORGES_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/38.webp",
+    "imagePath": "cards/A1a/38.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -853,7 +853,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002490_00_PEROPPAFU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/39.webp",
+    "imagePath": "cards/A1a/39.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -875,7 +875,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002530_00_PEROREAM_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/40.webp",
+    "imagePath": "cards/A1a/40.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -897,7 +897,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002540_00_MANKEY_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/41.webp",
+    "imagePath": "cards/A1a/41.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -919,7 +919,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002550_00_OKORIZARU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/42.webp",
+    "imagePath": "cards/A1a/42.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -941,7 +941,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002560_00_ISITSUBUTE_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/43.webp",
+    "imagePath": "cards/A1a/43.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -963,7 +963,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002570_00_GOLONE_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/44.webp",
+    "imagePath": "cards/A1a/44.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -985,7 +985,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002580_00_GOLONYA_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/45.webp",
+    "imagePath": "cards/A1a/45.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1007,7 +1007,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002590_00_PTERAex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/46.webp",
+    "imagePath": "cards/A1a/46.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1029,7 +1029,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002600_00_MARSHADOW_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/47.webp",
+    "imagePath": "cards/A1a/47.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1051,7 +1051,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002610_00_ISHIHENGIN_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/48.webp",
+    "imagePath": "cards/A1a/48.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1073,7 +1073,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002620_00_DOGARS_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/49.webp",
+    "imagePath": "cards/A1a/49.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1095,7 +1095,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002630_00_MATADOGAS_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/50.webp",
+    "imagePath": "cards/A1a/50.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1117,7 +1117,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002640_00_CHORONEKO_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/51.webp",
+    "imagePath": "cards/A1a/51.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1139,7 +1139,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002650_00_LEPARDAS_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/52.webp",
+    "imagePath": "cards/A1a/52.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1161,7 +1161,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002660_00_FUSHIDE_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/53.webp",
+    "imagePath": "cards/A1a/53.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1183,7 +1183,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002670_00_WHEEGA_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/54.webp",
+    "imagePath": "cards/A1a/54.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1205,7 +1205,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002680_00_PENDROR_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/55.webp",
+    "imagePath": "cards/A1a/55.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1227,7 +1227,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002690_00_CRIMGAN_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/56.webp",
+    "imagePath": "cards/A1a/56.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1249,7 +1249,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002700_00_POPPO_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/57.webp",
+    "imagePath": "cards/A1a/57.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1271,7 +1271,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002710_00_PIGEON_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/58.webp",
+    "imagePath": "cards/A1a/58.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1293,7 +1293,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002720_00_PIGEOTex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/59.webp",
+    "imagePath": "cards/A1a/59.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1315,7 +1315,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002730_00_KENTAUROS_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/60.webp",
+    "imagePath": "cards/A1a/60.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1337,7 +1337,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002740_00_EIEVUI_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/61.webp",
+    "imagePath": "cards/A1a/61.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1359,7 +1359,7 @@
     ],
     "ex": false,
     "image": "cPK_10_002750_00_PERAP_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/62.webp",
+    "imagePath": "cards/A1a/62.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1381,7 +1381,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000100_00_HIMITSUNOKOHAKU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/63.webp",
+    "imagePath": "cards/A1a/63.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1405,7 +1405,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000200_00_POKEMONNOFUE_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/64.webp",
+    "imagePath": "cards/A1a/64.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1429,7 +1429,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000190_00_MABOROSHINOSEKIBAN_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/65.webp",
+    "imagePath": "cards/A1a/65.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1453,7 +1453,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000220_00_KAKEDASHICHOSAIN_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/66.webp",
+    "imagePath": "cards/A1a/66.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1477,7 +1477,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000210_00_GREEN_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/67.webp",
+    "imagePath": "cards/A1a/67.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1501,7 +1501,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000230_00_LEAF_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/68.webp",
+    "imagePath": "cards/A1a/68.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1523,7 +1523,7 @@
     ],
     "ex": false,
     "image": "cPK_20_002160_00_NASSY_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/69.webp",
+    "imagePath": "cards/A1a/69.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1545,7 +1545,7 @@
     ],
     "ex": false,
     "image": "cPK_20_002200_00_JALORDA_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/70.webp",
+    "imagePath": "cards/A1a/70.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1567,7 +1567,7 @@
     ],
     "ex": false,
     "image": "cPK_20_002290_00_YATOUMORI_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/71.webp",
+    "imagePath": "cards/A1a/71.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1589,7 +1589,7 @@
     ],
     "ex": false,
     "image": "cPK_20_002330_00_SHOWERS_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/72.webp",
+    "imagePath": "cards/A1a/72.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1611,7 +1611,7 @@
     ],
     "ex": false,
     "image": "cPK_20_002440_00_DEDENNE_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/73.webp",
+    "imagePath": "cards/A1a/73.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1633,7 +1633,7 @@
     ],
     "ex": false,
     "image": "cPK_20_002600_00_MARSHADOW_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/74.webp",
+    "imagePath": "cards/A1a/74.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1655,7 +1655,7 @@
     ],
     "ex": false,
     "image": "cPK_20_002170_00_CELEBIex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/75.webp",
+    "imagePath": "cards/A1a/75.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1677,7 +1677,7 @@
     ],
     "ex": false,
     "image": "cPK_20_002320_00_GYARADOSex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/76.webp",
+    "imagePath": "cards/A1a/76.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1699,7 +1699,7 @@
     ],
     "ex": false,
     "image": "cPK_20_002450_00_MEWex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/77.webp",
+    "imagePath": "cards/A1a/77.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1721,7 +1721,7 @@
     ],
     "ex": false,
     "image": "cPK_20_002590_00_PTERAex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/78.webp",
+    "imagePath": "cards/A1a/78.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1743,7 +1743,7 @@
     ],
     "ex": false,
     "image": "cPK_20_002720_00_PIGEOTex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/79.webp",
+    "imagePath": "cards/A1a/79.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1767,7 +1767,7 @@
     ],
     "ex": false,
     "image": "cTR_20_000220_00_KAKEDASHICHOSAIN_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/80.webp",
+    "imagePath": "cards/A1a/80.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1791,7 +1791,7 @@
     ],
     "ex": false,
     "image": "cTR_20_000210_00_GREEN_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/81.webp",
+    "imagePath": "cards/A1a/81.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1815,7 +1815,7 @@
     ],
     "ex": false,
     "image": "cTR_20_000230_00_LEAF_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/82.webp",
+    "imagePath": "cards/A1a/82.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1837,7 +1837,7 @@
     ],
     "ex": false,
     "image": "cPK_20_002450_01_MEWex_SAR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/83.webp",
+    "imagePath": "cards/A1a/83.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1859,7 +1859,7 @@
     ],
     "ex": false,
     "image": "cPK_20_002590_01_PTERAex_SAR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/84.webp",
+    "imagePath": "cards/A1a/84.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1881,7 +1881,7 @@
     ],
     "ex": false,
     "image": "cPK_20_002170_01_CELEBIex_IM.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/85.webp",
+    "imagePath": "cards/A1a/85.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -1903,7 +1903,7 @@
     ],
     "ex": false,
     "image": "cPK_20_002450_02_MEWex_UR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/86.webp",
+    "imagePath": "cards/A1a/86.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   }

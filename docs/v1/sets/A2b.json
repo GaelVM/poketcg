@@ -17,7 +17,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005210_00_BEEDLE_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/1.webp",
+    "imagePath": "cards/A2b/1.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -39,7 +39,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005220_00_COCOON_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/2.webp",
+    "imagePath": "cards/A2b/2.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -61,7 +61,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005230_00_SPEARex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/3.webp",
+    "imagePath": "cards/A2b/3.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -83,7 +83,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005240_00_KAILIOS_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/4.webp",
+    "imagePath": "cards/A2b/4.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -105,7 +105,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005080_00_NYAHOJA_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/5.webp",
+    "imagePath": "cards/A2b/5.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -127,7 +127,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005250_00_NYAROTE_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/6.webp",
+    "imagePath": "cards/A2b/6.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -149,7 +149,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005260_00_MASQUERNYA_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/7.webp",
+    "imagePath": "cards/A2b/7.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -171,7 +171,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005270_00_HITOKAGE_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/8.webp",
+    "imagePath": "cards/A2b/8.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -193,7 +193,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005280_00_LIZARDO_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/9.webp",
+    "imagePath": "cards/A2b/9.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -215,7 +215,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005290_00_LIZARDONex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/10.webp",
+    "imagePath": "cards/A2b/10.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -237,7 +237,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005300_00_BOOBER_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/11.webp",
+    "imagePath": "cards/A2b/11.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -259,7 +259,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005310_00_BOOBURN_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/12.webp",
+    "imagePath": "cards/A2b/12.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -281,7 +281,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005320_00_PALDEAKENTAUROS_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/13.webp",
+    "imagePath": "cards/A2b/13.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -303,7 +303,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005330_00_MENOKURAGE_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/14.webp",
+    "imagePath": "cards/A2b/14.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -325,7 +325,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005340_00_DOKUKURAGE_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/15.webp",
+    "imagePath": "cards/A2b/15.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -347,7 +347,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005350_00_BUOYSEL_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/16.webp",
+    "imagePath": "cards/A2b/16.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -369,7 +369,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005360_00_FLOAZEL_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/17.webp",
+    "imagePath": "cards/A2b/17.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -391,7 +391,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005370_00_UMIDIGDA_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/18.webp",
+    "imagePath": "cards/A2b/18.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -413,7 +413,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005380_00_UMITRIOex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/19.webp",
+    "imagePath": "cards/A2b/19.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -435,7 +435,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005390_00_HEYRUSHER_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/20.webp",
+    "imagePath": "cards/A2b/20.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -457,7 +457,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005400_00_SYARITATSU_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/21.webp",
+    "imagePath": "cards/A2b/21.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -479,7 +479,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005410_00_PIKACHUex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/22.webp",
+    "imagePath": "cards/A2b/22.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -501,7 +501,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005420_00_BIRIRIDAMA_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/23.webp",
+    "imagePath": "cards/A2b/23.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -523,7 +523,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005430_00_MARUMINE_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/24.webp",
+    "imagePath": "cards/A2b/24.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -545,7 +545,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005060_00_PACHIRISU_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/25.webp",
+    "imagePath": "cards/A2b/25.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -567,7 +567,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005440_00_PAMO_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/26.webp",
+    "imagePath": "cards/A2b/26.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -589,7 +589,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005450_00_PAMOT_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/27.webp",
+    "imagePath": "cards/A2b/27.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -611,7 +611,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005010_00_PARMOT_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/28.webp",
+    "imagePath": "cards/A2b/28.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -633,7 +633,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005460_00_CASEY_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/29.webp",
+    "imagePath": "cards/A2b/29.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -655,7 +655,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005470_00_YUNGERER_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/30.webp",
+    "imagePath": "cards/A2b/30.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -677,7 +677,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005480_00_FOODIN_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/31.webp",
+    "imagePath": "cards/A2b/31.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -699,7 +699,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005490_00_BARRIERD_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/32.webp",
+    "imagePath": "cards/A2b/32.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -721,7 +721,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005500_00_FUWANTE_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/33.webp",
+    "imagePath": "cards/A2b/33.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -743,7 +743,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005510_00_FUWARIDE_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/34.webp",
+    "imagePath": "cards/A2b/34.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -765,7 +765,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005520_00_GIRATINAex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/35.webp",
+    "imagePath": "cards/A2b/35.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -787,7 +787,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005530_00_COLLECUREI_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/36.webp",
+    "imagePath": "cards/A2b/36.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -809,7 +809,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005540_00_WANRIKY_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/37.webp",
+    "imagePath": "cards/A2b/37.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -831,7 +831,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005550_00_GORIKY_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/38.webp",
+    "imagePath": "cards/A2b/38.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -853,7 +853,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005020_00_KAIRIKY_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/39.webp",
+    "imagePath": "cards/A2b/39.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -875,7 +875,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005560_00_SAWAMULAR_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/40.webp",
+    "imagePath": "cards/A2b/40.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -897,7 +897,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005570_00_EBIWALAR_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/41.webp",
+    "imagePath": "cards/A2b/41.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -919,7 +919,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005070_00_RIOLU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/42.webp",
+    "imagePath": "cards/A2b/42.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -941,7 +941,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005580_00_LUCARIOex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/43.webp",
+    "imagePath": "cards/A2b/43.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -963,7 +963,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005590_00_KARAMINGO_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/44.webp",
+    "imagePath": "cards/A2b/44.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -985,7 +985,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005600_00_ARBO_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/45.webp",
+    "imagePath": "cards/A2b/45.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1007,7 +1007,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005610_00_ARBOK_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/46.webp",
+    "imagePath": "cards/A2b/46.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1029,7 +1029,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005620_00_PALDEAUPAH_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/47.webp",
+    "imagePath": "cards/A2b/47.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1051,7 +1051,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005630_00_PALDEADOOHex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/48.webp",
+    "imagePath": "cards/A2b/48.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1073,7 +1073,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005640_00_MIKARUGE_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/49.webp",
+    "imagePath": "cards/A2b/49.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1095,7 +1095,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005650_00_SHIRUSHREW_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/50.webp",
+    "imagePath": "cards/A2b/50.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1117,7 +1117,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005660_00_TAGGINGRU_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/51.webp",
+    "imagePath": "cards/A2b/51.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1139,7 +1139,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005670_00_KANUCHAN_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/52.webp",
+    "imagePath": "cards/A2b/52.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1161,7 +1161,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005680_00_NAKANUCHAN_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/53.webp",
+    "imagePath": "cards/A2b/53.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1183,7 +1183,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005690_00_DEKANUCHANex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/54.webp",
+    "imagePath": "cards/A2b/54.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1205,7 +1205,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005700_00_BURORON_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/55.webp",
+    "imagePath": "cards/A2b/55.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1227,7 +1227,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005710_00_BUROROROOM_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/56.webp",
+    "imagePath": "cards/A2b/56.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1249,7 +1249,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005720_00_SURFUGO_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/57.webp",
+    "imagePath": "cards/A2b/57.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1271,7 +1271,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005730_00_KORATTA_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/58.webp",
+    "imagePath": "cards/A2b/58.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1293,7 +1293,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005740_00_RATTA_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/59.webp",
+    "imagePath": "cards/A2b/59.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1315,7 +1315,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005750_00_PURIN_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/60.webp",
+    "imagePath": "cards/A2b/60.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1337,7 +1337,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005760_00_PUKURIN_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/61.webp",
+    "imagePath": "cards/A2b/61.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1359,7 +1359,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005770_00_BERORINGA_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/62.webp",
+    "imagePath": "cards/A2b/62.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1381,7 +1381,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005780_00_BEROBELT_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/63.webp",
+    "imagePath": "cards/A2b/63.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1403,7 +1403,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005040_00_BIPPA_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/64.webp",
+    "imagePath": "cards/A2b/64.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1425,7 +1425,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005790_00_BEADARUex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/65.webp",
+    "imagePath": "cards/A2b/65.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1447,7 +1447,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005800_00_MIMIROL_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/66.webp",
+    "imagePath": "cards/A2b/66.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1469,7 +1469,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005810_00_MIMILOP_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/67.webp",
+    "imagePath": "cards/A2b/67.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1491,7 +1491,7 @@
     ],
     "ex": false,
     "image": "cPK_10_005090_00_MOTOTOKAGE_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/68.webp",
+    "imagePath": "cards/A2b/68.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1515,7 +1515,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000420_00_NANJYAMO_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/69.webp",
+    "imagePath": "cards/A2b/69.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1539,7 +1539,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000430_00_POKEMONCENTERNOONEESAN_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/70.webp",
+    "imagePath": "cards/A2b/70.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1563,7 +1563,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000440_00_RED_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/71.webp",
+    "imagePath": "cards/A2b/71.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1587,7 +1587,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000450_00_ROCKETDANNOSHITAPPA_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/72.webp",
+    "imagePath": "cards/A2b/72.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1609,7 +1609,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005260_00_MASQUERNYA_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/73.webp",
+    "imagePath": "cards/A2b/73.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1631,7 +1631,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005350_00_BUOYSEL_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/74.webp",
+    "imagePath": "cards/A2b/74.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1653,7 +1653,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005400_00_SYARITATSU_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/75.webp",
+    "imagePath": "cards/A2b/75.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1675,7 +1675,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005660_00_TAGGINGRU_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/76.webp",
+    "imagePath": "cards/A2b/76.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1697,7 +1697,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005720_00_SURFUGO_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/77.webp",
+    "imagePath": "cards/A2b/77.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1719,7 +1719,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005760_00_PUKURIN_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/78.webp",
+    "imagePath": "cards/A2b/78.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1741,7 +1741,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005230_00_SPEARex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/79.webp",
+    "imagePath": "cards/A2b/79.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1763,7 +1763,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005290_00_LIZARDONex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/80.webp",
+    "imagePath": "cards/A2b/80.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1785,7 +1785,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005380_00_UMITRIOex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/81.webp",
+    "imagePath": "cards/A2b/81.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1807,7 +1807,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005410_00_PIKACHUex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/82.webp",
+    "imagePath": "cards/A2b/82.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1829,7 +1829,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005520_00_GIRATINAex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/83.webp",
+    "imagePath": "cards/A2b/83.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1851,7 +1851,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005580_00_LUCARIOex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/84.webp",
+    "imagePath": "cards/A2b/84.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1873,7 +1873,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005630_00_PALDEADOOHex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/85.webp",
+    "imagePath": "cards/A2b/85.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1895,7 +1895,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005690_00_DEKANUCHANex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/86.webp",
+    "imagePath": "cards/A2b/86.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1917,7 +1917,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005790_00_BEADARUex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/87.webp",
+    "imagePath": "cards/A2b/87.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1941,7 +1941,7 @@
     ],
     "ex": false,
     "image": "cTR_20_000420_00_NANJYAMO_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/88.webp",
+    "imagePath": "cards/A2b/88.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1965,7 +1965,7 @@
     ],
     "ex": false,
     "image": "cTR_20_000430_00_POKEMONCENTERNOONEESAN_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/89.webp",
+    "imagePath": "cards/A2b/89.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -1989,7 +1989,7 @@
     ],
     "ex": false,
     "image": "cTR_20_000440_00_RED_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/90.webp",
+    "imagePath": "cards/A2b/90.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -2013,7 +2013,7 @@
     ],
     "ex": false,
     "image": "cTR_20_000450_00_ROCKETDANNOSHITAPPA_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/91.webp",
+    "imagePath": "cards/A2b/91.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -2035,7 +2035,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005410_01_PIKACHUex_SAR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/92.webp",
+    "imagePath": "cards/A2b/92.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -2057,7 +2057,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005630_01_PALDEADOOHex_SAR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/93.webp",
+    "imagePath": "cards/A2b/93.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -2079,7 +2079,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005690_01_DEKANUCHANex_SAR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/94.webp",
+    "imagePath": "cards/A2b/94.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -2101,7 +2101,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005790_01_BEADARUex_SAR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/95.webp",
+    "imagePath": "cards/A2b/95.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -2123,7 +2123,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005520_01_GIRATINAex_IM.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/96.webp",
+    "imagePath": "cards/A2b/96.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -2145,7 +2145,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005210_00_BEEDLE_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/97.webp",
+    "imagePath": "cards/A2b/97.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -2167,7 +2167,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005220_00_COCOON_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/98.webp",
+    "imagePath": "cards/A2b/98.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -2189,7 +2189,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005270_00_HITOKAGE_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/99.webp",
+    "imagePath": "cards/A2b/99.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -2211,7 +2211,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005280_00_LIZARDO_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/100.webp",
+    "imagePath": "cards/A2b/100.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -2233,7 +2233,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005370_00_UMIDIGDA_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/101.webp",
+    "imagePath": "cards/A2b/101.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -2255,7 +2255,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005390_00_HEYRUSHER_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/102.webp",
+    "imagePath": "cards/A2b/102.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -2277,7 +2277,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005060_00_PACHIRISU_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/103.webp",
+    "imagePath": "cards/A2b/103.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -2299,7 +2299,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005070_00_RIOLU_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/104.webp",
+    "imagePath": "cards/A2b/104.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -2321,7 +2321,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005700_00_BURORON_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/105.webp",
+    "imagePath": "cards/A2b/105.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -2343,7 +2343,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005710_00_BUROROROOM_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/106.webp",
+    "imagePath": "cards/A2b/106.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -2365,7 +2365,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005230_01_SPEARex_SSR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/107.webp",
+    "imagePath": "cards/A2b/107.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -2387,7 +2387,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005290_01_LIZARDONex_SSR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/108.webp",
+    "imagePath": "cards/A2b/108.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -2409,7 +2409,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005380_01_UMITRIOex_SSR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/109.webp",
+    "imagePath": "cards/A2b/109.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -2431,7 +2431,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005580_01_LUCARIOex_SSR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/110.webp",
+    "imagePath": "cards/A2b/110.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   },
@@ -2455,7 +2455,7 @@
     ],
     "ex": false,
     "image": "cTR_20_000030_00_MONSTERBALL_UR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2b/111.webp",
+    "imagePath": "cards/A2b/111.webp",
     "setName": "Shining Revelry",
     "releaseDate": "2025-03-27"
   }

@@ -17,7 +17,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010830_00_KAILIOS_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/1.webp",
+    "imagePath": "cards/B1/1.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -39,7 +39,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010840_00_MEGAKAILIOSex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/2.webp",
+    "imagePath": "cards/B1/2.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -61,7 +61,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010850_00_KEMUSSO_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/3.webp",
+    "imagePath": "cards/B1/3.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -83,7 +83,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010860_00_KARASALIS_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/4.webp",
+    "imagePath": "cards/B1/4.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -105,7 +105,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010870_00_AGEHUNT_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/5.webp",
+    "imagePath": "cards/B1/5.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -127,7 +127,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010880_00_MAYULD_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/6.webp",
+    "imagePath": "cards/B1/6.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -149,7 +149,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010890_00_DOKUCALE_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/7.webp",
+    "imagePath": "cards/B1/7.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -171,7 +171,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010900_00_TANEBOH_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/8.webp",
+    "imagePath": "cards/B1/8.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -193,7 +193,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010910_00_KONOHANA_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/9.webp",
+    "imagePath": "cards/B1/9.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -215,7 +215,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010920_00_DIRTENG_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/10.webp",
+    "imagePath": "cards/B1/10.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -239,7 +239,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010930_00_KINOCOCO_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/11.webp",
+    "imagePath": "cards/B1/11.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -263,7 +263,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010940_00_KINOGASSA_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/12.webp",
+    "imagePath": "cards/B1/12.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -285,7 +285,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010950_00_YANAPPU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/13.webp",
+    "imagePath": "cards/B1/13.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -307,7 +307,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010960_00_YANAKKIE_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/14.webp",
+    "imagePath": "cards/B1/14.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -329,7 +329,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010970_00_MONMEN_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/15.webp",
+    "imagePath": "cards/B1/15.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -351,7 +351,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010980_00_ELFUUNex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/16.webp",
+    "imagePath": "cards/B1/16.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -373,7 +373,7 @@
     ],
     "ex": false,
     "image": "cPK_10_010990_00_CHURINE_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/17.webp",
+    "imagePath": "cards/B1/17.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -395,7 +395,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011000_00_DREDEAR_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/18.webp",
+    "imagePath": "cards/B1/18.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -419,7 +419,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011010_00_MARACACCHI_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/19.webp",
+    "imagePath": "cards/B1/19.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -441,7 +441,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011020_00_VIRIZION_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/20.webp",
+    "imagePath": "cards/B1/20.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -463,7 +463,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011030_00_MEECLE_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/21.webp",
+    "imagePath": "cards/B1/21.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -485,7 +485,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011040_00_GOGOAT_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/22.webp",
+    "imagePath": "cards/B1/22.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -509,7 +509,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011050_00_BOKUREI_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/23.webp",
+    "imagePath": "cards/B1/23.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -533,7 +533,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011060_00_OHROT_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/24.webp",
+    "imagePath": "cards/B1/24.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -555,7 +555,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011070_00_SARUNORI_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/25.webp",
+    "imagePath": "cards/B1/25.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -577,7 +577,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011080_00_BACHINKEY_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/26.webp",
+    "imagePath": "cards/B1/26.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -599,7 +599,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011090_00_GORIRANDER_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/27.webp",
+    "imagePath": "cards/B1/27.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -621,7 +621,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011100_00_GARDIE_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/28.webp",
+    "imagePath": "cards/B1/28.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -643,7 +643,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011110_00_WINDIE_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/29.webp",
+    "imagePath": "cards/B1/29.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -665,7 +665,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011120_00_PONYTA_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/30.webp",
+    "imagePath": "cards/B1/30.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -687,7 +687,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011130_00_GALLOPex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/31.webp",
+    "imagePath": "cards/B1/31.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -709,7 +709,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011140_00_HOUOU_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/32.webp",
+    "imagePath": "cards/B1/32.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -731,7 +731,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011150_00_ACHAMO_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/33.webp",
+    "imagePath": "cards/B1/33.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -753,7 +753,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011160_00_WAKASYAMO_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/34.webp",
+    "imagePath": "cards/B1/34.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -775,7 +775,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011170_00_BURSYAMO_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/35.webp",
+    "imagePath": "cards/B1/35.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -797,7 +797,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011180_00_MEGABURSYAMOex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/36.webp",
+    "imagePath": "cards/B1/36.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -819,7 +819,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011190_00_BAOPPU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/37.webp",
+    "imagePath": "cards/B1/37.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -841,7 +841,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011200_00_BAOKKIE_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/38.webp",
+    "imagePath": "cards/B1/38.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -863,7 +863,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011210_00_DARUMAKKA_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/39.webp",
+    "imagePath": "cards/B1/39.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -885,7 +885,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011220_00_HIHIDARUMA_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/40.webp",
+    "imagePath": "cards/B1/40.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -907,7 +907,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011230_00_HITOMOSHI_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/41.webp",
+    "imagePath": "cards/B1/41.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -929,7 +929,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011240_00_LAMPLER_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/42.webp",
+    "imagePath": "cards/B1/42.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -951,7 +951,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011250_00_CHANDELA_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/43.webp",
+    "imagePath": "cards/B1/43.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -975,7 +975,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011260_00_KUITARAN_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/44.webp",
+    "imagePath": "cards/B1/44.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -997,7 +997,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011270_00_SHISHIKO_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/45.webp",
+    "imagePath": "cards/B1/45.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1019,7 +1019,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011280_00_KAENJISHI_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/46.webp",
+    "imagePath": "cards/B1/46.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1041,7 +1041,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011290_00_BAKUGAMES_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/47.webp",
+    "imagePath": "cards/B1/47.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1063,7 +1063,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011300_00_KODUCK_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/48.webp",
+    "imagePath": "cards/B1/48.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1085,7 +1085,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011310_00_GOLDUCK_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/49.webp",
+    "imagePath": "cards/B1/49.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1107,7 +1107,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011320_00_KOIKING_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/50.webp",
+    "imagePath": "cards/B1/50.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1129,7 +1129,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011330_00_GYARADOS_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/51.webp",
+    "imagePath": "cards/B1/51.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1151,7 +1151,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011340_00_MEGAGYARADOSex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/52.webp",
+    "imagePath": "cards/B1/52.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1173,7 +1173,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011350_00_HASSBOH_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/53.webp",
+    "imagePath": "cards/B1/53.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1195,7 +1195,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011360_00_HASUBRERO_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/54.webp",
+    "imagePath": "cards/B1/54.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1217,7 +1217,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011370_00_RUNPAPPA_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/55.webp",
+    "imagePath": "cards/B1/55.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1239,7 +1239,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011380_00_HOERUKO_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/56.webp",
+    "imagePath": "cards/B1/56.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1261,7 +1261,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011390_00_WHALOH_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/57.webp",
+    "imagePath": "cards/B1/57.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1285,7 +1285,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011400_00_HEIGANI_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/58.webp",
+    "imagePath": "cards/B1/58.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1309,7 +1309,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011410_00_SHIZARIGER_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/59.webp",
+    "imagePath": "cards/B1/59.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1331,7 +1331,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011420_00_LOVECUS_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/60.webp",
+    "imagePath": "cards/B1/60.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1353,7 +1353,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011430_00_HIYAPPU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/61.webp",
+    "imagePath": "cards/B1/61.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1375,7 +1375,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011440_00_HIYAKKIE_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/62.webp",
+    "imagePath": "cards/B1/62.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1399,7 +1399,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011450_00_OTAMARO_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/63.webp",
+    "imagePath": "cards/B1/63.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1423,7 +1423,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011460_00_GAMAGARU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/64.webp",
+    "imagePath": "cards/B1/64.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1447,7 +1447,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011470_00_GAMAGEROGE_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/65.webp",
+    "imagePath": "cards/B1/65.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1469,7 +1469,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011480_00_PROTOGA_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/66.webp",
+    "imagePath": "cards/B1/66.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1491,7 +1491,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011490_00_ABAGOURA_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/67.webp",
+    "imagePath": "cards/B1/67.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1513,7 +1513,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011500_00_PURURILL_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/68.webp",
+    "imagePath": "cards/B1/68.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1535,7 +1535,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011510_00_BURUNGEL_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/69.webp",
+    "imagePath": "cards/B1/69.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1557,7 +1557,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011520_00_KELDEOITSUMONOSUGATA_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/70.webp",
+    "imagePath": "cards/B1/70.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1579,7 +1579,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011530_00_KEROMATSU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/71.webp",
+    "imagePath": "cards/B1/71.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1601,7 +1601,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011540_00_GEKOGASHIRA_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/72.webp",
+    "imagePath": "cards/B1/72.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1623,7 +1623,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011550_00_GEKKOUGAex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/73.webp",
+    "imagePath": "cards/B1/73.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1645,7 +1645,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011560_00_KACHIKOHRU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/74.webp",
+    "imagePath": "cards/B1/74.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1667,7 +1667,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011570_00_CREBASE_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/75.webp",
+    "imagePath": "cards/B1/75.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1689,7 +1689,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011580_00_KAMUKAME_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/76.webp",
+    "imagePath": "cards/B1/76.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1711,7 +1711,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011590_00_KAJIRIGAME_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/77.webp",
+    "imagePath": "cards/B1/77.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1733,7 +1733,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011600_00_SASIKAMASU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/78.webp",
+    "imagePath": "cards/B1/78.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1755,7 +1755,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011610_00_KAMASUJAW_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/79.webp",
+    "imagePath": "cards/B1/79.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1777,7 +1777,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011620_00_KORIPPO_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/80.webp",
+    "imagePath": "cards/B1/80.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1799,7 +1799,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011630_00_THUNDERSex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/81.webp",
+    "imagePath": "cards/B1/81.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1821,7 +1821,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011640_00_MERRIEP_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/82.webp",
+    "imagePath": "cards/B1/82.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1843,7 +1843,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011650_00_MOKOKO_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/83.webp",
+    "imagePath": "cards/B1/83.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1865,7 +1865,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011660_00_DENRYU_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/84.webp",
+    "imagePath": "cards/B1/84.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1887,7 +1887,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011670_00_MEGADENRYUex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/85.webp",
+    "imagePath": "cards/B1/85.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1909,7 +1909,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011680_00_KOLINK_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/86.webp",
+    "imagePath": "cards/B1/86.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1931,7 +1931,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011690_00_LUXIO_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/87.webp",
+    "imagePath": "cards/B1/87.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1953,7 +1953,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011700_00_RENTORAR_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/88.webp",
+    "imagePath": "cards/B1/88.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1977,7 +1977,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011710_00_PACHIRISU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/89.webp",
+    "imagePath": "cards/B1/89.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -1999,7 +1999,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011720_00_SHIMAMA_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/90.webp",
+    "imagePath": "cards/B1/90.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2021,7 +2021,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011730_00_ZEBRAIKA_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/91.webp",
+    "imagePath": "cards/B1/91.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2045,7 +2045,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011740_00_BACHURU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/92.webp",
+    "imagePath": "cards/B1/92.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2069,7 +2069,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011750_00_DENTULA_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/93.webp",
+    "imagePath": "cards/B1/93.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2091,7 +2091,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011760_00_DEDENNE_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/94.webp",
+    "imagePath": "cards/B1/94.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2113,7 +2113,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011770_00_WANPACHI_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/95.webp",
+    "imagePath": "cards/B1/95.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2135,7 +2135,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011780_00_PULSEWAN_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/96.webp",
+    "imagePath": "cards/B1/96.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2159,7 +2159,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011790_00_NATY_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/97.webp",
+    "imagePath": "cards/B1/97.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2183,7 +2183,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011800_00_NATIO_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/98.webp",
+    "imagePath": "cards/B1/98.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2207,7 +2207,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011810_00_MUMA_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/99.webp",
+    "imagePath": "cards/B1/99.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2231,7 +2231,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011820_00_MUMARGI_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/100.webp",
+    "imagePath": "cards/B1/100.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2253,7 +2253,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011830_00_YAMIRAMI_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/101.webp",
+    "imagePath": "cards/B1/101.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2275,7 +2275,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011840_00_MEGATYLTALISex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/102.webp",
+    "imagePath": "cards/B1/102.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2297,7 +2297,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011850_00_YOMAWARU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/103.webp",
+    "imagePath": "cards/B1/103.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2319,7 +2319,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011860_00_SAMAYOURU_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/104.webp",
+    "imagePath": "cards/B1/104.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2341,7 +2341,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011870_00_YONOIR_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/105.webp",
+    "imagePath": "cards/B1/105.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2363,7 +2363,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011880_00_JIRACHI_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/106.webp",
+    "imagePath": "cards/B1/106.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2385,7 +2385,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011890_00_FUWANTE_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/107.webp",
+    "imagePath": "cards/B1/107.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2407,7 +2407,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011900_00_FUWARIDE_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/108.webp",
+    "imagePath": "cards/B1/108.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2431,7 +2431,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011910_00_LISYAN_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/109.webp",
+    "imagePath": "cards/B1/109.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2453,7 +2453,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011920_00_DESUMASU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/110.webp",
+    "imagePath": "cards/B1/110.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2475,7 +2475,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011930_00_DESUKARN_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/111.webp",
+    "imagePath": "cards/B1/111.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2497,7 +2497,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011940_00_GOTHIMU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/112.webp",
+    "imagePath": "cards/B1/112.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2519,7 +2519,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011950_00_GOTHIMIRU_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/113.webp",
+    "imagePath": "cards/B1/113.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2541,7 +2541,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011960_00_GOTHIRUSELLE_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/114.webp",
+    "imagePath": "cards/B1/114.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2565,7 +2565,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011970_00_SHUSHUPU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/115.webp",
+    "imagePath": "cards/B1/115.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2589,7 +2589,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011980_00_FREFUWAN_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/116.webp",
+    "imagePath": "cards/B1/116.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2611,7 +2611,7 @@
     ],
     "ex": false,
     "image": "cPK_10_011990_00_PEROPPAFU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/117.webp",
+    "imagePath": "cards/B1/117.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2633,7 +2633,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012000_00_PEROREAM_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/118.webp",
+    "imagePath": "cards/B1/118.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2655,7 +2655,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012010_00_MELECIE_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/119.webp",
+    "imagePath": "cards/B1/119.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2677,7 +2677,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012020_00_CLEFFY_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/120.webp",
+    "imagePath": "cards/B1/120.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2699,7 +2699,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012030_00_YESSANMESUNOSUGATA_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/121.webp",
+    "imagePath": "cards/B1/121.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2723,7 +2723,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012040_00_SAND_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/122.webp",
+    "imagePath": "cards/B1/122.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2747,7 +2747,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012050_00_SANDPAN_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/123.webp",
+    "imagePath": "cards/B1/123.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2769,7 +2769,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012060_00_EBIWALARex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/124.webp",
+    "imagePath": "cards/B1/124.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2793,7 +2793,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012070_00_USOKKIE_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/125.webp",
+    "imagePath": "cards/B1/125.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2815,7 +2815,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012080_00_MAKUNOSHITA_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/126.webp",
+    "imagePath": "cards/B1/126.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2837,7 +2837,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012090_00_HARITEYAMA_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/127.webp",
+    "imagePath": "cards/B1/127.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2859,7 +2859,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012100_00_HIPPOPOTAS_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/128.webp",
+    "imagePath": "cards/B1/128.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2881,7 +2881,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012110_00_KABALDON_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/129.webp",
+    "imagePath": "cards/B1/129.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2903,7 +2903,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012120_00_MEGUROCO_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/130.webp",
+    "imagePath": "cards/B1/130.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2925,7 +2925,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012130_00_WARUVILE_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/131.webp",
+    "imagePath": "cards/B1/131.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2947,7 +2947,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012140_00_WARUVIAL_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/132.webp",
+    "imagePath": "cards/B1/132.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2969,7 +2969,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012150_00_ARCHEN_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/133.webp",
+    "imagePath": "cards/B1/133.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -2991,7 +2991,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012160_00_ARCHEOS_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/134.webp",
+    "imagePath": "cards/B1/134.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3013,7 +3013,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012170_00_GOBIT_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/135.webp",
+    "imagePath": "cards/B1/135.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3035,7 +3035,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012180_00_GOLOOG_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/136.webp",
+    "imagePath": "cards/B1/136.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3057,7 +3057,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012190_00_TERRAKION_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/137.webp",
+    "imagePath": "cards/B1/137.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3079,7 +3079,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012200_00_YANCHAM_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/138.webp",
+    "imagePath": "cards/B1/138.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3101,7 +3101,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012210_00_MAKENKANI_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/139.webp",
+    "imagePath": "cards/B1/139.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3123,7 +3123,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012220_00_KEKENKANI_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/140.webp",
+    "imagePath": "cards/B1/140.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3145,7 +3145,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012230_00_NUIKOGUMA_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/141.webp",
+    "imagePath": "cards/B1/141.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3167,7 +3167,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012240_00_KITERUGUMA_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/142.webp",
+    "imagePath": "cards/B1/142.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3191,7 +3191,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012250_00_SUNABA_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/143.webp",
+    "imagePath": "cards/B1/143.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3215,7 +3215,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012260_00_SIRODETHNA_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/144.webp",
+    "imagePath": "cards/B1/144.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3237,7 +3237,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012270_00_TANDON_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/145.webp",
+    "imagePath": "cards/B1/145.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3259,7 +3259,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012280_00_TOROGGON_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/146.webp",
+    "imagePath": "cards/B1/146.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3281,7 +3281,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012290_00_SEKITANZAN_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/147.webp",
+    "imagePath": "cards/B1/147.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3303,7 +3303,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012300_00_YAMIKARASU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/148.webp",
+    "imagePath": "cards/B1/148.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3325,7 +3325,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012310_00_DONGKARASU_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/149.webp",
+    "imagePath": "cards/B1/149.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3347,7 +3347,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012320_00_ABSOL_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/150.webp",
+    "imagePath": "cards/B1/150.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3369,7 +3369,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012330_00_MEGAABSOLex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/151.webp",
+    "imagePath": "cards/B1/151.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3391,7 +3391,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012340_00_SCORUPI_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/152.webp",
+    "imagePath": "cards/B1/152.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3413,7 +3413,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012350_00_DORAPION_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/153.webp",
+    "imagePath": "cards/B1/153.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3435,7 +3435,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012360_00_DARKRAI_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/154.webp",
+    "imagePath": "cards/B1/154.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3457,7 +3457,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012370_00_MONOZU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/155.webp",
+    "imagePath": "cards/B1/155.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3479,7 +3479,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012380_00_DIHEAD_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/156.webp",
+    "imagePath": "cards/B1/156.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3501,7 +3501,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012390_00_SAZANDORA_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/157.webp",
+    "imagePath": "cards/B1/157.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3523,7 +3523,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012400_00_GORONDA_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/158.webp",
+    "imagePath": "cards/B1/158.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3545,7 +3545,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012410_00_KUZUMO_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/159.webp",
+    "imagePath": "cards/B1/159.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3567,7 +3567,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012420_00_DRAMIDOROex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/160.webp",
+    "imagePath": "cards/B1/160.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3591,7 +3591,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012430_00_HIDOIDE_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/161.webp",
+    "imagePath": "cards/B1/161.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3615,7 +3615,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012440_00_DOHIDOIDE_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/162.webp",
+    "imagePath": "cards/B1/162.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3637,7 +3637,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012450_00_BEROBA_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/163.webp",
+    "imagePath": "cards/B1/163.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3659,7 +3659,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012460_00_GIMOH_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/164.webp",
+    "imagePath": "cards/B1/164.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3681,7 +3681,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012470_00_OHLONGE_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/165.webp",
+    "imagePath": "cards/B1/165.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3705,7 +3705,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012480_00_TESSEED_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/166.webp",
+    "imagePath": "cards/B1/166.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3729,7 +3729,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012490_00_NUTREY_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/167.webp",
+    "imagePath": "cards/B1/167.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3753,7 +3753,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012500_00_AIANT_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/168.webp",
+    "imagePath": "cards/B1/168.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3775,7 +3775,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012510_00_COBALON_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/169.webp",
+    "imagePath": "cards/B1/169.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3797,7 +3797,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012520_00_HITOTSUKI_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/170.webp",
+    "imagePath": "cards/B1/170.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3819,7 +3819,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012530_00_NIDANGILL_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/171.webp",
+    "imagePath": "cards/B1/171.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3841,7 +3841,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012540_00_GILLGARDBLADEFORME_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/172.webp",
+    "imagePath": "cards/B1/172.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3863,7 +3863,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012550_00_MELTAN_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/173.webp",
+    "imagePath": "cards/B1/173.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3885,7 +3885,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012560_00_MELMETALex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/174.webp",
+    "imagePath": "cards/B1/174.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3907,7 +3907,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012570_00_ARMORGA_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/175.webp",
+    "imagePath": "cards/B1/175.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3929,7 +3929,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012580_00_CRIMGAN_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/176.webp",
+    "imagePath": "cards/B1/176.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3951,7 +3951,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012590_00_NUMERA_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/177.webp",
+    "imagePath": "cards/B1/177.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3973,7 +3973,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012600_00_NUMEIL_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/178.webp",
+    "imagePath": "cards/B1/178.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -3995,7 +3995,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012610_00_NUMELGON_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/179.webp",
+    "imagePath": "cards/B1/179.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4019,7 +4019,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012620_00_POPPO_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/180.webp",
+    "imagePath": "cards/B1/180.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4043,7 +4043,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012630_00_PIGEON_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/181.webp",
+    "imagePath": "cards/B1/181.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4067,7 +4067,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012640_00_PIGEOT_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/182.webp",
+    "imagePath": "cards/B1/182.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4089,7 +4089,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012650_00_KENTAUROSex_RR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/183.webp",
+    "imagePath": "cards/B1/183.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4111,7 +4111,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012660_00_EIEVUI_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/184.webp",
+    "imagePath": "cards/B1/184.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4133,7 +4133,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012670_00_EIPAM_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/185.webp",
+    "imagePath": "cards/B1/185.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4155,7 +4155,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012680_00_ETEBOTH_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/186.webp",
+    "imagePath": "cards/B1/186.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4179,7 +4179,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012690_00_MILTANK_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/187.webp",
+    "imagePath": "cards/B1/187.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4203,7 +4203,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012700_00_JIGUZAGUMA_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/188.webp",
+    "imagePath": "cards/B1/188.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4227,7 +4227,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012710_00_MASSUGUMA_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/189.webp",
+    "imagePath": "cards/B1/189.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4249,7 +4249,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012720_00_GONYONYO_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/190.webp",
+    "imagePath": "cards/B1/190.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4271,7 +4271,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012730_00_DOGOHMB_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/191.webp",
+    "imagePath": "cards/B1/191.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4293,7 +4293,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012740_00_BAKUONG_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/192.webp",
+    "imagePath": "cards/B1/192.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4315,7 +4315,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012750_00_ENECO_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/193.webp",
+    "imagePath": "cards/B1/193.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4337,7 +4337,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012760_00_ENEKORORO_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/194.webp",
+    "imagePath": "cards/B1/194.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4359,7 +4359,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012770_00_PATCHEEL_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/195.webp",
+    "imagePath": "cards/B1/195.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4381,7 +4381,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012780_00_TYLTTO_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/196.webp",
+    "imagePath": "cards/B1/196.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4403,7 +4403,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012790_00_TYLTALIS_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/197.webp",
+    "imagePath": "cards/B1/197.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4427,7 +4427,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012800_00_PERAP_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/198.webp",
+    "imagePath": "cards/B1/198.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4451,7 +4451,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012810_00_MINEZUMI_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/199.webp",
+    "imagePath": "cards/B1/199.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4475,7 +4475,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012820_00_MIRUHOG_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/200.webp",
+    "imagePath": "cards/B1/200.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4497,7 +4497,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012830_00_YORTERRIE_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/201.webp",
+    "imagePath": "cards/B1/201.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4519,7 +4519,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012840_00_HERDERRIE_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/202.webp",
+    "imagePath": "cards/B1/202.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4541,7 +4541,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012850_00_MOOLAND_R.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/203.webp",
+    "imagePath": "cards/B1/203.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4563,7 +4563,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012860_00_WASHIBON_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/204.webp",
+    "imagePath": "cards/B1/204.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4585,7 +4585,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012870_00_WARRGLE_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/205.webp",
+    "imagePath": "cards/B1/205.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4607,7 +4607,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012880_00_TRIMMIENYASEINOSUGATA_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/206.webp",
+    "imagePath": "cards/B1/206.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4629,7 +4629,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012880_01_TRIMMIENHEARTCUT_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/207.webp",
+    "imagePath": "cards/B1/207.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4651,7 +4651,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012880_02_TRIMMIENKINGDOMCUT_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/208.webp",
+    "imagePath": "cards/B1/208.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4673,7 +4673,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012890_00_KOKOGARA_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/209.webp",
+    "imagePath": "cards/B1/209.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4695,7 +4695,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012900_00_AOGARASU_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/210.webp",
+    "imagePath": "cards/B1/210.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4717,7 +4717,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012910_00_WOOLUU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/211.webp",
+    "imagePath": "cards/B1/211.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4739,7 +4739,7 @@
     ],
     "ex": false,
     "image": "cPK_10_012920_00_BAIWOOLUU_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/212.webp",
+    "imagePath": "cards/B1/212.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4763,7 +4763,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000870_00_ITAZURAROULETTE_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/213.webp",
+    "imagePath": "cards/B1/213.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4785,7 +4785,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000880_00_HANENOKASEKI_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/214.webp",
+    "imagePath": "cards/B1/214.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4809,7 +4809,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000890_00_HITHAMMER_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/215.webp",
+    "imagePath": "cards/B1/215.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4831,7 +4831,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000900_00_FUTANOKASEKI_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/216.webp",
+    "imagePath": "cards/B1/216.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4855,7 +4855,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000910_00_FUREIMUPACCHI_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/217.webp",
+    "imagePath": "cards/B1/217.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4879,7 +4879,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000920_00_OBONNOMI_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/218.webp",
+    "imagePath": "cards/B1/218.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4903,7 +4903,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000930_00_BABYMET_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/219.webp",
+    "imagePath": "cards/B1/219.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4927,7 +4927,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000940_00_LUCKYMITTENS_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/220.webp",
+    "imagePath": "cards/B1/220.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4954,7 +4954,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000950_00_SHIZUI_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/221.webp",
+    "imagePath": "cards/B1/221.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -4979,7 +4979,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000960_00_HALA_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/222.webp",
+    "imagePath": "cards/B1/222.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5003,7 +5003,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000970_00_HARUKA_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/223.webp",
+    "imagePath": "cards/B1/223.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5028,7 +5028,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000980_00_MELISSA_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/224.webp",
+    "imagePath": "cards/B1/224.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5052,7 +5052,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000990_00_MONOMANEMUSUME_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/225.webp",
+    "imagePath": "cards/B1/225.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5076,7 +5076,7 @@
     ],
     "ex": false,
     "image": "cTR_10_001000_00_RUCHIA_U.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/226.webp",
+    "imagePath": "cards/B1/226.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5098,7 +5098,7 @@
     ],
     "ex": false,
     "image": "cPK_20_010870_00_AGEHUNT_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/227.webp",
+    "imagePath": "cards/B1/227.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5120,7 +5120,7 @@
     ],
     "ex": false,
     "image": "cPK_20_011030_00_MEECLE_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/228.webp",
+    "imagePath": "cards/B1/228.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5142,7 +5142,7 @@
     ],
     "ex": false,
     "image": "cPK_20_011090_00_GORIRANDER_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/229.webp",
+    "imagePath": "cards/B1/229.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5164,7 +5164,7 @@
     ],
     "ex": false,
     "image": "cPK_20_011100_00_GARDIE_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/230.webp",
+    "imagePath": "cards/B1/230.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5186,7 +5186,7 @@
     ],
     "ex": false,
     "image": "cPK_20_011250_00_CHANDELA_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/231.webp",
+    "imagePath": "cards/B1/231.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5208,7 +5208,7 @@
     ],
     "ex": false,
     "image": "cPK_20_011320_00_KOIKING_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/232.webp",
+    "imagePath": "cards/B1/232.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5230,7 +5230,7 @@
     ],
     "ex": false,
     "image": "cPK_20_011370_00_RUNPAPPA_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/233.webp",
+    "imagePath": "cards/B1/233.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5252,7 +5252,7 @@
     ],
     "ex": false,
     "image": "cPK_20_011510_00_BURUNGEL_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/234.webp",
+    "imagePath": "cards/B1/234.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5274,7 +5274,7 @@
     ],
     "ex": false,
     "image": "cPK_20_011520_00_KELDEOITSUMONOSUGATA_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/235.webp",
+    "imagePath": "cards/B1/235.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5296,7 +5296,7 @@
     ],
     "ex": false,
     "image": "cPK_20_011620_00_KORIPPO_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/236.webp",
+    "imagePath": "cards/B1/236.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5318,7 +5318,7 @@
     ],
     "ex": false,
     "image": "cPK_20_011700_00_RENTORAR_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/237.webp",
+    "imagePath": "cards/B1/237.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5340,7 +5340,7 @@
     ],
     "ex": false,
     "image": "cPK_20_011930_00_DESUKARN_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/238.webp",
+    "imagePath": "cards/B1/238.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5362,7 +5362,7 @@
     ],
     "ex": false,
     "image": "cPK_20_011940_00_GOTHIMU_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/239.webp",
+    "imagePath": "cards/B1/239.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5384,7 +5384,7 @@
     ],
     "ex": false,
     "image": "cPK_20_012080_00_MAKUNOSHITA_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/240.webp",
+    "imagePath": "cards/B1/240.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5406,7 +5406,7 @@
     ],
     "ex": false,
     "image": "cPK_20_012110_00_KABALDON_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/241.webp",
+    "imagePath": "cards/B1/241.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5428,7 +5428,7 @@
     ],
     "ex": false,
     "image": "cPK_20_012160_00_ARCHEOS_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/242.webp",
+    "imagePath": "cards/B1/242.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5450,7 +5450,7 @@
     ],
     "ex": false,
     "image": "cPK_20_012200_00_YANCHAM_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/243.webp",
+    "imagePath": "cards/B1/243.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5472,7 +5472,7 @@
     ],
     "ex": false,
     "image": "cPK_20_012310_00_DONGKARASU_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/244.webp",
+    "imagePath": "cards/B1/244.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5494,7 +5494,7 @@
     ],
     "ex": false,
     "image": "cPK_20_012390_00_SAZANDORA_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/245.webp",
+    "imagePath": "cards/B1/245.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5516,7 +5516,7 @@
     ],
     "ex": false,
     "image": "cPK_20_012570_00_ARMORGA_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/246.webp",
+    "imagePath": "cards/B1/246.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5538,7 +5538,7 @@
     ],
     "ex": false,
     "image": "cPK_20_012590_00_NUMERA_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/247.webp",
+    "imagePath": "cards/B1/247.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5560,7 +5560,7 @@
     ],
     "ex": false,
     "image": "cPK_20_012760_00_ENEKORORO_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/248.webp",
+    "imagePath": "cards/B1/248.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5582,7 +5582,7 @@
     ],
     "ex": false,
     "image": "cPK_20_012850_00_MOOLAND_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/249.webp",
+    "imagePath": "cards/B1/249.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5604,7 +5604,7 @@
     ],
     "ex": false,
     "image": "cPK_20_012860_00_WASHIBON_AR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/250.webp",
+    "imagePath": "cards/B1/250.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5626,7 +5626,7 @@
     ],
     "ex": false,
     "image": "cPK_20_010840_00_MEGAKAILIOSex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/251.webp",
+    "imagePath": "cards/B1/251.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5648,7 +5648,7 @@
     ],
     "ex": false,
     "image": "cPK_20_010980_00_ELFUUNex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/252.webp",
+    "imagePath": "cards/B1/252.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5670,7 +5670,7 @@
     ],
     "ex": false,
     "image": "cPK_20_011130_00_GALLOPex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/253.webp",
+    "imagePath": "cards/B1/253.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5692,7 +5692,7 @@
     ],
     "ex": false,
     "image": "cPK_20_011180_00_MEGABURSYAMOex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/254.webp",
+    "imagePath": "cards/B1/254.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5714,7 +5714,7 @@
     ],
     "ex": false,
     "image": "cPK_20_011340_00_MEGAGYARADOSex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/255.webp",
+    "imagePath": "cards/B1/255.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5736,7 +5736,7 @@
     ],
     "ex": false,
     "image": "cPK_20_011550_00_GEKKOUGAex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/256.webp",
+    "imagePath": "cards/B1/256.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5758,7 +5758,7 @@
     ],
     "ex": false,
     "image": "cPK_20_011630_00_THUNDERSex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/257.webp",
+    "imagePath": "cards/B1/257.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5780,7 +5780,7 @@
     ],
     "ex": false,
     "image": "cPK_20_011670_00_MEGADENRYUex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/258.webp",
+    "imagePath": "cards/B1/258.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5802,7 +5802,7 @@
     ],
     "ex": false,
     "image": "cPK_20_011840_00_MEGATYLTALISex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/259.webp",
+    "imagePath": "cards/B1/259.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5824,7 +5824,7 @@
     ],
     "ex": false,
     "image": "cPK_20_012030_00_YESSANMESUNOSUGATA_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/260.webp",
+    "imagePath": "cards/B1/260.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5846,7 +5846,7 @@
     ],
     "ex": false,
     "image": "cPK_20_012060_00_EBIWALARex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/261.webp",
+    "imagePath": "cards/B1/261.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5868,7 +5868,7 @@
     ],
     "ex": false,
     "image": "cPK_20_012330_00_MEGAABSOLex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/262.webp",
+    "imagePath": "cards/B1/262.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5890,7 +5890,7 @@
     ],
     "ex": false,
     "image": "cPK_20_012420_00_DRAMIDOROex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/263.webp",
+    "imagePath": "cards/B1/263.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5912,7 +5912,7 @@
     ],
     "ex": false,
     "image": "cPK_20_012560_00_MELMETALex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/264.webp",
+    "imagePath": "cards/B1/264.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5934,7 +5934,7 @@
     ],
     "ex": false,
     "image": "cPK_20_012650_00_KENTAUROSex_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/265.webp",
+    "imagePath": "cards/B1/265.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5961,7 +5961,7 @@
     ],
     "ex": false,
     "image": "cTR_20_000950_00_SHIZUI_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/266.webp",
+    "imagePath": "cards/B1/266.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -5986,7 +5986,7 @@
     ],
     "ex": false,
     "image": "cTR_20_000960_00_HALA_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/267.webp",
+    "imagePath": "cards/B1/267.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6010,7 +6010,7 @@
     ],
     "ex": false,
     "image": "cTR_20_000970_00_HARUKA_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/268.webp",
+    "imagePath": "cards/B1/268.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6035,7 +6035,7 @@
     ],
     "ex": false,
     "image": "cTR_20_000980_00_MELISSA_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/269.webp",
+    "imagePath": "cards/B1/269.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6059,7 +6059,7 @@
     ],
     "ex": false,
     "image": "cTR_20_000990_00_MONOMANEMUSUME_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/270.webp",
+    "imagePath": "cards/B1/270.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6083,7 +6083,7 @@
     ],
     "ex": false,
     "image": "cTR_20_001000_00_RUCHIA_SR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/271.webp",
+    "imagePath": "cards/B1/271.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6105,7 +6105,7 @@
     ],
     "ex": false,
     "image": "cPK_20_010840_01_MEGAKAILIOSex_SAR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/272.webp",
+    "imagePath": "cards/B1/272.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6127,7 +6127,7 @@
     ],
     "ex": false,
     "image": "cPK_20_010980_01_ELFUUNex_SAR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/273.webp",
+    "imagePath": "cards/B1/273.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6149,7 +6149,7 @@
     ],
     "ex": false,
     "image": "cPK_20_011130_01_GALLOPex_SAR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/274.webp",
+    "imagePath": "cards/B1/274.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6171,7 +6171,7 @@
     ],
     "ex": false,
     "image": "cPK_20_011550_01_GEKKOUGAex_SAR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/275.webp",
+    "imagePath": "cards/B1/275.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6193,7 +6193,7 @@
     ],
     "ex": false,
     "image": "cPK_20_011630_01_THUNDERSex_SAR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/276.webp",
+    "imagePath": "cards/B1/276.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6215,7 +6215,7 @@
     ],
     "ex": false,
     "image": "cPK_20_011670_01_MEGADENRYUex_SAR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/277.webp",
+    "imagePath": "cards/B1/277.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6237,7 +6237,7 @@
     ],
     "ex": false,
     "image": "cPK_20_012030_01_YESSANMESUNOSUGATA_SAR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/278.webp",
+    "imagePath": "cards/B1/278.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6259,7 +6259,7 @@
     ],
     "ex": false,
     "image": "cPK_20_012060_01_EBIWALARex_SAR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/279.webp",
+    "imagePath": "cards/B1/279.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6281,7 +6281,7 @@
     ],
     "ex": false,
     "image": "cPK_20_012330_01_MEGAABSOLex_SAR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/280.webp",
+    "imagePath": "cards/B1/280.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6303,7 +6303,7 @@
     ],
     "ex": false,
     "image": "cPK_20_012420_01_DRAMIDOROex_SAR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/281.webp",
+    "imagePath": "cards/B1/281.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6325,7 +6325,7 @@
     ],
     "ex": false,
     "image": "cPK_20_012560_01_MELMETALex_SAR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/282.webp",
+    "imagePath": "cards/B1/282.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6347,7 +6347,7 @@
     ],
     "ex": false,
     "image": "cPK_20_012650_01_KENTAUROSex_SAR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/283.webp",
+    "imagePath": "cards/B1/283.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6369,7 +6369,7 @@
     ],
     "ex": false,
     "image": "cPK_20_011180_01_MEGABURSYAMOex_IM.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/284.webp",
+    "imagePath": "cards/B1/284.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6391,7 +6391,7 @@
     ],
     "ex": false,
     "image": "cPK_20_011340_01_MEGAGYARADOSex_IM.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/285.webp",
+    "imagePath": "cards/B1/285.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6413,7 +6413,7 @@
     ],
     "ex": false,
     "image": "cPK_20_011840_01_MEGATYLTALISex_IM.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/286.webp",
+    "imagePath": "cards/B1/286.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6435,7 +6435,7 @@
     ],
     "ex": false,
     "image": "cPK_20_000180_00_MADATSUBOMI_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/287.webp",
+    "imagePath": "cards/B1/287.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6457,7 +6457,7 @@
     ],
     "ex": false,
     "image": "cPK_20_000190_00_UTSUDON_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/288.webp",
+    "imagePath": "cards/B1/288.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6479,7 +6479,7 @@
     ],
     "ex": false,
     "image": "cPK_20_000200_00_UTSUBOT_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/289.webp",
+    "imagePath": "cards/B1/289.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6501,7 +6501,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005910_00_MOKUROH_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/290.webp",
+    "imagePath": "cards/B1/290.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6523,7 +6523,7 @@
     ],
     "ex": false,
     "image": "cPK_20_007460_00_FUKUTHROW_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/291.webp",
+    "imagePath": "cards/B1/291.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6545,7 +6545,7 @@
     ],
     "ex": false,
     "image": "cPK_20_000460_00_FIRE_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/292.webp",
+    "imagePath": "cards/B1/292.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6567,7 +6567,7 @@
     ],
     "ex": false,
     "image": "cPK_20_006110_00_NYABBY_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/293.webp",
+    "imagePath": "cards/B1/293.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6589,7 +6589,7 @@
     ],
     "ex": false,
     "image": "cPK_20_006130_00_NYAHEAT_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/294.webp",
+    "imagePath": "cards/B1/294.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6611,7 +6611,7 @@
     ],
     "ex": false,
     "image": "cPK_20_010330_00_NYOROMO_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/295.webp",
+    "imagePath": "cards/B1/295.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6633,7 +6633,7 @@
     ],
     "ex": false,
     "image": "cPK_20_000600_00_NYOROZO_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/296.webp",
+    "imagePath": "cards/B1/296.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6655,7 +6655,7 @@
     ],
     "ex": false,
     "image": "cPK_20_000610_00_NYOROBON_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/297.webp",
+    "imagePath": "cards/B1/297.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6677,7 +6677,7 @@
     ],
     "ex": false,
     "image": "cPK_20_000830_00_FREEZER_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/298.webp",
+    "imagePath": "cards/B1/298.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6699,7 +6699,7 @@
     ],
     "ex": false,
     "image": "cPK_20_003310_01_MANAPHY_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/299.webp",
+    "imagePath": "cards/B1/299.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6721,7 +6721,7 @@
     ],
     "ex": false,
     "image": "cPK_20_006260_00_ASHIMARI_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/300.webp",
+    "imagePath": "cards/B1/300.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6743,7 +6743,7 @@
     ],
     "ex": false,
     "image": "cPK_20_008180_00_OSYAMARI_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/301.webp",
+    "imagePath": "cards/B1/301.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6765,7 +6765,7 @@
     ],
     "ex": false,
     "image": "cPK_20_001030_00_THUNDER_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/302.webp",
+    "imagePath": "cards/B1/302.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6787,7 +6787,7 @@
     ],
     "ex": false,
     "image": "cPK_20_006470_01_ODORIDORIPACHIPACHISTYLE_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/303.webp",
+    "imagePath": "cards/B1/303.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6809,7 +6809,7 @@
     ],
     "ex": false,
     "image": "cPK_20_007410_00_ZERAORA_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/304.webp",
+    "imagePath": "cards/B1/304.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6831,7 +6831,7 @@
     ],
     "ex": false,
     "image": "cPK_20_001240_00_SLEEPE_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/305.webp",
+    "imagePath": "cards/B1/305.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6853,7 +6853,7 @@
     ],
     "ex": false,
     "image": "cPK_20_001250_00_SLEEPER_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/306.webp",
+    "imagePath": "cards/B1/306.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6875,7 +6875,7 @@
     ],
     "ex": false,
     "image": "cPK_20_001470_00_ISITSUBUTE_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/307.webp",
+    "imagePath": "cards/B1/307.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6897,7 +6897,7 @@
     ],
     "ex": false,
     "image": "cPK_20_002570_00_GOLONE_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/308.webp",
+    "imagePath": "cards/B1/308.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6919,7 +6919,7 @@
     ],
     "ex": false,
     "image": "cPK_20_002580_00_GOLONYA_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/309.webp",
+    "imagePath": "cards/B1/309.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6941,7 +6941,7 @@
     ],
     "ex": false,
     "image": "cPK_20_006790_01_IWANKO_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/310.webp",
+    "imagePath": "cards/B1/310.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6963,7 +6963,7 @@
     ],
     "ex": false,
     "image": "cPK_20_006980_00_ALOLADIGDA_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/311.webp",
+    "imagePath": "cards/B1/311.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -6985,7 +6985,7 @@
     ],
     "ex": false,
     "image": "cPK_20_001960_01_NYARTH_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/312.webp",
+    "imagePath": "cards/B1/312.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -7007,7 +7007,7 @@
     ],
     "ex": false,
     "image": "cPK_20_001970_00_PERSIAN_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/313.webp",
+    "imagePath": "cards/B1/313.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -7029,7 +7029,7 @@
     ],
     "ex": false,
     "image": "cPK_20_001990_00_DODO_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/314.webp",
+    "imagePath": "cards/B1/314.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -7051,7 +7051,7 @@
     ],
     "ex": false,
     "image": "cPK_20_002000_00_DODORIO_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/315.webp",
+    "imagePath": "cards/B1/315.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -7073,7 +7073,7 @@
     ],
     "ex": false,
     "image": "cPK_20_004160_01_BIPPA_S.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/316.webp",
+    "imagePath": "cards/B1/316.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -7095,7 +7095,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005930_02_JUNAIPERex_SSR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/317.webp",
+    "imagePath": "cards/B1/317.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -7117,7 +7117,7 @@
     ],
     "ex": false,
     "image": "cPK_20_006140_02_GAOGAENex_SSR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/318.webp",
+    "imagePath": "cards/B1/318.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -7139,7 +7139,7 @@
     ],
     "ex": false,
     "image": "cPK_20_003300_04_PALKIAex_SSR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/319.webp",
+    "imagePath": "cards/B1/319.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -7161,7 +7161,7 @@
     ],
     "ex": false,
     "image": "cPK_20_008190_02_ASHIRENEex_SSR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/320.webp",
+    "imagePath": "cards/B1/320.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -7183,7 +7183,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005410_02_PIKACHUex_SSR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/321.webp",
+    "imagePath": "cards/B1/321.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -7205,7 +7205,7 @@
     ],
     "ex": false,
     "image": "cPK_20_007420_02_KAPU-KOKEKOex_SSR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/322.webp",
+    "imagePath": "cards/B1/322.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -7227,7 +7227,7 @@
     ],
     "ex": false,
     "image": "cPK_20_007700_02_LUGARUGANex_SSR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/323.webp",
+    "imagePath": "cards/B1/323.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -7249,7 +7249,7 @@
     ],
     "ex": false,
     "image": "cPK_20_006850_02_NAGETUKESARUex_SSR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/324.webp",
+    "imagePath": "cards/B1/324.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -7271,7 +7271,7 @@
     ],
     "ex": false,
     "image": "cPK_20_007830_02_ALOLADUGTRIOex_SSR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/325.webp",
+    "imagePath": "cards/B1/325.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -7293,7 +7293,7 @@
     ],
     "ex": false,
     "image": "cPK_20_004000_04_DIALGAex_SSR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/326.webp",
+    "imagePath": "cards/B1/326.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -7315,7 +7315,7 @@
     ],
     "ex": false,
     "image": "cPK_20_005790_02_BEADARUex_SSR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/327.webp",
+    "imagePath": "cards/B1/327.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -7337,7 +7337,7 @@
     ],
     "ex": false,
     "image": "cPK_20_004950_04_ARCEUSex_SSR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/328.webp",
+    "imagePath": "cards/B1/328.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -7361,7 +7361,7 @@
     ],
     "ex": false,
     "image": "cPK_20_011000_00_DREDEAR_UR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/329.webp",
+    "imagePath": "cards/B1/329.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -7385,7 +7385,7 @@
     ],
     "ex": false,
     "image": "cPK_20_012020_00_CLEFFY_UR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/330.webp",
+    "imagePath": "cards/B1/330.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -7411,7 +7411,7 @@
     ],
     "ex": false,
     "image": "cTR_20_000910_00_FUREIMUPACCHI_UR.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/331.webp",
+    "imagePath": "cards/B1/331.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   }

@@ -17,7 +17,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000080_00_KAINOKASEKI_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1/216.webp",
+    "imagePath": "cards/A1/216.webp",
     "setName": "Genes Formidables",
     "releaseDate": "2024-10-30"
   },
@@ -39,7 +39,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000090_00_KOURANOKASEKI_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1/217.webp",
+    "imagePath": "cards/A1/217.webp",
     "setName": "Genes Formidables",
     "releaseDate": "2024-10-30"
   },
@@ -61,7 +61,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000100_00_HIMITSUNOKOHAKU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1/218.webp",
+    "imagePath": "cards/A1/218.webp",
     "setName": "Genes Formidables",
     "releaseDate": "2024-10-30"
   },
@@ -83,7 +83,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000100_00_HIMITSUNOKOHAKU_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A1a/63.webp",
+    "imagePath": "cards/A1a/63.webp",
     "setName": "La Isla Singular",
     "releaseDate": "2024-12-17"
   },
@@ -105,7 +105,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000260_00_ZUGAINOKASEKI_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2/144.webp",
+    "imagePath": "cards/A2/144.webp",
     "setName": "Space-Time Smackdown",
     "releaseDate": "2025-01-29"
   },
@@ -127,7 +127,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000270_00_TATENOKASEKI_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A2/145.webp",
+    "imagePath": "cards/A2/145.webp",
     "setName": "Space-Time Smackdown",
     "releaseDate": "2025-01-29"
   },
@@ -149,7 +149,7 @@
     ],
     "ex": false,
     "image": "A4b_312.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4b/312.webp",
+    "imagePath": "cards/A4b/312.webp",
     "setName": "Deluxe Pack: ex",
     "releaseDate": "2025-09-30"
   },
@@ -171,7 +171,7 @@
     ],
     "ex": false,
     "image": "A4b_313.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/A4b/313.webp",
+    "imagePath": "cards/A4b/313.webp",
     "setName": "Deluxe Pack: ex",
     "releaseDate": "2025-09-30"
   },
@@ -193,7 +193,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000880_00_HANENOKASEKI_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/214.webp",
+    "imagePath": "cards/B1/214.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   },
@@ -215,7 +215,7 @@
     ],
     "ex": false,
     "image": "cTR_10_000900_00_FUTANOKASEKI_C.webp",
-    "imageUrl": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/cards-by-set/B1/216.webp",
+    "imagePath": "cards/B1/216.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
   }
