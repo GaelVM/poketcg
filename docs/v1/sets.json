@@ -45,7 +45,8 @@
     "count": 207,
     "name": {
       "en": "Space-Time Smackdown",
-      "fr": "Choc Spatio-Temporel"
+      "fr": "Choc Spatio-Temporel",
+      "de": "Kollision von Raum und Zeit"
     },
     "packs": [
       "Dialga",
@@ -59,7 +60,8 @@
     "name": {
       "en": "Triumphant Light",
       "fr": "Lumière Triomphale",
-      "es": "Luz Triunfal"
+      "es": "Luz Triunfal",
+      "de": "Licht des Triumphs"
     },
     "packs": [
       "Arceus"
@@ -71,7 +73,8 @@
     "count": 111,
     "name": {
       "en": "Shining Revelry",
-      "fr": "Réjouissances Rayonnantes"
+      "fr": "Réjouissances Rayonnantes",
+      "de": "Glänzendes Festival"
     },
     "packs": [
       "Shining"
@@ -83,7 +86,8 @@
     "count": 239,
     "name": {
       "en": "Celestial Guardians",
-      "fr": "Gardiens Célestes"
+      "fr": "Gardiens Célestes",
+      "de": "Hüter des Firmaments"
     },
     "packs": [
       "Lunala",
@@ -96,7 +100,8 @@
     "count": 103,
     "name": {
       "en": "Extradimensional Crisis",
-      "fr": "Crise Interdimensionnelle"
+      "fr": "Crise Interdimensionnelle",
+      "de": "Dimensionale Krise"
     },
     "packs": [
       "Extradimensional"
@@ -108,7 +113,8 @@
     "count": 107,
     "name": {
       "en": "Eevee Grove",
-      "fr": "La Clairière d'Évoli"
+      "fr": "La Clairière d'Évoli",
+      "de": "Evoli-Hain"
     },
     "packs": [
       "Eevee"
@@ -120,7 +126,8 @@
     "count": 241,
     "name": {
       "en": "Wisdom of Sea and Sky",
-      "fr": "Sagesse entre Ciel et Mer"
+      "fr": "Sagesse entre Ciel et Mer",
+      "de": "Weisheit von Meer und Himmel"
     },
     "packs": [
       "Ho-Oh",
@@ -133,7 +140,8 @@
     "count": 105,
     "name": {
       "en": "Secluded Springs",
-      "fr": "Source Secrète"
+      "fr": "Source Secrète",
+      "de": "Verborgene Quelle"
     },
     "packs": [
       "Secluded"
@@ -145,7 +153,8 @@
     "count": 379,
     "name": {
       "en": "Deluxe Pack: ex",
-      "fr": "Booster de Luxe ex"
+      "fr": "Booster de Luxe ex",
+      "de": "Deluxepack-ex"
     },
     "packs": [
       "Deluxe"
@@ -157,7 +166,8 @@
     "count": 117,
     "name": {
       "en": "Promo A",
-      "fr": "Promo-A"
+      "fr": "Promo-A",
+      "de": "PROMO-A"
     },
     "packs": [
       "Vol. 1",
@@ -181,7 +191,8 @@
     "count": 331,
     "name": {
       "en": "Mega Rising",
-      "fr": "Méga-Ascension"
+      "fr": "Méga-Ascension",
+      "de": "Mega-Aufstieg"
     },
     "packs": [
       "Mega Altaria",
@@ -195,7 +206,8 @@
     "count": 103,
     "name": {
       "en": "Crimson Blaze",
-      "fr": "Embrasement Écarlate"
+      "fr": "Embrasement Écarlate",
+      "de": "Feuerrote Flammen"
     },
     "packs": [
       "Crimson Blaze"
@@ -207,7 +219,8 @@
     "count": 234,
     "name": {
       "en": "Fantastical Parade",
-      "fr": "Parade Onirique"
+      "fr": "Parade Onirique",
+      "de": "Traumhafte Parade"
     },
     "packs": [
       "Gardevoir"
@@ -219,7 +232,8 @@
     "count": 131,
     "name": {
       "en": "Paldean Wonders",
-      "fr": "Merveilles de Paldea"
+      "fr": "Merveilles de Paldea",
+      "de": "Wundervolles Paldea"
     },
     "packs": [
       "Paldean"
@@ -231,7 +245,8 @@
     "count": 117,
     "name": {
       "en": "Mega Shine",
-      "fr": "Méga-Rayonnement"
+      "fr": "Méga-Rayonnement",
+      "de": "Mega-Schillern"
     },
     "packs": [
       "Mega Shine"
@@ -243,7 +258,8 @@
     "count": 234,
     "name": {
       "en": "Pulsing Aura",
-      "fr": "Aura Palpitante"
+      "fr": "Aura Palpitante",
+      "de": "Pulsierende Aura"
     },
     "packs": [
       "Pulsing Aura"
@@ -255,7 +271,8 @@
     "count": 109,
     "name": {
       "en": "Paradox Drive",
-      "fr": "Propulsion Paradoxe"
+      "fr": "Propulsion Paradoxe",
+      "de": "Paradoxansturm"
     },
     "packs": [
       "Paradox Drive"
@@ -267,7 +284,8 @@
     "count": 106,
     "name": {
       "en": "Everyday Wonders",
-      "fr": "Jours Heureux"
+      "fr": "Jours Heureux",
+      "de": "Wunder des Alltags"
     },
     "packs": [
       "Everyday Wonders"
@@ -279,7 +297,8 @@
     "count": 233,
     "name": {
       "en": "Ruler of the Skies",
-      "fr": "Domination Céleste"
+      "fr": "Domination Céleste",
+      "de": "Herrscher der Lüfte"
     },
     "packs": [
       "Ruler of the Skies"
@@ -291,10 +310,11 @@
     "count": 110,
     "name": {
       "en": "Team Rocket’s Ambition",
-      "fr": "L’Ambition de la Team Rocket"
+      "fr": "L’Ambition de la Team Rocket",
+      "de": "Team Rockets Pläne"
     },
     "packs": [
-      "Ruler of the Skies"
+      "Team Rocket"
     ]
   },
   {
@@ -303,7 +323,8 @@
     "count": 429,
     "name": {
       "en": "Deluxe Pack: Mega",
-      "fr": "Booster de Luxe Méga"
+      "fr": "Booster de Luxe Méga",
+      "de": "Deluxepack: Mega"
     },
     "packs": [
       "Deluxe Pack Mega"
@@ -314,7 +335,8 @@
     "releaseDate": "2025-10-30",
     "name": {
       "en": "Promo B",
-      "fr": "Promo-B"
+      "fr": "Promo-B",
+      "de": "PROMO-B"
     },
     "packs": [
       "B Series Vol. 1",
