@@ -10,7 +10,7 @@
     "stage": "basic",
     "health": 50,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -30,9 +30,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 80,
+    "retreatCost": 2,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -52,9 +52,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
+    "health": 170,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -74,9 +74,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 90,
+    "retreatCost": 2,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -96,9 +96,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -118,9 +118,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -140,9 +140,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
+    "health": 140,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -162,9 +162,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Water",
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -184,9 +184,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 90,
+    "retreatCost": 2,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -206,9 +206,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 180,
+    "retreatCost": 3,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -228,9 +228,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "Water",
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -250,9 +250,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 120,
+    "retreatCost": 3,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -272,9 +272,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 110,
+    "retreatCost": 2,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -294,9 +294,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -316,9 +316,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 100,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -338,9 +338,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -359,10 +359,10 @@
     "rarity": "U",
     "element": "water",
     "type": "pokemon",
-    "stage": "basic",
-    "health": 50,
+    "stage": 1,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -382,9 +382,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -404,9 +404,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 140,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -426,9 +426,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 120,
+    "retreatCost": 3,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -448,9 +448,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -470,9 +470,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 120,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -492,9 +492,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -514,9 +514,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -536,9 +536,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -558,9 +558,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -580,9 +580,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -601,10 +601,10 @@
     "rarity": "R",
     "element": "lightning",
     "type": "pokemon",
-    "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fighting",
+    "stage": 2,
+    "health": 140,
+    "retreatCost": 0,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -624,9 +624,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -645,10 +645,10 @@
     "rarity": "U",
     "element": "psychic",
     "type": "pokemon",
-    "stage": "basic",
-    "health": 50,
+    "stage": 1,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -668,9 +668,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
+    "health": 130,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -690,9 +690,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -712,9 +712,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -734,9 +734,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Dark",
+    "health": 90,
+    "retreatCost": 0,
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -756,9 +756,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Dark",
+    "health": 150,
+    "retreatCost": 2,
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -778,9 +778,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -800,9 +800,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -822,9 +822,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 100,
+    "retreatCost": 2,
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -844,9 +844,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 150,
+    "retreatCost": 2,
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -866,9 +866,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -888,9 +888,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -910,9 +910,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -931,10 +931,10 @@
     "rarity": "RR",
     "element": "fighting",
     "type": "pokemon",
-    "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "stage": 1,
+    "health": 150,
+    "retreatCost": 2,
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -954,9 +954,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -976,9 +976,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -998,9 +998,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 110,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -1022,7 +1022,7 @@
     "stage": "basic",
     "health": 50,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -1041,10 +1041,10 @@
     "rarity": "RR",
     "element": "darkness",
     "type": "pokemon",
-    "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "stage": 1,
+    "health": 160,
+    "retreatCost": 3,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -1064,9 +1064,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -1086,9 +1086,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -1108,9 +1108,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -1130,7 +1130,7 @@
     "element": "metal",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
     "weakness": "fire",
     "goodWith": [],
@@ -1152,8 +1152,8 @@
     "element": "metal",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
+    "health": 90,
+    "retreatCost": 2,
     "weakness": "fire",
     "goodWith": [],
     "packs": [
@@ -1174,8 +1174,8 @@
     "element": "metal",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
+    "health": 170,
+    "retreatCost": 2,
     "weakness": "fire",
     "goodWith": [],
     "packs": [
@@ -1196,7 +1196,7 @@
     "element": "metal",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
     "weakness": "fire",
     "goodWith": [],
@@ -1218,8 +1218,8 @@
     "element": "metal",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
+    "health": 110,
+    "retreatCost": 2,
     "weakness": "fire",
     "goodWith": [],
     "packs": [
@@ -1240,8 +1240,8 @@
     "element": "metal",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
+    "health": 120,
+    "retreatCost": 2,
     "weakness": "fire",
     "goodWith": [],
     "packs": [
@@ -1264,7 +1264,7 @@
     "stage": "basic",
     "health": 50,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -1284,9 +1284,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -1306,9 +1306,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -1328,9 +1328,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 100,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -1350,9 +1350,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 80,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -1372,9 +1372,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 130,
+    "retreatCost": 3,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -1394,9 +1394,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 70,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -1416,9 +1416,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 160,
+    "retreatCost": 3,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -1440,7 +1440,7 @@
     "stage": "basic",
     "health": 50,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -1460,9 +1460,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 100,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -1482,9 +1482,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -1600,9 +1600,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
+    "health": 140,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -1622,9 +1622,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -1644,9 +1644,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -1666,9 +1666,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -1688,8 +1688,8 @@
     "element": "metal",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
+    "health": 120,
+    "retreatCost": 2,
     "weakness": "fire",
     "goodWith": [],
     "packs": [
@@ -1710,9 +1710,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 100,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -1732,9 +1732,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
+    "health": 170,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -1754,9 +1754,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 180,
+    "retreatCost": 3,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -1776,9 +1776,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 140,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -1798,9 +1798,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 120,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -1820,9 +1820,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Dark",
+    "health": 150,
+    "retreatCost": 2,
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -1841,10 +1841,10 @@
     "rarity": "SR",
     "element": "fighting",
     "type": "pokemon",
-    "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "stage": 1,
+    "health": 150,
+    "retreatCost": 2,
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -1863,10 +1863,10 @@
     "rarity": "SR",
     "element": "darkness",
     "type": "pokemon",
-    "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "stage": 1,
+    "health": 160,
+    "retreatCost": 3,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -1886,8 +1886,8 @@
     "element": "metal",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
+    "health": 170,
+    "retreatCost": 2,
     "weakness": "fire",
     "goodWith": [],
     "packs": [
@@ -1908,9 +1908,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 160,
+    "retreatCost": 3,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -2026,9 +2026,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 120,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -2047,10 +2047,10 @@
     "rarity": "SAR",
     "element": "darkness",
     "type": "pokemon",
-    "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "stage": 1,
+    "health": 160,
+    "retreatCost": 3,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -2070,8 +2070,8 @@
     "element": "metal",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
+    "health": 170,
+    "retreatCost": 2,
     "weakness": "fire",
     "goodWith": [],
     "packs": [
@@ -2092,9 +2092,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 160,
+    "retreatCost": 3,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -2114,9 +2114,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Dark",
+    "health": 150,
+    "retreatCost": 2,
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -2138,7 +2138,7 @@
     "stage": "basic",
     "health": 50,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -2158,9 +2158,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 80,
+    "retreatCost": 2,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -2180,9 +2180,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Water",
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -2202,9 +2202,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 90,
+    "retreatCost": 2,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -2224,9 +2224,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -2246,9 +2246,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 120,
+    "retreatCost": 3,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -2268,9 +2268,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -2290,9 +2290,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -2312,7 +2312,7 @@
     "element": "metal",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
     "weakness": "fire",
     "goodWith": [],
@@ -2334,8 +2334,8 @@
     "element": "metal",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
+    "health": 110,
+    "retreatCost": 2,
     "weakness": "fire",
     "goodWith": [],
     "packs": [
@@ -2356,9 +2356,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
+    "health": 170,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -2378,9 +2378,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 180,
+    "retreatCost": 3,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -2400,9 +2400,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 140,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -2421,10 +2421,10 @@
     "rarity": "SSR",
     "element": "fighting",
     "type": "pokemon",
-    "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "stage": 1,
+    "health": 150,
+    "retreatCost": 2,
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Shining"

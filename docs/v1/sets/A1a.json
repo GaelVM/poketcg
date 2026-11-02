@@ -10,7 +10,7 @@
     "stage": "basic",
     "health": 50,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -30,9 +30,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 130,
+    "retreatCost": 3,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -52,9 +52,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 130,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -74,9 +74,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -96,9 +96,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -118,9 +118,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 110,
+    "retreatCost": 2,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -140,9 +140,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -162,9 +162,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 90,
+    "retreatCost": 2,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -184,9 +184,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 100,
+    "retreatCost": 2,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -206,9 +206,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Water",
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -228,9 +228,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 100,
     "retreatCost": 1,
-    "weakness": "Water",
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -250,9 +250,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 80,
+    "retreatCost": 2,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -272,9 +272,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 80,
+    "retreatCost": 2,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -293,10 +293,10 @@
     "rarity": "R",
     "element": "fire",
     "type": "pokemon",
-    "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "stage": 1,
+    "health": 120,
+    "retreatCost": 2,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -316,9 +316,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Water",
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -338,9 +338,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "Water",
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -360,9 +360,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 30,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -382,9 +382,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 180,
+    "retreatCost": 3,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -404,9 +404,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 120,
+    "retreatCost": 2,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -426,9 +426,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -448,9 +448,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 80,
+    "retreatCost": 0,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -470,9 +470,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 80,
+    "retreatCost": 2,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -492,9 +492,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 130,
+    "retreatCost": 3,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -514,9 +514,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -536,9 +536,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -558,9 +558,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fighting",
+    "health": 120,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -580,9 +580,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -602,9 +602,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 40,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -624,9 +624,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -646,9 +646,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -668,9 +668,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -690,9 +690,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 130,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -712,9 +712,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -734,9 +734,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -756,9 +756,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -778,9 +778,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 40,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -800,9 +800,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -822,9 +822,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
+    "health": 120,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -844,9 +844,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -866,9 +866,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Dark",
+    "health": 100,
+    "retreatCost": 2,
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -890,7 +890,7 @@
     "stage": "basic",
     "health": 50,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -910,9 +910,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -932,9 +932,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 70,
+    "retreatCost": 2,
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -954,9 +954,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 100,
+    "retreatCost": 3,
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -976,9 +976,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 160,
+    "retreatCost": 3,
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -998,9 +998,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 140,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -1020,9 +1020,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -1042,9 +1042,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 120,
+    "retreatCost": 3,
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -1064,9 +1064,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 70,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -1086,9 +1086,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 110,
+    "retreatCost": 3,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -1108,9 +1108,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -1130,9 +1130,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -1152,9 +1152,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -1174,9 +1174,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 90,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -1196,9 +1196,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 140,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -1218,8 +1218,8 @@
     "element": "dragon",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
+    "health": 100,
+    "retreatCost": 2,
     "weakness": null,
     "goodWith": [],
     "packs": [
@@ -1242,7 +1242,7 @@
     "stage": "basic",
     "health": 50,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -1262,9 +1262,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -1284,9 +1284,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
+    "health": 170,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -1306,9 +1306,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 100,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -1328,9 +1328,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -1350,9 +1350,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -1514,9 +1514,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 130,
+    "retreatCost": 3,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -1536,9 +1536,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 110,
+    "retreatCost": 2,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -1558,9 +1558,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Water",
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -1580,9 +1580,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 120,
+    "retreatCost": 2,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -1602,9 +1602,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -1624,9 +1624,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -1646,9 +1646,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 130,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -1668,9 +1668,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 180,
+    "retreatCost": 3,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -1690,9 +1690,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 130,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -1712,9 +1712,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 140,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -1734,9 +1734,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
+    "health": 170,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -1828,9 +1828,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 130,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -1850,9 +1850,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 140,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -1872,9 +1872,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 130,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -1894,9 +1894,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 130,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Mew"

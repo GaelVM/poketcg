@@ -10,7 +10,7 @@
     "stage": "basic",
     "health": 50,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -30,9 +30,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -52,9 +52,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
+    "health": 160,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -76,7 +76,7 @@
     "stage": "basic",
     "health": 50,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -96,9 +96,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 90,
+    "retreatCost": 2,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -118,9 +118,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -140,9 +140,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -162,9 +162,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 80,
+    "retreatCost": 2,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -184,9 +184,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 120,
+    "retreatCost": 3,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -206,9 +206,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 140,
+    "retreatCost": 2,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -228,9 +228,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "Water",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -250,9 +250,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
+    "health": 130,
     "retreatCost": 1,
-    "weakness": "Water",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -272,9 +272,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -294,9 +294,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -316,9 +316,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -338,9 +338,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 110,
+    "retreatCost": 2,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -360,9 +360,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -381,10 +381,10 @@
     "rarity": "U",
     "element": "water",
     "type": "pokemon",
-    "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "stage": 1,
+    "health": 130,
+    "retreatCost": 3,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -404,9 +404,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -426,9 +426,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 140,
+    "retreatCost": 2,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -448,9 +448,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 30,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -470,9 +470,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 120,
+    "retreatCost": 2,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -492,9 +492,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 30,
+    "retreatCost": 0,
+    "weakness": null,
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -514,9 +514,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -536,9 +536,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fighting",
+    "health": 130,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -558,9 +558,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fighting",
+    "health": 40,
+    "retreatCost": 0,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -580,9 +580,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fighting",
+    "health": 90,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -602,9 +602,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fighting",
+    "health": 150,
+    "retreatCost": 3,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -624,9 +624,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fighting",
+    "health": 90,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -646,9 +646,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -668,9 +668,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fighting",
+    "health": 120,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -692,7 +692,7 @@
     "stage": "basic",
     "health": 50,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -712,9 +712,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 100,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -734,9 +734,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -756,9 +756,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Dark",
+    "health": 80,
+    "retreatCost": 2,
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -778,9 +778,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -800,9 +800,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Dark",
+    "health": 110,
+    "retreatCost": 2,
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -822,9 +822,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -844,9 +844,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Dark",
+    "health": 110,
+    "retreatCost": 2,
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -866,9 +866,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -888,9 +888,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -910,9 +910,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 180,
+    "retreatCost": 3,
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -932,9 +932,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 70,
+    "retreatCost": 2,
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -954,9 +954,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 120,
+    "retreatCost": 4,
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -976,9 +976,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 90,
+    "retreatCost": 2,
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -998,9 +998,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 70,
+    "retreatCost": 2,
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1020,9 +1020,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 140,
+    "retreatCost": 4,
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1042,9 +1042,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 80,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1064,9 +1064,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1086,9 +1086,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 100,
+    "retreatCost": 2,
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1108,9 +1108,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1130,9 +1130,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1154,7 +1154,7 @@
     "stage": "basic",
     "health": 50,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1174,9 +1174,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 110,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1196,8 +1196,8 @@
     "element": "dragon",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
+    "health": 120,
+    "retreatCost": 2,
     "weakness": null,
     "goodWith": [],
     "packs": [
@@ -1218,9 +1218,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1240,9 +1240,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 80,
+    "retreatCost": 3,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1262,9 +1262,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 130,
+    "retreatCost": 3,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1284,9 +1284,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 30,
+    "retreatCost": 0,
+    "weakness": null,
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1306,9 +1306,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1328,9 +1328,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 130,
+    "retreatCost": 3,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1350,9 +1350,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 110,
+    "retreatCost": 3,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1372,9 +1372,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 30,
+    "retreatCost": 0,
+    "weakness": null,
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1396,7 +1396,7 @@
     "stage": "basic",
     "health": 50,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1416,9 +1416,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1440,7 +1440,7 @@
     "stage": "basic",
     "health": 50,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1581,9 +1581,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 120,
+    "retreatCost": 2,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1600,12 +1600,12 @@
     "number": 73,
     "name": "Stunfisk",
     "rarity": "AR",
-    "element": "water",
+    "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 90,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1625,9 +1625,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1647,9 +1647,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Dark",
+    "health": 110,
+    "retreatCost": 2,
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1669,9 +1669,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 70,
+    "retreatCost": 2,
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1688,12 +1688,12 @@
     "number": 77,
     "name": "Azurill",
     "rarity": "AR",
-    "element": "water",
+    "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 30,
+    "retreatCost": 0,
+    "weakness": null,
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1713,9 +1713,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
+    "health": 160,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1735,9 +1735,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 140,
+    "retreatCost": 2,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1757,9 +1757,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 140,
+    "retreatCost": 2,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1779,9 +1779,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fighting",
+    "health": 130,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1801,9 +1801,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 180,
+    "retreatCost": 3,
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1895,9 +1895,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
+    "health": 160,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1917,9 +1917,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 140,
+    "retreatCost": 2,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1939,9 +1939,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fighting",
+    "health": 130,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1961,9 +1961,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 180,
+    "retreatCost": 3,
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1983,9 +1983,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 140,
+    "retreatCost": 2,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -2005,9 +2005,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Water",
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -2027,9 +2027,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "Water",
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -2049,9 +2049,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -2071,9 +2071,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -2093,9 +2093,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 70,
+    "retreatCost": 2,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -2115,9 +2115,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 120,
+    "retreatCost": 3,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -2134,12 +2134,12 @@
     "number": 97,
     "name": "Pyukumuku",
     "rarity": "S",
-    "element": "lightning",
+    "element": "water",
     "type": "pokemon",
-    "stage": 1,
-    "health": 50,
+    "stage": "basic",
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -2156,12 +2156,12 @@
     "number": 98,
     "name": "Gible",
     "rarity": "S",
-    "element": "dragon",
+    "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": null,
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -2178,12 +2178,12 @@
     "number": 99,
     "name": "Gabite",
     "rarity": "S",
-    "element": "dragon",
+    "element": "fighting",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": null,
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -2205,7 +2205,7 @@
     "stage": "basic",
     "health": 50,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -2225,9 +2225,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 170,
+    "retreatCost": 0,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -2247,9 +2247,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 130,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -2269,9 +2269,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
+    "health": 170,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -2290,10 +2290,10 @@
     "rarity": "SSR",
     "element": "darkness",
     "type": "pokemon",
-    "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "stage": 1,
+    "health": 160,
+    "retreatCost": 3,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -2313,9 +2313,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 30,
+    "retreatCost": 0,
+    "weakness": null,
     "goodWith": [],
     "packs": [
       "Secluded"

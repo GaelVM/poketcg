@@ -8,9 +8,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 100,
+    "retreatCost": 2,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -30,9 +30,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -52,9 +52,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -74,9 +74,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 80,
+    "retreatCost": 2,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -96,9 +96,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 140,
+    "retreatCost": 2,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -118,9 +118,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 40,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -140,9 +140,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 90,
+    "retreatCost": 3,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -162,9 +162,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 110,
+    "retreatCost": 2,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -184,9 +184,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 150,
+    "retreatCost": 2,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -206,9 +206,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 100,
+    "retreatCost": 2,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -228,9 +228,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "Water",
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -250,9 +250,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "Water",
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -272,9 +272,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 150,
+    "retreatCost": 3,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -294,9 +294,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Water",
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -316,9 +316,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 90,
+    "retreatCost": 0,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -338,9 +338,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 120,
+    "retreatCost": 2,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -360,9 +360,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 100,
+    "retreatCost": 2,
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -382,9 +382,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -404,9 +404,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 80,
+    "retreatCost": 2,
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -426,9 +426,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 140,
+    "retreatCost": 2,
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -448,9 +448,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 110,
+    "retreatCost": 2,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -470,9 +470,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -492,9 +492,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 90,
+    "retreatCost": 2,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -514,9 +514,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 180,
+    "retreatCost": 2,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -536,9 +536,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -558,9 +558,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 40,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -580,9 +580,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fighting",
+    "health": 80,
+    "retreatCost": 0,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -602,9 +602,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 100,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -624,9 +624,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -645,10 +645,10 @@
     "rarity": "U",
     "element": "psychic",
     "type": "pokemon",
-    "stage": "basic",
-    "health": 50,
+    "stage": 1,
+    "health": 100,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -668,9 +668,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -690,9 +690,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Dark",
+    "health": 120,
+    "retreatCost": 3,
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -712,9 +712,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -734,9 +734,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 140,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -756,9 +756,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -780,7 +780,7 @@
     "stage": "basic",
     "health": 50,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -800,9 +800,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -822,9 +822,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 70,
+    "retreatCost": 2,
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -844,9 +844,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 130,
+    "retreatCost": 3,
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -866,9 +866,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -888,9 +888,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -910,9 +910,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -932,9 +932,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 100,
+    "retreatCost": 2,
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -954,9 +954,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -976,9 +976,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -998,9 +998,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -1020,7 +1020,7 @@
     "element": "metal",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
     "weakness": "fire",
     "goodWith": [],
@@ -1042,7 +1042,7 @@
     "element": "metal",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
     "weakness": "fire",
     "goodWith": [],
@@ -1064,7 +1064,7 @@
     "element": "metal",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
     "weakness": "fire",
     "goodWith": [],
@@ -1086,8 +1086,8 @@
     "element": "metal",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
+    "health": 140,
+    "retreatCost": 4,
     "weakness": "fire",
     "goodWith": [],
     "packs": [
@@ -1108,7 +1108,7 @@
     "element": "dragon",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
     "weakness": null,
     "goodWith": [],
@@ -1130,7 +1130,7 @@
     "element": "dragon",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
     "weakness": null,
     "goodWith": [],
@@ -1152,8 +1152,8 @@
     "element": "dragon",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
+    "health": 180,
+    "retreatCost": 2,
     "weakness": null,
     "goodWith": [],
     "packs": [
@@ -1174,8 +1174,8 @@
     "element": "dragon",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
+    "health": 100,
+    "retreatCost": 2,
     "weakness": null,
     "goodWith": [],
     "packs": [
@@ -1196,9 +1196,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -1218,9 +1218,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -1240,9 +1240,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 160,
+    "retreatCost": 4,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -1262,9 +1262,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -1284,9 +1284,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -1306,9 +1306,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -1328,9 +1328,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 90,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -1350,9 +1350,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -1372,9 +1372,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -1394,9 +1394,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -1416,9 +1416,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 120,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -1536,9 +1536,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -1558,9 +1558,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 110,
+    "retreatCost": 2,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -1580,9 +1580,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 120,
+    "retreatCost": 2,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -1602,9 +1602,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 100,
+    "retreatCost": 2,
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -1624,9 +1624,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -1646,9 +1646,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 100,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -1668,9 +1668,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -1690,9 +1690,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 100,
+    "retreatCost": 2,
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -1712,9 +1712,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -1734,9 +1734,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 150,
+    "retreatCost": 2,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -1756,9 +1756,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 180,
+    "retreatCost": 2,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -1778,9 +1778,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 140,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -1800,8 +1800,8 @@
     "element": "dragon",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
+    "health": 180,
+    "retreatCost": 2,
     "weakness": null,
     "goodWith": [],
     "packs": [
@@ -1822,9 +1822,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -1844,9 +1844,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 160,
+    "retreatCost": 4,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -1916,9 +1916,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 150,
+    "retreatCost": 2,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -1938,9 +1938,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 180,
+    "retreatCost": 2,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -1960,9 +1960,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 140,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -1982,8 +1982,8 @@
     "element": "dragon",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
+    "health": 180,
+    "retreatCost": 2,
     "weakness": null,
     "goodWith": [],
     "packs": [
@@ -2004,9 +2004,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 160,
+    "retreatCost": 4,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -2026,9 +2026,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -2048,9 +2048,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 90,
+    "retreatCost": 2,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -2070,9 +2070,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 100,
+    "retreatCost": 2,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -2092,9 +2092,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -2114,9 +2114,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -2136,9 +2136,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -2158,9 +2158,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -2180,9 +2180,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Dark",
+    "health": 110,
+    "retreatCost": 2,
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -2202,9 +2202,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -2224,9 +2224,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 100,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -2246,9 +2246,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -2268,9 +2268,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 140,
+    "retreatCost": 2,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -2290,9 +2290,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 140,
+    "retreatCost": 2,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -2312,9 +2312,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 130,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -2334,9 +2334,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
+    "health": 170,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Eevee"

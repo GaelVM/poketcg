@@ -1,0 +1,68 @@
+[
+  {
+    "id": "SP1-0-3",
+    "set": "SP1",
+    "number": -3,
+    "name": "Mew",
+    "rarity": "AN",
+    "element": "psychic",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 70,
+    "retreatCost": 1,
+    "weakness": "darkness",
+    "goodWith": [],
+    "packs": [
+      "First Partners"
+    ],
+    "ex": false,
+    "image": "cPK_20_024100_02_MEW_AN.webp",
+    "imagePath": "cards/SP1/-3.webp",
+    "setName": "Special Pack: First Partners",
+    "releaseDate": "2026-10-29"
+  },
+  {
+    "id": "SP1-0-2",
+    "set": "SP1",
+    "number": -2,
+    "name": "Mew",
+    "rarity": "AN",
+    "element": "psychic",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 70,
+    "retreatCost": 1,
+    "weakness": "darkness",
+    "goodWith": [],
+    "packs": [
+      "First Partners"
+    ],
+    "ex": false,
+    "image": "cPK_20_024100_00_MEW_AN.webp",
+    "imagePath": "cards/SP1/-2.webp",
+    "setName": "Special Pack: First Partners",
+    "releaseDate": "2026-10-29"
+  },
+  {
+    "id": "SP1-0-1",
+    "set": "SP1",
+    "number": -1,
+    "name": "Mew",
+    "rarity": "AN",
+    "element": "psychic",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 70,
+    "retreatCost": 1,
+    "weakness": "darkness",
+    "goodWith": [],
+    "packs": [
+      "First Partners"
+    ],
+    "ex": false,
+    "image": "cPK_20_024100_01_MEW_AN.webp",
+    "imagePath": "cards/SP1/-1.webp",
+    "setName": "Special Pack: First Partners",
+    "releaseDate": "2026-10-29"
+  }
+]

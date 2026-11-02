@@ -358,7 +358,7 @@
       "Deluxe"
     ],
     "ex": false,
-    "image": "A4b_308.webp",
+    "image": "cTR_10_000670_00_IIBUINOBAKKU_U.webp",
     "imagePath": "cards/A4b/308.webp",
     "setName": "Deluxe Pack: ex",
     "releaseDate": "2025-09-30"
@@ -382,7 +382,7 @@
       "Deluxe"
     ],
     "ex": false,
-    "image": "A4b_309.webp",
+    "image": "cTR_10_000670_01_IIBUINOBAKKU_U.webp",
     "imagePath": "cards/A4b/309.webp",
     "setName": "Deluxe Pack: ex",
     "releaseDate": "2025-09-30"
@@ -408,7 +408,7 @@
       "Deluxe"
     ],
     "ex": false,
-    "image": "A4b_310.webp",
+    "image": "cTR_10_000710_00_EREMENTARUTSUKEKAE_U.webp",
     "imagePath": "cards/A4b/310.webp",
     "setName": "Deluxe Pack: ex",
     "releaseDate": "2025-09-30"
@@ -434,7 +434,7 @@
       "Deluxe"
     ],
     "ex": false,
-    "image": "A4b_311.webp",
+    "image": "cTR_10_000710_01_EREMENTARUTSUKEKAE_U.webp",
     "imagePath": "cards/A4b/311.webp",
     "setName": "Deluxe Pack: ex",
     "releaseDate": "2025-09-30"
@@ -458,7 +458,7 @@
       "Deluxe"
     ],
     "ex": false,
-    "image": "A4b_314.webp",
+    "image": "cTR_10_000480_00_FUSHIGINAAME_U.webp",
     "imagePath": "cards/A4b/314.webp",
     "setName": "Deluxe Pack: ex",
     "releaseDate": "2025-09-30"
@@ -482,7 +482,7 @@
       "Deluxe"
     ],
     "ex": false,
-    "image": "A4b_315.webp",
+    "image": "cTR_10_000480_01_FUSHIGINAAME_U.webp",
     "imagePath": "cards/A4b/315.webp",
     "setName": "Deluxe Pack: ex",
     "releaseDate": "2025-09-30"
@@ -506,7 +506,7 @@
       "Deluxe"
     ],
     "ex": false,
-    "image": "A4b_316.webp",
+    "image": "cTR_10_000280_00_POKEMONTSUUSHIN_U.webp",
     "imagePath": "cards/A4b/316.webp",
     "setName": "Deluxe Pack: ex",
     "releaseDate": "2025-09-30"
@@ -530,7 +530,7 @@
       "Deluxe"
     ],
     "ex": false,
-    "image": "A4b_317.webp",
+    "image": "cTR_10_000280_01_POKEMONTSUUSHIN_U.webp",
     "imagePath": "cards/A4b/317.webp",
     "setName": "Deluxe Pack: ex",
     "releaseDate": "2025-09-30"
@@ -554,7 +554,7 @@
       "Deluxe"
     ],
     "ex": false,
-    "image": "A4b_379.webp",
+    "image": "cTR_20_000480_00_FUSHIGINAAME_UR.webp",
     "imagePath": "cards/A4b/379.webp",
     "setName": "Deluxe Pack: ex",
     "releaseDate": "2025-09-30"
@@ -722,6 +722,689 @@
     "imagePath": "cards/B1a/103.webp",
     "setName": "Crimson Blaze",
     "releaseDate": "2025-12-17"
+  },
+  {
+    "id": "B2-144",
+    "set": "B2",
+    "number": 144,
+    "name": "Jaw Fossil",
+    "rarity": "C",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Gardevoir"
+    ],
+    "ex": false,
+    "image": "cTR_10_001050_00_AGONOKASEKI_C.webp",
+    "imagePath": "cards/B2/144.webp",
+    "setName": "Fantastical Parade",
+    "releaseDate": "2026-01-29"
+  },
+  {
+    "id": "B2-145",
+    "set": "B2",
+    "number": 145,
+    "name": "Lucky Ice Pop",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Gardevoir"
+    ],
+    "ex": false,
+    "image": "cTR_10_001060_00_ATARITSUKIAISU_U.webp",
+    "imagePath": "cards/B2/145.webp",
+    "setName": "Fantastical Parade",
+    "releaseDate": "2026-01-29"
+  },
+  {
+    "id": "B2-146",
+    "set": "B2",
+    "number": 146,
+    "name": "Sail Fossil",
+    "rarity": "C",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Gardevoir"
+    ],
+    "ex": false,
+    "image": "cTR_10_001070_00_HIRENOKASEKI_C.webp",
+    "imagePath": "cards/B2/146.webp",
+    "setName": "Fantastical Parade",
+    "releaseDate": "2026-01-29"
+  },
+  {
+    "id": "B2a-086",
+    "set": "B2a",
+    "number": 86,
+    "name": "Electric Generator",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Paldean"
+    ],
+    "ex": false,
+    "image": "cTR_10_001170_00_ELECTRICGENERATOR_U.webp",
+    "imagePath": "cards/B2a/86.webp",
+    "setName": "Paldean Wonders",
+    "releaseDate": "2026-02-26"
+  },
+  {
+    "id": "B2a-131",
+    "set": "B2a",
+    "number": 131,
+    "name": "Electric Generator",
+    "rarity": "UR",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Paldean"
+    ],
+    "ex": false,
+    "image": "cTR_20_001170_00_ELECTRICGENERATOR_UR.webp",
+    "imagePath": "cards/B2a/131.webp",
+    "setName": "Paldean Wonders",
+    "releaseDate": "2026-02-26"
+  },
+  {
+    "id": "B2b-065",
+    "set": "B2b",
+    "number": 65,
+    "name": "Nasty Notice",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Mega Shine"
+    ],
+    "ex": false,
+    "image": "cTR_10_001230_00_IJIWARULETTER_U.webp",
+    "imagePath": "cards/B2b/65.webp",
+    "setName": "Mega Shine",
+    "releaseDate": "2026-03-26"
+  },
+  {
+    "id": "B2b-066",
+    "set": "B2b",
+    "number": 66,
+    "name": "Maintenance",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Mega Shine"
+    ],
+    "ex": false,
+    "image": "cTR_10_001240_00_MAINTENANCE_U.webp",
+    "imagePath": "cards/B2b/66.webp",
+    "setName": "Mega Shine",
+    "releaseDate": "2026-03-26"
+  },
+  {
+    "id": "B3-147",
+    "set": "B3",
+    "number": 147,
+    "name": "Field Blower",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Pulsing Aura"
+    ],
+    "ex": false,
+    "image": "cTR_10_001280_00_FIELDBLOWER_U.webp",
+    "imagePath": "cards/B3/147.webp",
+    "setName": "Pulsing Aura",
+    "releaseDate": "2026-04-28"
+  },
+  {
+    "id": "B4-145",
+    "set": "B4",
+    "number": 145,
+    "name": "Order Pad",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Ruler of the Skies"
+    ],
+    "ex": false,
+    "image": "cTR_10_001490_00_OTORIYOSEPADDO_U.webp",
+    "imagePath": "cards/B4/145.webp",
+    "setName": "Ruler of the Skies",
+    "releaseDate": "2026-07-30"
+  },
+  {
+    "id": "B4-146",
+    "set": "B4",
+    "number": 146,
+    "name": "Claw Fossil",
+    "rarity": "C",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Ruler of the Skies"
+    ],
+    "ex": false,
+    "image": "cTR_10_001500_00_TSUMENOKASEKI_C.webp",
+    "imagePath": "cards/B4/146.webp",
+    "setName": "Ruler of the Skies",
+    "releaseDate": "2026-07-30"
+  },
+  {
+    "id": "B4-147",
+    "set": "B4",
+    "number": 147,
+    "name": "Root Fossil",
+    "rarity": "C",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Ruler of the Skies"
+    ],
+    "ex": false,
+    "image": "cTR_10_001510_00_NEKKONOKASEKI_C.webp",
+    "imagePath": "cards/B4/147.webp",
+    "setName": "Ruler of the Skies",
+    "releaseDate": "2026-07-30"
+  },
+  {
+    "id": "B4a-067",
+    "set": "B4a",
+    "number": 67,
+    "name": "Team Rocket’s Thieving Machine",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Team Rocket"
+    ],
+    "ex": false,
+    "image": "cTR_10_001600_00_ROCKETDANNODOROBOUMASHIN_U.webp",
+    "imagePath": "cards/B4a/67.webp",
+    "setName": "Team Rocket’s Ambition",
+    "releaseDate": "2026-08-27"
+  },
+  {
+    "id": "B4a-068",
+    "set": "B4a",
+    "number": 68,
+    "name": "Team Rocket’s Goo-zooka",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Team Rocket"
+    ],
+    "ex": false,
+    "image": "cTR_10_001610_00_ROCKETDANNOBETOBETOBAZOOKA_U.webp",
+    "imagePath": "cards/B4a/68.webp",
+    "setName": "Team Rocket’s Ambition",
+    "releaseDate": "2026-08-27"
+  },
+  {
+    "id": "B4a-110",
+    "set": "B4a",
+    "number": 110,
+    "name": "Team Rocket’s Goo-zooka",
+    "rarity": "UR",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Team Rocket"
+    ],
+    "ex": false,
+    "image": "cTR_20_001610_00_ROCKETDANNOBETOBETOBAZOOKA_UR.webp",
+    "imagePath": "cards/B4a/110.webp",
+    "setName": "Team Rocket’s Ambition",
+    "releaseDate": "2026-08-27"
+  },
+  {
+    "id": "B4b-198",
+    "set": "B4b",
+    "number": 198,
+    "name": "Lucky Ice Pop",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Deluxe Pack Mega"
+    ],
+    "ex": false,
+    "image": "cTR_10_001060_00_ATARITSUKIAISU_U.webp",
+    "imagePath": "cards/B4b/198.webp",
+    "setName": "Deluxe Pack: Mega",
+    "releaseDate": "2026-09-30"
+  },
+  {
+    "id": "B4b-199",
+    "set": "B4b",
+    "number": 199,
+    "name": "Electric Generator",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Deluxe Pack Mega"
+    ],
+    "ex": false,
+    "image": "cTR_10_001170_00_ELECTRICGENERATOR_U.webp",
+    "imagePath": "cards/B4b/199.webp",
+    "setName": "Deluxe Pack: Mega",
+    "releaseDate": "2026-09-30"
+  },
+  {
+    "id": "B4b-200",
+    "set": "B4b",
+    "number": 200,
+    "name": "Order Pad",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Deluxe Pack Mega"
+    ],
+    "ex": false,
+    "image": "cTR_10_001490_00_OTORIYOSEPADDO_U.webp",
+    "imagePath": "cards/B4b/200.webp",
+    "setName": "Deluxe Pack: Mega",
+    "releaseDate": "2026-09-30"
+  },
+  {
+    "id": "B4b-201",
+    "set": "B4b",
+    "number": 201,
+    "name": "Quick-Grow Extract",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Deluxe Pack Mega"
+    ],
+    "ex": false,
+    "image": "cTR_10_001020_00_SOUJYUKUEKISU_U.webp",
+    "imagePath": "cards/B4b/201.webp",
+    "setName": "Deluxe Pack: Mega",
+    "releaseDate": "2026-09-30"
+  },
+  {
+    "id": "B4b-202",
+    "set": "B4b",
+    "number": 202,
+    "name": "Field Blower",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Deluxe Pack Mega"
+    ],
+    "ex": false,
+    "image": "cTR_10_001280_00_FIELDBLOWER_U.webp",
+    "imagePath": "cards/B4b/202.webp",
+    "setName": "Deluxe Pack: Mega",
+    "releaseDate": "2026-09-30"
+  },
+  {
+    "id": "B4b-203",
+    "set": "B4b",
+    "number": 203,
+    "name": "Flame Patch",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Deluxe Pack Mega"
+    ],
+    "ex": false,
+    "image": "cTR_10_000910_00_FUREIMUPACCHI_U.webp",
+    "imagePath": "cards/B4b/203.webp",
+    "setName": "Deluxe Pack: Mega",
+    "releaseDate": "2026-09-30"
+  },
+  {
+    "id": "B4b-364",
+    "set": "B4b",
+    "number": 364,
+    "name": "Lucky Ice Pop",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Deluxe Pack Mega"
+    ],
+    "ex": false,
+    "image": "cTR_10_001060_01_ATARITSUKIAISU_U.webp",
+    "imagePath": "cards/B4b/364.webp",
+    "setName": "Deluxe Pack: Mega",
+    "releaseDate": "2026-09-30"
+  },
+  {
+    "id": "B4b-365",
+    "set": "B4b",
+    "number": 365,
+    "name": "Electric Generator",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Deluxe Pack Mega"
+    ],
+    "ex": false,
+    "image": "cTR_10_001170_01_ELECTRICGENERATOR_U.webp",
+    "imagePath": "cards/B4b/365.webp",
+    "setName": "Deluxe Pack: Mega",
+    "releaseDate": "2026-09-30"
+  },
+  {
+    "id": "B4b-366",
+    "set": "B4b",
+    "number": 366,
+    "name": "Order Pad",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Deluxe Pack Mega"
+    ],
+    "ex": false,
+    "image": "cTR_10_001490_01_OTORIYOSEPADDO_U.webp",
+    "imagePath": "cards/B4b/366.webp",
+    "setName": "Deluxe Pack: Mega",
+    "releaseDate": "2026-09-30"
+  },
+  {
+    "id": "B4b-367",
+    "set": "B4b",
+    "number": 367,
+    "name": "Quick-Grow Extract",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Deluxe Pack Mega"
+    ],
+    "ex": false,
+    "image": "cTR_10_001020_01_SOUJYUKUEKISU_U.webp",
+    "imagePath": "cards/B4b/367.webp",
+    "setName": "Deluxe Pack: Mega",
+    "releaseDate": "2026-09-30"
+  },
+  {
+    "id": "B4b-368",
+    "set": "B4b",
+    "number": 368,
+    "name": "Field Blower",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Deluxe Pack Mega"
+    ],
+    "ex": false,
+    "image": "cTR_10_001280_01_FIELDBLOWER_U.webp",
+    "imagePath": "cards/B4b/368.webp",
+    "setName": "Deluxe Pack: Mega",
+    "releaseDate": "2026-09-30"
+  },
+  {
+    "id": "B4b-369",
+    "set": "B4b",
+    "number": 369,
+    "name": "Flame Patch",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Deluxe Pack Mega"
+    ],
+    "ex": false,
+    "image": "cTR_10_000910_01_FUREIMUPACCHI_U.webp",
+    "imagePath": "cards/B4b/369.webp",
+    "setName": "Deluxe Pack: Mega",
+    "releaseDate": "2026-09-30"
+  },
+  {
+    "id": "C1-119",
+    "set": "C1",
+    "number": 119,
+    "name": "Sweet Honey",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ],
+    "ex": false,
+    "image": "cTR_10_001660_00_AMAIMITSU_U.webp",
+    "imagePath": "cards/C1/119.webp",
+    "setName": "Dual Fusion",
+    "releaseDate": "2026-10-29"
+  },
+  {
+    "id": "C1-120",
+    "set": "C1",
+    "number": 120,
+    "name": "Super Potion",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Dual Fusion Pikachu"
+    ],
+    "ex": false,
+    "image": "cTR_10_001670_00_IIKIZUGUSURI_U.webp",
+    "imagePath": "cards/C1/120.webp",
+    "setName": "Dual Fusion",
+    "releaseDate": "2026-10-29"
+  },
+  {
+    "id": "C1-121",
+    "set": "C1",
+    "number": 121,
+    "name": "Max Repel",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ],
+    "ex": false,
+    "image": "cTR_10_001680_00_GOLDSPRAY_U.webp",
+    "imagePath": "cards/C1/121.webp",
+    "setName": "Dual Fusion",
+    "releaseDate": "2026-10-29"
+  },
+  {
+    "id": "C1-122",
+    "set": "C1",
+    "number": 122,
+    "name": "Full Heal",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Dual Fusion Pikachu"
+    ],
+    "ex": false,
+    "image": "cTR_10_001690_00_NANDEMONAOSHI_U.webp",
+    "imagePath": "cards/C1/122.webp",
+    "setName": "Dual Fusion",
+    "releaseDate": "2026-10-29"
+  },
+  {
+    "id": "C1-152",
+    "set": "C1",
+    "number": 152,
+    "name": "Sweet Honey",
+    "rarity": "AR",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Dual Fusion Mega Mewtwo X",
+      "Dual Fusion Pikachu"
+    ],
+    "ex": false,
+    "image": "cTR_20_001660_00_AMAIMITSU_AR.webp",
+    "imagePath": "cards/C1/152.webp",
+    "setName": "Dual Fusion",
+    "releaseDate": "2026-10-29"
   },
   {
     "id": "PROMO-A-001",
@@ -974,5 +1657,27 @@
     "imagePath": "cards/PROMO-A/8.webp",
     "setName": "Promo A",
     "releaseDate": "2024-10-30"
+  },
+  {
+    "id": "PROMO-C-009",
+    "set": "PROMO-C",
+    "number": 9,
+    "name": "Genome Converter Y",
+    "rarity": "U",
+    "element": null,
+    "type": "item",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "C Series Vol. 1"
+    ],
+    "ex": false,
+    "image": "cTR_90_001790_00_GENOMECONVERTERY_U.webp",
+    "imagePath": "cards/PROMO-C/9.webp",
+    "setName": "Promo C",
+    "releaseDate": "2026-10-29"
   }
 ]

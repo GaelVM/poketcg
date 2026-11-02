@@ -8,9 +8,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 140,
+    "retreatCost": 2,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Charizard"
@@ -30,9 +30,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 140,
+    "retreatCost": 2,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Mewtwo"
@@ -52,9 +52,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 130,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Pikachu"
@@ -74,9 +74,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Dark",
+    "health": 170,
+    "retreatCost": 2,
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Mewtwo"
@@ -96,9 +96,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 180,
+    "retreatCost": 3,
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Charizard"
@@ -118,9 +118,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 140,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Pikachu"
@@ -140,9 +140,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 130,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -162,9 +162,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 140,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Mew"
@@ -184,9 +184,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 140,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Dialga"
@@ -206,9 +206,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 170,
+    "retreatCost": 0,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Palkia"
@@ -228,9 +228,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 120,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Dialga"
@@ -250,9 +250,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 140,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Palkia"
@@ -272,9 +272,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
+    "health": 170,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Dialga"
@@ -294,9 +294,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 140,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Palkia"
@@ -316,9 +316,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 140,
+    "retreatCost": 2,
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Dialga"
@@ -338,9 +338,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 160,
+    "retreatCost": 4,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Palkia"
@@ -360,9 +360,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 140,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Arceus"
@@ -382,9 +382,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 140,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Arceus"
@@ -404,9 +404,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
+    "health": 170,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Arceus"
@@ -426,8 +426,8 @@
     "element": "metal",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
+    "health": 160,
+    "retreatCost": 3,
     "weakness": "fire",
     "goodWith": [],
     "packs": [
@@ -448,9 +448,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 120,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -469,10 +469,10 @@
     "rarity": "SAR",
     "element": "darkness",
     "type": "pokemon",
-    "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "stage": 1,
+    "health": 160,
+    "retreatCost": 3,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -492,8 +492,8 @@
     "element": "metal",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
+    "health": 170,
+    "retreatCost": 2,
     "weakness": "fire",
     "goodWith": [],
     "packs": [
@@ -514,9 +514,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 160,
+    "retreatCost": 3,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Shining"
@@ -536,9 +536,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
+    "health": 170,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -558,9 +558,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 140,
+    "retreatCost": 2,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -580,9 +580,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 180,
+    "retreatCost": 2,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -602,9 +602,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 160,
+    "retreatCost": 3,
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -624,9 +624,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 170,
+    "retreatCost": 3,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -646,9 +646,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 140,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -668,9 +668,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
+    "health": 180,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -690,9 +690,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 130,
+    "retreatCost": 2,
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -712,9 +712,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 160,
+    "retreatCost": 3,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -734,8 +734,8 @@
     "element": "metal",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
+    "health": 180,
+    "retreatCost": 2,
     "weakness": "fire",
     "goodWith": [],
     "packs": [
@@ -756,9 +756,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 130,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Extradimensional"
@@ -778,9 +778,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 150,
+    "retreatCost": 2,
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Extradimensional"
@@ -800,9 +800,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 170,
+    "retreatCost": 4,
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Extradimensional"
@@ -822,7 +822,7 @@
     "element": "metal",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 130,
     "retreatCost": 1,
     "weakness": "fire",
     "goodWith": [],
@@ -844,9 +844,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 150,
+    "retreatCost": 2,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -866,9 +866,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 180,
+    "retreatCost": 2,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -888,9 +888,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 140,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -910,8 +910,8 @@
     "element": "dragon",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
+    "health": 180,
+    "retreatCost": 2,
     "weakness": null,
     "goodWith": [],
     "packs": [
@@ -932,9 +932,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 160,
+    "retreatCost": 4,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Eevee"
@@ -954,9 +954,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 120,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Lugia"
@@ -976,9 +976,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
+    "health": 170,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Lugia"
@@ -998,9 +998,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fighting",
+    "health": 150,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Lugia"
@@ -1020,9 +1020,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 140,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Lugia"
@@ -1042,9 +1042,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 160,
+    "retreatCost": 3,
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Ho-Oh"
@@ -1064,9 +1064,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
+    "health": 170,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Ho-Oh"
@@ -1086,9 +1086,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 140,
+    "retreatCost": 2,
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Ho-Oh"
@@ -1108,8 +1108,8 @@
     "element": "metal",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
+    "health": 140,
+    "retreatCost": 2,
     "weakness": "fire",
     "goodWith": [],
     "packs": [
@@ -1130,9 +1130,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
+    "health": 160,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1152,9 +1152,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 140,
+    "retreatCost": 2,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1174,9 +1174,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fighting",
+    "health": 130,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1196,9 +1196,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 180,
+    "retreatCost": 3,
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Secluded"
@@ -1218,9 +1218,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 170,
+    "retreatCost": 2,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Mega Blaziken"
@@ -1240,9 +1240,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 140,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Mega Altaria"
@@ -1262,9 +1262,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 150,
+    "retreatCost": 2,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Mega Blaziken"
@@ -1284,9 +1284,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 170,
+    "retreatCost": 2,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Mega Gyarados"
@@ -1306,9 +1306,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 140,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Mega Gyarados"
@@ -1328,9 +1328,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fighting",
+    "health": 210,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Mega Altaria"
@@ -1350,9 +1350,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 130,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Mega Altaria"
@@ -1372,9 +1372,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 130,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Mega Blaziken"
@@ -1394,9 +1394,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 170,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Mega Gyarados"
@@ -1416,9 +1416,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 150,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Mega Blaziken"
@@ -1438,8 +1438,8 @@
     "element": "metal",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
+    "health": 170,
+    "retreatCost": 3,
     "weakness": "fire",
     "goodWith": [],
     "packs": [
@@ -1460,9 +1460,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 140,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Mega Altaria"
@@ -1479,12 +1479,12 @@
     "number": 83,
     "name": "Mega Venusaur ex",
     "rarity": "SAR",
-    "element": "Grass",
+    "element": "grass",
     "type": "pokemon",
     "stage": 2,
-    "health": null,
-    "retreatCost": null,
-    "weakness": null,
+    "health": 240,
+    "retreatCost": 4,
+    "weakness": "fire",
     "goodWith": [
       "Bulbasaur",
       "Ivysaur",
@@ -1505,12 +1505,12 @@
     "number": 84,
     "name": "Mega Blastoise ex",
     "rarity": "SAR",
-    "element": "Water",
+    "element": "water",
     "type": "pokemon",
     "stage": 2,
-    "health": null,
-    "retreatCost": null,
-    "weakness": null,
+    "health": 230,
+    "retreatCost": 3,
+    "weakness": "lightning",
     "goodWith": [
       "Squirtle",
       "Wartortle",
@@ -1531,12 +1531,12 @@
     "number": 85,
     "name": "Mega Lopunny ex",
     "rarity": "SAR",
-    "element": "Fighting",
+    "element": "fighting",
     "type": "pokemon",
     "stage": 1,
-    "health": null,
-    "retreatCost": null,
-    "weakness": null,
+    "health": 190,
+    "retreatCost": 1,
+    "weakness": "psychic",
     "goodWith": [
       "Buneary",
       "Lopunny"
@@ -1556,12 +1556,12 @@
     "number": 86,
     "name": "Mega Steelix ex",
     "rarity": "SAR",
-    "element": "Metal",
+    "element": "metal",
     "type": "pokemon",
     "stage": 1,
-    "health": null,
-    "retreatCost": null,
-    "weakness": null,
+    "health": 220,
+    "retreatCost": 4,
+    "weakness": "fire",
     "goodWith": [
       "Onix"
     ],
@@ -1575,6 +1575,1304 @@
     "releaseDate": "2025-12-17"
   },
   {
+    "id": "B2-194",
+    "set": "B2",
+    "number": 194,
+    "name": "Teal Mask Ogerpon ex",
+    "rarity": "SAR",
+    "element": "grass",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 130,
+    "retreatCost": 1,
+    "weakness": "fire",
+    "goodWith": [],
+    "packs": [
+      "Gardevoir"
+    ],
+    "ex": false,
+    "image": "cPK_20_013830_01_OGERPONMIDORINOMENex_SAR.webp",
+    "imagePath": "cards/B2/194.webp",
+    "setName": "Fantastical Parade",
+    "releaseDate": "2026-01-29"
+  },
+  {
+    "id": "B2-195",
+    "set": "B2",
+    "number": 195,
+    "name": "Blacephalon ex",
+    "rarity": "SAR",
+    "element": "fire",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 140,
+    "retreatCost": 2,
+    "weakness": "water",
+    "goodWith": [],
+    "packs": [
+      "Gardevoir"
+    ],
+    "ex": false,
+    "image": "cPK_20_013890_01_ZUGADOONex_SAR.webp",
+    "imagePath": "cards/B2/195.webp",
+    "setName": "Fantastical Parade",
+    "releaseDate": "2026-01-29"
+  },
+  {
+    "id": "B2-196",
+    "set": "B2",
+    "number": 196,
+    "name": "Alolan Ninetales ex",
+    "rarity": "SAR",
+    "element": "water",
+    "type": "pokemon",
+    "stage": 1,
+    "health": 150,
+    "retreatCost": 2,
+    "weakness": "metal",
+    "goodWith": [],
+    "packs": [
+      "Gardevoir"
+    ],
+    "ex": false,
+    "image": "cPK_20_013950_01_ALOLAKYUKONex_SAR.webp",
+    "imagePath": "cards/B2/196.webp",
+    "setName": "Fantastical Parade",
+    "releaseDate": "2026-01-29"
+  },
+  {
+    "id": "B2-197",
+    "set": "B2",
+    "number": 197,
+    "name": "Mega Swampert ex",
+    "rarity": "SAR",
+    "element": "water",
+    "type": "pokemon",
+    "stage": 2,
+    "health": 230,
+    "retreatCost": 3,
+    "weakness": "lightning",
+    "goodWith": [],
+    "packs": [
+      "Gardevoir"
+    ],
+    "ex": false,
+    "image": "cPK_20_014020_01_MEGALAGLARGEex_SAR.webp",
+    "imagePath": "cards/B2/197.webp",
+    "setName": "Fantastical Parade",
+    "releaseDate": "2026-01-29"
+  },
+  {
+    "id": "B2-198",
+    "set": "B2",
+    "number": 198,
+    "name": "Toxtricity ex",
+    "rarity": "SAR",
+    "element": "lightning",
+    "type": "pokemon",
+    "stage": 1,
+    "health": 150,
+    "retreatCost": 2,
+    "weakness": "fighting",
+    "goodWith": [],
+    "packs": [
+      "Gardevoir"
+    ],
+    "ex": false,
+    "image": "cPK_20_014210_01_STRINDERex_SAR.webp",
+    "imagePath": "cards/B2/198.webp",
+    "setName": "Fantastical Parade",
+    "releaseDate": "2026-01-29"
+  },
+  {
+    "id": "B2-199",
+    "set": "B2",
+    "number": 199,
+    "name": "Mimikyu ex",
+    "rarity": "SAR",
+    "element": "psychic",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 120,
+    "retreatCost": 2,
+    "weakness": "darkness",
+    "goodWith": [],
+    "packs": [
+      "Gardevoir"
+    ],
+    "ex": false,
+    "image": "cPK_20_014390_01_MIMIKKYUex_SAR.webp",
+    "imagePath": "cards/B2/199.webp",
+    "setName": "Fantastical Parade",
+    "releaseDate": "2026-01-29"
+  },
+  {
+    "id": "B2-200",
+    "set": "B2",
+    "number": 200,
+    "name": "Gigalith ex",
+    "rarity": "SAR",
+    "element": "fighting",
+    "type": "pokemon",
+    "stage": 2,
+    "health": 190,
+    "retreatCost": 4,
+    "weakness": "grass",
+    "goodWith": [],
+    "packs": [
+      "Gardevoir"
+    ],
+    "ex": false,
+    "image": "cPK_20_014530_01_GIGAIATHex_SAR.webp",
+    "imagePath": "cards/B2/200.webp",
+    "setName": "Fantastical Parade",
+    "releaseDate": "2026-01-29"
+  },
+  {
+    "id": "B2-201",
+    "set": "B2",
+    "number": 201,
+    "name": "Mega Mawile ex",
+    "rarity": "SAR",
+    "element": "metal",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 170,
+    "retreatCost": 1,
+    "weakness": "fire",
+    "goodWith": [],
+    "packs": [
+      "Gardevoir"
+    ],
+    "ex": false,
+    "image": "cPK_20_014790_01_MEGAKUCHEATex_SAR.webp",
+    "imagePath": "cards/B2/201.webp",
+    "setName": "Fantastical Parade",
+    "releaseDate": "2026-01-29"
+  },
+  {
+    "id": "B2-202",
+    "set": "B2",
+    "number": 202,
+    "name": "Mega Kangaskhan ex",
+    "rarity": "SAR",
+    "element": "colorless",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 180,
+    "retreatCost": 3,
+    "weakness": "fighting",
+    "goodWith": [],
+    "packs": [
+      "Gardevoir"
+    ],
+    "ex": false,
+    "image": "cPK_20_014930_01_MEGAGARURAex_SAR.webp",
+    "imagePath": "cards/B2/202.webp",
+    "setName": "Fantastical Parade",
+    "releaseDate": "2026-01-29"
+  },
+  {
+    "id": "B2a-110",
+    "set": "B2a",
+    "number": 110,
+    "name": "Meowscarada ex",
+    "rarity": "SAR",
+    "element": "grass",
+    "type": "pokemon",
+    "stage": 2,
+    "health": 160,
+    "retreatCost": 1,
+    "weakness": "fire",
+    "goodWith": [],
+    "packs": [
+      "Paldean"
+    ],
+    "ex": false,
+    "image": "cPK_20_015120_01_MASQUERNYAex_SAR.webp",
+    "imagePath": "cards/B2a/110.webp",
+    "setName": "Paldean Wonders",
+    "releaseDate": "2026-02-26"
+  },
+  {
+    "id": "B2a-111",
+    "set": "B2a",
+    "number": 111,
+    "name": "Armarouge ex",
+    "rarity": "SAR",
+    "element": "fire",
+    "type": "pokemon",
+    "stage": 1,
+    "health": 140,
+    "retreatCost": 2,
+    "weakness": "water",
+    "goodWith": [],
+    "packs": [
+      "Paldean"
+    ],
+    "ex": false,
+    "image": "cPK_20_015290_01_GURENARMAex_SAR.webp",
+    "imagePath": "cards/B2a/111.webp",
+    "setName": "Paldean Wonders",
+    "releaseDate": "2026-02-26"
+  },
+  {
+    "id": "B2a-112",
+    "set": "B2a",
+    "number": 112,
+    "name": "Chien-Pao ex",
+    "rarity": "SAR",
+    "element": "water",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 130,
+    "retreatCost": 1,
+    "weakness": "metal",
+    "goodWith": [],
+    "packs": [
+      "Paldean"
+    ],
+    "ex": false,
+    "image": "cPK_20_015460_01_PAOJIANex_SAR.webp",
+    "imagePath": "cards/B2a/112.webp",
+    "setName": "Paldean Wonders",
+    "releaseDate": "2026-02-26"
+  },
+  {
+    "id": "B2a-113",
+    "set": "B2a",
+    "number": 113,
+    "name": "Bellibolt ex",
+    "rarity": "SAR",
+    "element": "lightning",
+    "type": "pokemon",
+    "stage": 1,
+    "health": 160,
+    "retreatCost": 3,
+    "weakness": "fighting",
+    "goodWith": [],
+    "packs": [
+      "Paldean"
+    ],
+    "ex": false,
+    "image": "cPK_20_015510_01_HARABARIEex_SAR.webp",
+    "imagePath": "cards/B2a/113.webp",
+    "setName": "Paldean Wonders",
+    "releaseDate": "2026-02-26"
+  },
+  {
+    "id": "B2a-114",
+    "set": "B2a",
+    "number": 114,
+    "name": "Gholdengo ex",
+    "rarity": "SAR",
+    "element": "metal",
+    "type": "pokemon",
+    "stage": 1,
+    "health": 150,
+    "retreatCost": 2,
+    "weakness": "fire",
+    "goodWith": [],
+    "packs": [
+      "Paldean"
+    ],
+    "ex": false,
+    "image": "cPK_20_015870_01_SURFUGOex_SAR.webp",
+    "imagePath": "cards/B2a/114.webp",
+    "setName": "Paldean Wonders",
+    "releaseDate": "2026-02-26"
+  },
+  {
+    "id": "B2b-083",
+    "set": "B2b",
+    "number": 83,
+    "name": "Mega Slowbro ex",
+    "rarity": "SAR",
+    "element": "water",
+    "type": "pokemon",
+    "stage": 1,
+    "health": 200,
+    "retreatCost": 3,
+    "weakness": "lightning",
+    "goodWith": [],
+    "packs": [
+      "Mega Shine"
+    ],
+    "ex": false,
+    "image": "cPK_20_016210_01_MEGAYADORANex_SAR.webp",
+    "imagePath": "cards/B2b/83.webp",
+    "setName": "Mega Shine",
+    "releaseDate": "2026-03-26"
+  },
+  {
+    "id": "B2b-084",
+    "set": "B2b",
+    "number": 84,
+    "name": "Mega Manectric ex",
+    "rarity": "SAR",
+    "element": "lightning",
+    "type": "pokemon",
+    "stage": 1,
+    "health": 180,
+    "retreatCost": 0,
+    "weakness": "fighting",
+    "goodWith": [],
+    "packs": [
+      "Mega Shine"
+    ],
+    "ex": false,
+    "image": "cPK_20_016320_01_MEGALIVOLTex_SAR.webp",
+    "imagePath": "cards/B2b/84.webp",
+    "setName": "Mega Shine",
+    "releaseDate": "2026-03-26"
+  },
+  {
+    "id": "B3-194",
+    "set": "B3",
+    "number": 194,
+    "name": "Mega Sceptile ex",
+    "rarity": "SAR",
+    "element": "grass",
+    "type": "pokemon",
+    "stage": 2,
+    "health": 210,
+    "retreatCost": 1,
+    "weakness": "fire",
+    "goodWith": [],
+    "packs": [
+      "Pulsing Aura"
+    ],
+    "ex": false,
+    "image": "cPK_20_016730_01_MEGAJUKAINex_SAR.webp",
+    "imagePath": "cards/B3/194.webp",
+    "setName": "Pulsing Aura",
+    "releaseDate": "2026-04-28"
+  },
+  {
+    "id": "B3-195",
+    "set": "B3",
+    "number": 195,
+    "name": "Mega Camerupt ex",
+    "rarity": "SAR",
+    "element": "fire",
+    "type": "pokemon",
+    "stage": 1,
+    "health": 210,
+    "retreatCost": 4,
+    "weakness": "water",
+    "goodWith": [],
+    "packs": [
+      "Pulsing Aura"
+    ],
+    "ex": false,
+    "image": "cPK_20_016880_01_MEGABAKUUDAex_SAR.webp",
+    "imagePath": "cards/B3/195.webp",
+    "setName": "Pulsing Aura",
+    "releaseDate": "2026-04-28"
+  },
+  {
+    "id": "B3-196",
+    "set": "B3",
+    "number": 196,
+    "name": "Vaporeon ex",
+    "rarity": "SAR",
+    "element": "water",
+    "type": "pokemon",
+    "stage": 1,
+    "health": 160,
+    "retreatCost": 3,
+    "weakness": "lightning",
+    "goodWith": [],
+    "packs": [
+      "Pulsing Aura"
+    ],
+    "ex": false,
+    "image": "cPK_20_017020_01_SHOWERSex_SAR.webp",
+    "imagePath": "cards/B3/196.webp",
+    "setName": "Pulsing Aura",
+    "releaseDate": "2026-04-28"
+  },
+  {
+    "id": "B3-197",
+    "set": "B3",
+    "number": 197,
+    "name": "Magnezone ex",
+    "rarity": "SAR",
+    "element": "lightning",
+    "type": "pokemon",
+    "stage": 2,
+    "health": 180,
+    "retreatCost": 2,
+    "weakness": "fighting",
+    "goodWith": [],
+    "packs": [
+      "Pulsing Aura"
+    ],
+    "ex": false,
+    "image": "cPK_20_017190_01_JIBACOILex_SAR.webp",
+    "imagePath": "cards/B3/197.webp",
+    "setName": "Pulsing Aura",
+    "releaseDate": "2026-04-28"
+  },
+  {
+    "id": "B3-198",
+    "set": "B3",
+    "number": 198,
+    "name": "Crustle ex",
+    "rarity": "SAR",
+    "element": "fighting",
+    "type": "pokemon",
+    "stage": 1,
+    "health": 160,
+    "retreatCost": 3,
+    "weakness": "grass",
+    "goodWith": [],
+    "packs": [
+      "Pulsing Aura"
+    ],
+    "ex": false,
+    "image": "cPK_20_017530_01_IWAPALACEex_SAR.webp",
+    "imagePath": "cards/B3/198.webp",
+    "setName": "Pulsing Aura",
+    "releaseDate": "2026-04-28"
+  },
+  {
+    "id": "B3-199",
+    "set": "B3",
+    "number": 199,
+    "name": "Zoroark ex",
+    "rarity": "SAR",
+    "element": "darkness",
+    "type": "pokemon",
+    "stage": 1,
+    "health": 150,
+    "retreatCost": 2,
+    "weakness": "grass",
+    "goodWith": [],
+    "packs": [
+      "Pulsing Aura"
+    ],
+    "ex": false,
+    "image": "cPK_20_017710_01_ZOROARKex_SAR.webp",
+    "imagePath": "cards/B3/199.webp",
+    "setName": "Pulsing Aura",
+    "releaseDate": "2026-04-28"
+  },
+  {
+    "id": "B3-200",
+    "set": "B3",
+    "number": 200,
+    "name": "Corviknight ex",
+    "rarity": "SAR",
+    "element": "metal",
+    "type": "pokemon",
+    "stage": 2,
+    "health": 180,
+    "retreatCost": 2,
+    "weakness": "fire",
+    "goodWith": [],
+    "packs": [
+      "Pulsing Aura"
+    ],
+    "ex": false,
+    "image": "cPK_20_017890_01_ARMORGAex_SAR.webp",
+    "imagePath": "cards/B3/200.webp",
+    "setName": "Pulsing Aura",
+    "releaseDate": "2026-04-28"
+  },
+  {
+    "id": "B3-201",
+    "set": "B3",
+    "number": 201,
+    "name": "Flygon ex",
+    "rarity": "SAR",
+    "element": "dragon",
+    "type": "pokemon",
+    "stage": 2,
+    "health": 180,
+    "retreatCost": 2,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Pulsing Aura"
+    ],
+    "ex": false,
+    "image": "cPK_20_017910_01_FLYGONex_SAR.webp",
+    "imagePath": "cards/B3/201.webp",
+    "setName": "Pulsing Aura",
+    "releaseDate": "2026-04-28"
+  },
+  {
+    "id": "B3-202",
+    "set": "B3",
+    "number": 202,
+    "name": "Mega Audino ex",
+    "rarity": "SAR",
+    "element": "colorless",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 180,
+    "retreatCost": 2,
+    "weakness": "fighting",
+    "goodWith": [],
+    "packs": [
+      "Pulsing Aura"
+    ],
+    "ex": false,
+    "image": "cPK_20_018060_01_MEGATABUNNEex_SAR.webp",
+    "imagePath": "cards/B3/202.webp",
+    "setName": "Pulsing Aura",
+    "releaseDate": "2026-04-28"
+  },
+  {
+    "id": "B3a-089",
+    "set": "B3a",
+    "number": 89,
+    "name": "Iron Bundle ex",
+    "rarity": "SAR",
+    "element": "water",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 130,
+    "retreatCost": 1,
+    "weakness": "lightning",
+    "goodWith": [],
+    "packs": [
+      "Paradox Drive"
+    ],
+    "ex": false,
+    "image": "cPK_20_018280_01_TETSUNOTSUTSUMIex_SAR.webp",
+    "imagePath": "cards/B3a/89.webp",
+    "setName": "Paradox Drive",
+    "releaseDate": "2026-05-28"
+  },
+  {
+    "id": "B3a-090",
+    "set": "B3a",
+    "number": 90,
+    "name": "Miraidon ex",
+    "rarity": "SAR",
+    "element": "lightning",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 140,
+    "retreatCost": 2,
+    "weakness": "fighting",
+    "goodWith": [],
+    "packs": [
+      "Paradox Drive"
+    ],
+    "ex": false,
+    "image": "cPK_20_018340_01_MIRAIDONex_SAR.webp",
+    "imagePath": "cards/B3a/90.webp",
+    "setName": "Paradox Drive",
+    "releaseDate": "2026-05-28"
+  },
+  {
+    "id": "B3a-091",
+    "set": "B3a",
+    "number": 91,
+    "name": "Flutter Mane ex",
+    "rarity": "SAR",
+    "element": "psychic",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 130,
+    "retreatCost": 1,
+    "weakness": "metal",
+    "goodWith": [],
+    "packs": [
+      "Paradox Drive"
+    ],
+    "ex": false,
+    "image": "cPK_20_018410_01_HABATAKUKAMIex_SAR.webp",
+    "imagePath": "cards/B3a/91.webp",
+    "setName": "Paradox Drive",
+    "releaseDate": "2026-05-28"
+  },
+  {
+    "id": "B3a-092",
+    "set": "B3a",
+    "number": 92,
+    "name": "Koraidon ex",
+    "rarity": "SAR",
+    "element": "fighting",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 150,
+    "retreatCost": 2,
+    "weakness": "psychic",
+    "goodWith": [],
+    "packs": [
+      "Paradox Drive"
+    ],
+    "ex": false,
+    "image": "cPK_20_018510_01_KORAIDONex_SAR.webp",
+    "imagePath": "cards/B3a/92.webp",
+    "setName": "Paradox Drive",
+    "releaseDate": "2026-05-28"
+  },
+  {
+    "id": "B3b-086",
+    "set": "B3b",
+    "number": 86,
+    "name": "Milotic ex",
+    "rarity": "SAR",
+    "element": "water",
+    "type": "pokemon",
+    "stage": 1,
+    "health": 140,
+    "retreatCost": 2,
+    "weakness": "lightning",
+    "goodWith": [],
+    "packs": [
+      "Everyday Wonders"
+    ],
+    "ex": false,
+    "image": "cPK_20_019160_01_MILOKAROSSex_SAR.webp",
+    "imagePath": "cards/B3b/86.webp",
+    "setName": "Everyday Wonders",
+    "releaseDate": "2026-06-30"
+  },
+  {
+    "id": "B3b-087",
+    "set": "B3b",
+    "number": 87,
+    "name": "Mega Diancie ex",
+    "rarity": "SAR",
+    "element": "psychic",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 170,
+    "retreatCost": 1,
+    "weakness": "metal",
+    "goodWith": [],
+    "packs": [
+      "Everyday Wonders"
+    ],
+    "ex": false,
+    "image": "cPK_20_019300_01_MEGADIANCIEex_SAR.webp",
+    "imagePath": "cards/B3b/87.webp",
+    "setName": "Everyday Wonders",
+    "releaseDate": "2026-06-30"
+  },
+  {
+    "id": "B3b-088",
+    "set": "B3b",
+    "number": 88,
+    "name": "Mega Sableye ex",
+    "rarity": "SAR",
+    "element": "darkness",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 170,
+    "retreatCost": 1,
+    "weakness": "grass",
+    "goodWith": [],
+    "packs": [
+      "Everyday Wonders"
+    ],
+    "ex": false,
+    "image": "cPK_20_019390_01_MEGAYAMIRAMIex_SAR.webp",
+    "imagePath": "cards/B3b/88.webp",
+    "setName": "Everyday Wonders",
+    "releaseDate": "2026-06-30"
+  },
+  {
+    "id": "B3b-089",
+    "set": "B3b",
+    "number": 89,
+    "name": "Hisuian Zoroark ex",
+    "rarity": "SAR",
+    "element": "colorless",
+    "type": "pokemon",
+    "stage": 1,
+    "health": 150,
+    "retreatCost": 2,
+    "weakness": "fighting",
+    "goodWith": [],
+    "packs": [
+      "Everyday Wonders"
+    ],
+    "ex": false,
+    "image": "cPK_20_019570_01_HISUIZOROARKex_SAR.webp",
+    "imagePath": "cards/B3b/89.webp",
+    "setName": "Everyday Wonders",
+    "releaseDate": "2026-06-30"
+  },
+  {
+    "id": "B4-194",
+    "set": "B4",
+    "number": 194,
+    "name": "Vespiquen ex",
+    "rarity": "SAR",
+    "element": "grass",
+    "type": "pokemon",
+    "stage": 1,
+    "health": 140,
+    "retreatCost": 2,
+    "weakness": "fire",
+    "goodWith": [],
+    "packs": [
+      "Ruler of the Skies"
+    ],
+    "ex": false,
+    "image": "cPK_20_019720_01_BEEQUENex_SAR.webp",
+    "imagePath": "cards/B4/194.webp",
+    "setName": "Ruler of the Skies",
+    "releaseDate": "2026-07-30"
+  },
+  {
+    "id": "B4-195",
+    "set": "B4",
+    "number": 195,
+    "name": "Typhlosion ex",
+    "rarity": "SAR",
+    "element": "fire",
+    "type": "pokemon",
+    "stage": 2,
+    "health": 180,
+    "retreatCost": 2,
+    "weakness": "water",
+    "goodWith": [],
+    "packs": [
+      "Ruler of the Skies"
+    ],
+    "ex": false,
+    "image": "cPK_20_019870_01_BAKPHOONex_SAR.webp",
+    "imagePath": "cards/B4/195.webp",
+    "setName": "Ruler of the Skies",
+    "releaseDate": "2026-07-30"
+  },
+  {
+    "id": "B4-196",
+    "set": "B4",
+    "number": 196,
+    "name": "Mega Sharpedo ex",
+    "rarity": "SAR",
+    "element": "water",
+    "type": "pokemon",
+    "stage": 1,
+    "health": 190,
+    "retreatCost": 0,
+    "weakness": "lightning",
+    "goodWith": [],
+    "packs": [
+      "Ruler of the Skies"
+    ],
+    "ex": false,
+    "image": "cPK_20_019960_01_MEGASAMEHADERex_SAR.webp",
+    "imagePath": "cards/B4/196.webp",
+    "setName": "Ruler of the Skies",
+    "releaseDate": "2026-07-30"
+  },
+  {
+    "id": "B4-197",
+    "set": "B4",
+    "number": 197,
+    "name": "Wailord ex",
+    "rarity": "SAR",
+    "element": "water",
+    "type": "pokemon",
+    "stage": 1,
+    "health": 250,
+    "retreatCost": 4,
+    "weakness": "lightning",
+    "goodWith": [],
+    "packs": [
+      "Ruler of the Skies"
+    ],
+    "ex": false,
+    "image": "cPK_20_019980_01_WHALOHex_SAR.webp",
+    "imagePath": "cards/B4/197.webp",
+    "setName": "Ruler of the Skies",
+    "releaseDate": "2026-07-30"
+  },
+  {
+    "id": "B4-198",
+    "set": "B4",
+    "number": 198,
+    "name": "Mega Gallade ex",
+    "rarity": "SAR",
+    "element": "fighting",
+    "type": "pokemon",
+    "stage": 2,
+    "health": 220,
+    "retreatCost": 2,
+    "weakness": "psychic",
+    "goodWith": [],
+    "packs": [
+      "Ruler of the Skies"
+    ],
+    "ex": false,
+    "image": "cPK_20_020450_01_MEGAERUREIDOex_SAR.webp",
+    "imagePath": "cards/B4/198.webp",
+    "setName": "Ruler of the Skies",
+    "releaseDate": "2026-07-30"
+  },
+  {
+    "id": "B4-199",
+    "set": "B4",
+    "number": 199,
+    "name": "Hoopa ex",
+    "rarity": "SAR",
+    "element": "darkness",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 150,
+    "retreatCost": 2,
+    "weakness": "grass",
+    "goodWith": [],
+    "packs": [
+      "Ruler of the Skies"
+    ],
+    "ex": false,
+    "image": "cPK_20_020640_01_HOOPAex_SAR.webp",
+    "imagePath": "cards/B4/199.webp",
+    "setName": "Ruler of the Skies",
+    "releaseDate": "2026-07-30"
+  },
+  {
+    "id": "B4-200",
+    "set": "B4",
+    "number": 200,
+    "name": "Mega Metagross ex",
+    "rarity": "SAR",
+    "element": "metal",
+    "type": "pokemon",
+    "stage": 2,
+    "health": 230,
+    "retreatCost": 3,
+    "weakness": "fire",
+    "goodWith": [],
+    "packs": [
+      "Ruler of the Skies"
+    ],
+    "ex": false,
+    "image": "cPK_20_020700_01_MEGAMETAGROSSex_SAR.webp",
+    "imagePath": "cards/B4/200.webp",
+    "setName": "Ruler of the Skies",
+    "releaseDate": "2026-07-30"
+  },
+  {
+    "id": "B4-201",
+    "set": "B4",
+    "number": 201,
+    "name": "Swanna ex",
+    "rarity": "SAR",
+    "element": "colorless",
+    "type": "pokemon",
+    "stage": 1,
+    "health": 150,
+    "retreatCost": 2,
+    "weakness": "lightning",
+    "goodWith": [],
+    "packs": [
+      "Ruler of the Skies"
+    ],
+    "ex": false,
+    "image": "cPK_20_021020_01_SWANNAex_SAR.webp",
+    "imagePath": "cards/B4/201.webp",
+    "setName": "Ruler of the Skies",
+    "releaseDate": "2026-07-30"
+  },
+  {
+    "id": "B4a-088",
+    "set": "B4a",
+    "number": 88,
+    "name": "Team Rocket’s Moltres ex",
+    "rarity": "SAR",
+    "element": "fire",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 130,
+    "retreatCost": 2,
+    "weakness": "water",
+    "goodWith": [],
+    "packs": [
+      "Team Rocket"
+    ],
+    "ex": false,
+    "image": "cPK_20_021250_01_ROCKETDANNOFIREex_SAR.webp",
+    "imagePath": "cards/B4a/88.webp",
+    "setName": "Team Rocket’s Ambition",
+    "releaseDate": "2026-08-27"
+  },
+  {
+    "id": "B4a-089",
+    "set": "B4a",
+    "number": 89,
+    "name": "Team Rocket’s Articuno ex",
+    "rarity": "SAR",
+    "element": "water",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 130,
+    "retreatCost": 2,
+    "weakness": "metal",
+    "goodWith": [],
+    "packs": [
+      "Team Rocket"
+    ],
+    "ex": false,
+    "image": "cPK_20_021300_01_ROCKETDANNOFREEZERex_SAR.webp",
+    "imagePath": "cards/B4a/89.webp",
+    "setName": "Team Rocket’s Ambition",
+    "releaseDate": "2026-08-27"
+  },
+  {
+    "id": "B4a-090",
+    "set": "B4a",
+    "number": 90,
+    "name": "Team Rocket’s Zapdos ex",
+    "rarity": "SAR",
+    "element": "lightning",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 120,
+    "retreatCost": 1,
+    "weakness": "fighting",
+    "goodWith": [],
+    "packs": [
+      "Team Rocket"
+    ],
+    "ex": false,
+    "image": "cPK_20_021360_01_ROCKETDANNOTHUNDERex_SAR.webp",
+    "imagePath": "cards/B4a/90.webp",
+    "setName": "Team Rocket’s Ambition",
+    "releaseDate": "2026-08-27"
+  },
+  {
+    "id": "B4a-091",
+    "set": "B4a",
+    "number": 91,
+    "name": "Team Rocket’s Slowking ex",
+    "rarity": "SAR",
+    "element": "psychic",
+    "type": "pokemon",
+    "stage": 1,
+    "health": 130,
+    "retreatCost": 3,
+    "weakness": "darkness",
+    "goodWith": [],
+    "packs": [
+      "Team Rocket"
+    ],
+    "ex": false,
+    "image": "cPK_20_021410_01_ROCKETDANNOYADOKINGex_SAR.webp",
+    "imagePath": "cards/B4a/91.webp",
+    "setName": "Team Rocket’s Ambition",
+    "releaseDate": "2026-08-27"
+  },
+  {
+    "id": "B4a-092",
+    "set": "B4a",
+    "number": 92,
+    "name": "Team Rocket’s Weezing ex",
+    "rarity": "SAR",
+    "element": "darkness",
+    "type": "pokemon",
+    "stage": 1,
+    "health": 140,
+    "retreatCost": 2,
+    "weakness": "fighting",
+    "goodWith": [],
+    "packs": [
+      "Team Rocket"
+    ],
+    "ex": false,
+    "image": "cPK_20_021560_01_ROCKETDANNOMATADOGASex_SAR.webp",
+    "imagePath": "cards/B4a/92.webp",
+    "setName": "Team Rocket’s Ambition",
+    "releaseDate": "2026-08-27"
+  },
+  {
+    "id": "B4a-093",
+    "set": "B4a",
+    "number": 93,
+    "name": "Team Rocket’s Raticate ex",
+    "rarity": "SAR",
+    "element": "colorless",
+    "type": "pokemon",
+    "stage": 1,
+    "health": 120,
+    "retreatCost": 0,
+    "weakness": "fighting",
+    "goodWith": [],
+    "packs": [
+      "Team Rocket"
+    ],
+    "ex": false,
+    "image": "cPK_20_021700_01_ROCKETDANNORATTAex_SAR.webp",
+    "imagePath": "cards/B4a/93.webp",
+    "setName": "Team Rocket’s Ambition",
+    "releaseDate": "2026-08-27"
+  },
+  {
+    "id": "C1-171",
+    "set": "C1",
+    "number": 171,
+    "name": "Alolan Exeggutor ex",
+    "rarity": "SAR",
+    "element": "grass",
+    "type": "pokemon",
+    "stage": 1,
+    "health": 180,
+    "retreatCost": 4,
+    "weakness": "fire",
+    "goodWith": [],
+    "packs": [
+      "Dual Fusion Pikachu"
+    ],
+    "ex": false,
+    "image": "cPK_20_021820_01_ALOLANASSYex_SAR.webp",
+    "imagePath": "cards/C1/171.webp",
+    "setName": "Dual Fusion",
+    "releaseDate": "2026-10-29"
+  },
+  {
+    "id": "C1-172",
+    "set": "C1",
+    "number": 172,
+    "name": "Fuecoco ex",
+    "rarity": "SAR",
+    "element": "fire",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 130,
+    "retreatCost": 2,
+    "weakness": "water",
+    "goodWith": [],
+    "packs": [
+      "Dual Fusion Pikachu"
+    ],
+    "ex": false,
+    "image": "cPK_20_022020_01_HOGATORex_SAR.webp",
+    "imagePath": "cards/C1/172.webp",
+    "setName": "Dual Fusion",
+    "releaseDate": "2026-10-29"
+  },
+  {
+    "id": "C1-173",
+    "set": "C1",
+    "number": 173,
+    "name": "Mega Greninja ex",
+    "rarity": "SAR",
+    "element": "water",
+    "type": "pokemon",
+    "stage": 2,
+    "health": 200,
+    "retreatCost": 0,
+    "weakness": "lightning",
+    "goodWith": [],
+    "packs": [
+      "Dual Fusion Pikachu"
+    ],
+    "ex": false,
+    "image": "cPK_20_022190_01_MEGAGEKKOUGAex_SAR.webp",
+    "imagePath": "cards/C1/173.webp",
+    "setName": "Dual Fusion",
+    "releaseDate": "2026-10-29"
+  },
+  {
+    "id": "C1-174",
+    "set": "C1",
+    "number": 174,
+    "name": "Pikachu ex",
+    "rarity": "SAR",
+    "element": "lightning",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 120,
+    "retreatCost": 1,
+    "weakness": "fighting",
+    "goodWith": [],
+    "packs": [
+      "Dual Fusion Pikachu"
+    ],
+    "ex": false,
+    "image": "cPK_20_022200_01_PIKACHUex_SAR.webp",
+    "imagePath": "cards/C1/174.webp",
+    "setName": "Dual Fusion",
+    "releaseDate": "2026-10-29"
+  },
+  {
+    "id": "C1-175",
+    "set": "C1",
+    "number": 175,
+    "name": "Mega Mewtwo X ex",
+    "rarity": "SAR",
+    "element": "psychic",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 180,
+    "retreatCost": 2,
+    "weakness": "darkness",
+    "goodWith": [],
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ],
+    "ex": false,
+    "image": "cPK_20_022330_01_MEGAMEWTWOXex_SAR.webp",
+    "imagePath": "cards/C1/175.webp",
+    "setName": "Dual Fusion",
+    "releaseDate": "2026-10-29"
+  },
+  {
+    "id": "C1-176",
+    "set": "C1",
+    "number": 176,
+    "name": "Mew ex",
+    "rarity": "SAR",
+    "element": "psychic",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 130,
+    "retreatCost": 1,
+    "weakness": "darkness",
+    "goodWith": [],
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ],
+    "ex": false,
+    "image": "cPK_20_022340_01_MEWex_SAR.webp",
+    "imagePath": "cards/C1/176.webp",
+    "setName": "Dual Fusion",
+    "releaseDate": "2026-10-29"
+  },
+  {
+    "id": "C1-177",
+    "set": "C1",
+    "number": 177,
+    "name": "Lycanroc ex",
+    "rarity": "SAR",
+    "element": "fighting",
+    "type": "pokemon",
+    "stage": 1,
+    "health": 150,
+    "retreatCost": 2,
+    "weakness": "grass",
+    "goodWith": [],
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ],
+    "ex": false,
+    "image": "cPK_20_022570_01_LUGARUGANex_SAR.webp",
+    "imagePath": "cards/C1/177.webp",
+    "setName": "Dual Fusion",
+    "releaseDate": "2026-10-29"
+  },
+  {
+    "id": "C1-178",
+    "set": "C1",
+    "number": 178,
+    "name": "Mega Tyranitar ex",
+    "rarity": "SAR",
+    "element": "darkness",
+    "type": "pokemon",
+    "stage": 2,
+    "health": 240,
+    "retreatCost": 4,
+    "weakness": "grass",
+    "goodWith": [],
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ],
+    "ex": false,
+    "image": "cPK_20_022620_01_MEGABANGIRASex_SAR.webp",
+    "imagePath": "cards/C1/178.webp",
+    "setName": "Dual Fusion",
+    "releaseDate": "2026-10-29"
+  },
+  {
+    "id": "C1-179",
+    "set": "C1",
+    "number": 179,
+    "name": "Mega Skarmory ex",
+    "rarity": "SAR",
+    "element": "metal",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 170,
+    "retreatCost": 1,
+    "weakness": "fire",
+    "goodWith": [],
+    "packs": [
+      "Dual Fusion Pikachu"
+    ],
+    "ex": false,
+    "image": "cPK_20_022680_01_MEGAAIRMDex_SAR.webp",
+    "imagePath": "cards/C1/179.webp",
+    "setName": "Dual Fusion",
+    "releaseDate": "2026-10-29"
+  },
+  {
+    "id": "C1-180",
+    "set": "C1",
+    "number": 180,
+    "name": "Mega Dragonite ex",
+    "rarity": "SAR",
+    "element": "dragon",
+    "type": "pokemon",
+    "stage": 2,
+    "health": 240,
+    "retreatCost": 4,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Dual Fusion Pikachu"
+    ],
+    "ex": false,
+    "image": "cPK_20_022770_01_MEGAKAIRYUex_SAR.webp",
+    "imagePath": "cards/C1/180.webp",
+    "setName": "Dual Fusion",
+    "releaseDate": "2026-10-29"
+  },
+  {
+    "id": "C1-181",
+    "set": "C1",
+    "number": 181,
+    "name": "Giratina ex",
+    "rarity": "SAR",
+    "element": "dragon",
+    "type": "pokemon",
+    "stage": "basic",
+    "health": 150,
+    "retreatCost": 2,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ],
+    "ex": false,
+    "image": "cPK_20_022780_01_GIRATINAex_SAR.webp",
+    "imagePath": "cards/C1/181.webp",
+    "setName": "Dual Fusion",
+    "releaseDate": "2026-10-29"
+  },
+  {
+    "id": "C1-182",
+    "set": "C1",
+    "number": 182,
+    "name": "Bewear ex",
+    "rarity": "SAR",
+    "element": "colorless",
+    "type": "pokemon",
+    "stage": 1,
+    "health": 160,
+    "retreatCost": 3,
+    "weakness": "fighting",
+    "goodWith": [],
+    "packs": [
+      "Dual Fusion Mega Mewtwo X"
+    ],
+    "ex": false,
+    "image": "cPK_20_022950_01_KITERUGUMAex_SAR.webp",
+    "imagePath": "cards/C1/182.webp",
+    "setName": "Dual Fusion",
+    "releaseDate": "2026-10-29"
+  },
+  {
     "id": "PROMO-A-109",
     "set": "PROMO-A",
     "number": 109,
@@ -1583,9 +2881,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Vol. 1",

@@ -8,9 +8,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -30,9 +30,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 150,
+    "retreatCost": 4,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -54,7 +54,7 @@
     "stage": "basic",
     "health": 50,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Solgaleo",
@@ -75,9 +75,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 90,
+    "retreatCost": 0,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Solgaleo",
@@ -98,9 +98,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -120,9 +120,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Solgaleo",
@@ -143,9 +143,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -165,9 +165,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 130,
+    "retreatCost": 3,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -187,9 +187,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -209,9 +209,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -231,9 +231,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -253,9 +253,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
+    "health": 170,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -275,9 +275,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -297,9 +297,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Solgaleo",
@@ -320,9 +320,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Solgaleo",
@@ -343,9 +343,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -365,9 +365,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 100,
+    "retreatCost": 2,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -389,7 +389,7 @@
     "stage": "basic",
     "health": 50,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -409,9 +409,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -431,9 +431,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 130,
+    "retreatCost": 2,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -453,9 +453,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 70,
+    "retreatCost": 3,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -475,9 +475,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 120,
+    "retreatCost": 2,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -497,9 +497,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 140,
+    "retreatCost": 2,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -519,9 +519,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 120,
+    "retreatCost": 2,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -541,9 +541,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 70,
+    "retreatCost": 2,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Solgaleo",
@@ -564,9 +564,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 130,
+    "retreatCost": 3,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Solgaleo",
@@ -587,9 +587,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 110,
+    "retreatCost": 2,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -609,9 +609,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "Water",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -631,9 +631,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
+    "health": 120,
     "retreatCost": 1,
-    "weakness": "Water",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -653,9 +653,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Water",
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -675,9 +675,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Water",
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -697,9 +697,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "Water",
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -719,9 +719,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 180,
+    "retreatCost": 2,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -741,9 +741,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "Water",
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -765,7 +765,7 @@
     "stage": "basic",
     "health": 50,
     "retreatCost": 1,
-    "weakness": "Water",
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Solgaleo",
@@ -786,9 +786,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "Water",
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Solgaleo",
@@ -809,9 +809,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 120,
+    "retreatCost": 4,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -831,9 +831,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Solgaleo",
@@ -854,9 +854,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 100,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Solgaleo",
@@ -877,9 +877,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -899,9 +899,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 110,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -921,9 +921,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -943,9 +943,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 110,
+    "retreatCost": 3,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -965,9 +965,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 110,
+    "retreatCost": 2,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Solgaleo",
@@ -988,9 +988,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -1010,9 +1010,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -1032,9 +1032,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -1054,9 +1054,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 140,
+    "retreatCost": 2,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -1076,9 +1076,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 160,
+    "retreatCost": 3,
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -1098,9 +1098,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 30,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -1120,9 +1120,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 170,
+    "retreatCost": 3,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -1142,9 +1142,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -1164,9 +1164,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 110,
+    "retreatCost": 2,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -1185,10 +1185,10 @@
     "rarity": "C",
     "element": "water",
     "type": "pokemon",
-    "stage": 1,
-    "health": 50,
+    "stage": "basic",
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -1208,9 +1208,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Solgaleo",
@@ -1231,9 +1231,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 100,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -1253,9 +1253,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -1275,9 +1275,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 140,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -1297,9 +1297,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fighting",
+    "health": 70,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -1319,9 +1319,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fighting",
+    "health": 110,
+    "retreatCost": 3,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -1341,9 +1341,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fighting",
+    "health": 160,
+    "retreatCost": 4,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -1363,9 +1363,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Solgaleo",
@@ -1386,9 +1386,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Solgaleo",
@@ -1409,9 +1409,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fighting",
+    "health": 90,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -1431,9 +1431,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
+    "health": 140,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -1453,9 +1453,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -1475,9 +1475,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -1497,9 +1497,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 100,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -1519,9 +1519,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -1541,9 +1541,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Solgaleo",
@@ -1564,9 +1564,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Solgaleo",
@@ -1587,9 +1587,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 110,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Solgaleo",
@@ -1610,9 +1610,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Dark",
+    "health": 90,
+    "retreatCost": 2,
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -1632,9 +1632,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Solgaleo",
@@ -1655,9 +1655,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Solgaleo",
@@ -1678,9 +1678,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -1700,9 +1700,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -1722,9 +1722,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Dark",
+    "health": 30,
+    "retreatCost": 0,
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -1744,9 +1744,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Dark",
+    "health": 80,
+    "retreatCost": 0,
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -1766,9 +1766,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -1788,9 +1788,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Dark",
+    "health": 80,
+    "retreatCost": 2,
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -1810,9 +1810,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Dark",
+    "health": 130,
+    "retreatCost": 3,
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -1832,9 +1832,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -1854,9 +1854,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -1876,9 +1876,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Solgaleo",
@@ -1899,9 +1899,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Dark",
+    "health": 100,
+    "retreatCost": 3,
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Solgaleo",
@@ -1922,9 +1922,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
+    "health": 180,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -1944,9 +1944,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Dark",
+    "health": 120,
+    "retreatCost": 2,
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -1966,9 +1966,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -1988,9 +1988,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 70,
+    "retreatCost": 2,
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Solgaleo",
@@ -2011,9 +2011,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 120,
+    "retreatCost": 3,
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Solgaleo",
@@ -2034,9 +2034,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 90,
+    "retreatCost": 2,
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -2056,9 +2056,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Solgaleo",
@@ -2079,9 +2079,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -2101,9 +2101,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 90,
+    "retreatCost": 2,
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -2123,9 +2123,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 150,
+    "retreatCost": 3,
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -2145,9 +2145,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 70,
+    "retreatCost": 2,
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -2167,9 +2167,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -2189,9 +2189,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -2211,9 +2211,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 100,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -2233,9 +2233,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 100,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -2255,9 +2255,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 80,
+    "retreatCost": 2,
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -2277,9 +2277,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 140,
+    "retreatCost": 4,
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -2299,9 +2299,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 130,
+    "retreatCost": 2,
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -2321,9 +2321,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -2345,7 +2345,7 @@
     "stage": "basic",
     "health": 50,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -2365,9 +2365,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 110,
+    "retreatCost": 3,
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -2387,9 +2387,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -2409,9 +2409,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 100,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -2431,9 +2431,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 70,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -2453,9 +2453,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 160,
+    "retreatCost": 3,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -2475,9 +2475,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -2497,9 +2497,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Solgaleo",
@@ -2520,9 +2520,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 120,
+    "retreatCost": 3,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Solgaleo",
@@ -2543,9 +2543,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 70,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -2565,9 +2565,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 110,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -2610,7 +2610,7 @@
     "element": "metal",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
     "weakness": "fire",
     "goodWith": [],
@@ -2633,8 +2633,8 @@
     "element": "metal",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
+    "health": 110,
+    "retreatCost": 3,
     "weakness": "fire",
     "goodWith": [],
     "packs": [
@@ -2656,8 +2656,8 @@
     "element": "metal",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
+    "health": 110,
+    "retreatCost": 3,
     "weakness": "fire",
     "goodWith": [],
     "packs": [
@@ -2679,7 +2679,7 @@
     "element": "metal",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
     "weakness": "fire",
     "goodWith": [],
@@ -2701,8 +2701,8 @@
     "element": "metal",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
+    "health": 180,
+    "retreatCost": 2,
     "weakness": "fire",
     "goodWith": [],
     "packs": [
@@ -2723,7 +2723,7 @@
     "element": "metal",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
     "weakness": "fire",
     "goodWith": [],
@@ -2745,8 +2745,8 @@
     "element": "dragon",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
+    "health": 100,
+    "retreatCost": 2,
     "weakness": null,
     "goodWith": [],
     "packs": [
@@ -2767,7 +2767,7 @@
     "element": "dragon",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
     "weakness": null,
     "goodWith": [],
@@ -2789,8 +2789,8 @@
     "element": "dragon",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
+    "health": 100,
+    "retreatCost": 2,
     "weakness": null,
     "goodWith": [],
     "packs": [
@@ -2811,8 +2811,8 @@
     "element": "dragon",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
+    "health": 150,
+    "retreatCost": 2,
     "weakness": null,
     "goodWith": [],
     "packs": [
@@ -2833,9 +2833,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 100,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Solgaleo",
@@ -2856,9 +2856,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Solgaleo",
@@ -2879,9 +2879,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Solgaleo",
@@ -2904,7 +2904,7 @@
     "stage": "basic",
     "health": 50,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -2924,9 +2924,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -2948,7 +2948,7 @@
     "stage": "basic",
     "health": 50,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Solgaleo",
@@ -2969,9 +2969,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Solgaleo",
@@ -2992,9 +2992,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 140,
+    "retreatCost": 2,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Solgaleo",
@@ -3015,9 +3015,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -3037,9 +3037,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 100,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -3059,9 +3059,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 70,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -3081,9 +3081,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 130,
+    "retreatCost": 3,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -3103,9 +3103,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 100,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -3125,9 +3125,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 90,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -3499,9 +3499,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 150,
+    "retreatCost": 4,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -3521,9 +3521,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -3543,9 +3543,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 130,
+    "retreatCost": 2,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -3565,9 +3565,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 120,
+    "retreatCost": 2,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -3587,9 +3587,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 110,
+    "retreatCost": 2,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -3609,9 +3609,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 120,
+    "retreatCost": 4,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -3631,9 +3631,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -3652,10 +3652,10 @@
     "rarity": "AR",
     "element": "water",
     "type": "pokemon",
-    "stage": 1,
-    "health": 50,
+    "stage": "basic",
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -3675,9 +3675,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 100,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -3697,9 +3697,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -3719,9 +3719,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 100,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -3741,9 +3741,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Dark",
+    "health": 30,
+    "retreatCost": 0,
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -3763,9 +3763,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -3785,9 +3785,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Dark",
+    "health": 80,
+    "retreatCost": 2,
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -3807,9 +3807,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -3829,9 +3829,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -3851,9 +3851,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -3873,9 +3873,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 140,
+    "retreatCost": 4,
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -3895,9 +3895,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -3917,7 +3917,7 @@
     "element": "metal",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 90,
     "retreatCost": 1,
     "weakness": "fire",
     "goodWith": [],
@@ -3939,8 +3939,8 @@
     "element": "dragon",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
+    "health": 100,
+    "retreatCost": 2,
     "weakness": null,
     "goodWith": [],
     "packs": [
@@ -3963,7 +3963,7 @@
     "stage": "basic",
     "health": 50,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -3983,9 +3983,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 130,
+    "retreatCost": 3,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -4005,9 +4005,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 90,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -4027,9 +4027,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
+    "health": 170,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -4049,9 +4049,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 140,
+    "retreatCost": 2,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -4071,9 +4071,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 180,
+    "retreatCost": 2,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -4093,9 +4093,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 160,
+    "retreatCost": 3,
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -4115,9 +4115,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 170,
+    "retreatCost": 3,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -4137,9 +4137,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 140,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -4159,9 +4159,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
+    "health": 180,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -4181,9 +4181,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 130,
+    "retreatCost": 2,
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -4203,9 +4203,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 160,
+    "retreatCost": 3,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -4225,8 +4225,8 @@
     "element": "metal",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
+    "health": 180,
+    "retreatCost": 2,
     "weakness": "fire",
     "goodWith": [],
     "packs": [
@@ -4453,9 +4453,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
+    "health": 170,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -4475,9 +4475,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 140,
+    "retreatCost": 2,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -4497,9 +4497,9 @@
     "element": "fire",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Water",
+    "health": 180,
+    "retreatCost": 2,
+    "weakness": "water",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -4519,9 +4519,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 160,
+    "retreatCost": 3,
+    "weakness": "metal",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -4541,9 +4541,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 170,
+    "retreatCost": 3,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -4563,9 +4563,9 @@
     "element": "lightning",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 140,
     "retreatCost": 1,
-    "weakness": "Fighting",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -4585,9 +4585,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
+    "health": 180,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -4607,9 +4607,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 130,
+    "retreatCost": 2,
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -4629,9 +4629,9 @@
     "element": "darkness",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 160,
+    "retreatCost": 3,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -4651,8 +4651,8 @@
     "element": "metal",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
+    "health": 180,
+    "retreatCost": 2,
     "weakness": "fire",
     "goodWith": [],
     "packs": [
@@ -4721,9 +4721,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 70,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -4743,9 +4743,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 90,
+    "retreatCost": 2,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -4765,9 +4765,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 160,
+    "retreatCost": 3,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -4787,9 +4787,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Fire",
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -4809,9 +4809,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 130,
+    "retreatCost": 3,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -4831,9 +4831,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -4853,9 +4853,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -4875,9 +4875,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 150,
+    "retreatCost": 3,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -4899,7 +4899,7 @@
     "stage": "basic",
     "health": 50,
     "retreatCost": 1,
-    "weakness": "Lightning",
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -4919,9 +4919,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 90,
+    "retreatCost": 0,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -4943,7 +4943,7 @@
     "stage": "basic",
     "health": 50,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -4963,9 +4963,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 80,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -4985,9 +4985,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Dark",
+    "health": 130,
+    "retreatCost": 2,
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -5007,9 +5007,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 70,
+    "retreatCost": 2,
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -5029,9 +5029,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 100,
+    "retreatCost": 2,
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -5051,9 +5051,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 150,
+    "retreatCost": 2,
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -5073,9 +5073,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -5095,9 +5095,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 100,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -5117,9 +5117,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": "basic",
-    "health": 50,
+    "health": 60,
     "retreatCost": 1,
-    "weakness": "fire",
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -5139,9 +5139,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 100,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -5161,9 +5161,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 190,
+    "retreatCost": 3,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -5183,9 +5183,9 @@
     "element": "grass",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Fire",
+    "health": 160,
+    "retreatCost": 3,
+    "weakness": "fire",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -5205,9 +5205,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 180,
+    "retreatCost": 3,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -5227,9 +5227,9 @@
     "element": "water",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Lightning",
+    "health": 130,
+    "retreatCost": 0,
+    "weakness": "lightning",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -5249,9 +5249,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Dark",
+    "health": 170,
+    "retreatCost": 2,
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -5271,9 +5271,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "Psychic",
+    "health": 180,
+    "retreatCost": 3,
+    "weakness": "psychic",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -5293,9 +5293,9 @@
     "element": "fighting",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
+    "health": 140,
     "retreatCost": 1,
-    "weakness": "Psychic",
+    "weakness": "grass",
     "goodWith": [],
     "packs": [
       "Lunala"
@@ -5315,9 +5315,9 @@
     "element": "colorless",
     "type": "pokemon",
     "stage": 1,
-    "health": 50,
-    "retreatCost": 1,
-    "weakness": "fire",
+    "health": 140,
+    "retreatCost": 2,
+    "weakness": "fighting",
     "goodWith": [],
     "packs": [
       "Solgaleo"
@@ -5337,9 +5337,9 @@
     "element": "psychic",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
+    "health": 180,
     "retreatCost": 1,
-    "weakness": "Dark",
+    "weakness": "darkness",
     "goodWith": [],
     "packs": [
       "Solgaleo",
@@ -5360,8 +5360,8 @@
     "element": "metal",
     "type": "pokemon",
     "stage": 2,
-    "health": 50,
-    "retreatCost": 1,
+    "health": 180,
+    "retreatCost": 2,
     "weakness": "fire",
     "goodWith": [],
     "packs": [

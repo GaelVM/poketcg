@@ -332,7 +332,7 @@
       "Deluxe"
     ],
     "ex": false,
-    "image": "A4b_318.webp",
+    "image": "cTR_10_000620_00_EREKIKORD_U.webp",
     "imagePath": "cards/A4b/318.webp",
     "setName": "Deluxe Pack: ex",
     "releaseDate": "2025-09-30"
@@ -356,7 +356,7 @@
       "Deluxe"
     ],
     "ex": false,
-    "image": "A4b_319.webp",
+    "image": "cTR_10_000620_01_EREKIKORD_U.webp",
     "imagePath": "cards/A4b/319.webp",
     "setName": "Deluxe Pack: ex",
     "releaseDate": "2025-09-30"
@@ -380,7 +380,7 @@
       "Deluxe"
     ],
     "ex": false,
-    "image": "A4b_320.webp",
+    "image": "cTR_10_000290_00_OOKINAMANTO_U.webp",
     "imagePath": "cards/A4b/320.webp",
     "setName": "Deluxe Pack: ex",
     "releaseDate": "2025-09-30"
@@ -404,7 +404,7 @@
       "Deluxe"
     ],
     "ex": false,
-    "image": "A4b_321.webp",
+    "image": "cTR_10_000290_01_OOKINAMANTO_U.webp",
     "imagePath": "cards/A4b/321.webp",
     "setName": "Deluxe Pack: ex",
     "releaseDate": "2025-09-30"
@@ -428,7 +428,7 @@
       "Deluxe"
     ],
     "ex": false,
-    "image": "A4b_322.webp",
+    "image": "cTR_10_000300_00_GOTSUGOTSUMETTO_U.webp",
     "imagePath": "cards/A4b/322.webp",
     "setName": "Deluxe Pack: ex",
     "releaseDate": "2025-09-30"
@@ -452,7 +452,7 @@
       "Deluxe"
     ],
     "ex": false,
-    "image": "A4b_323.webp",
+    "image": "cTR_10_000300_01_GOTSUGOTSUMETTO_U.webp",
     "imagePath": "cards/A4b/323.webp",
     "setName": "Deluxe Pack: ex",
     "releaseDate": "2025-09-30"
@@ -476,7 +476,7 @@
       "Deluxe"
     ],
     "ex": false,
-    "image": "A4b_324.webp",
+    "image": "cTR_10_000510_00_LEAFMANTO_U.webp",
     "imagePath": "cards/A4b/324.webp",
     "setName": "Deluxe Pack: ex",
     "releaseDate": "2025-09-30"
@@ -500,7 +500,7 @@
       "Deluxe"
     ],
     "ex": false,
-    "image": "A4b_325.webp",
+    "image": "cTR_10_000510_01_LEAFMANTO_U.webp",
     "imagePath": "cards/A4b/325.webp",
     "setName": "Deluxe Pack: ex",
     "releaseDate": "2025-09-30"
@@ -576,5 +576,688 @@
     "imagePath": "cards/B1/220.webp",
     "setName": "Mega Rising",
     "releaseDate": "2025-10-30"
+  },
+  {
+    "id": "B2-147",
+    "set": "B2",
+    "number": 147,
+    "name": "Protective Poncho",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Gardevoir"
+    ],
+    "ex": false,
+    "image": "cTR_10_001080_00_MAMORINOPONCHO_U.webp",
+    "imagePath": "cards/B2/147.webp",
+    "setName": "Fantastical Parade",
+    "releaseDate": "2026-01-29"
+  },
+  {
+    "id": "B2-148",
+    "set": "B2",
+    "number": 148,
+    "name": "Metal Core Barrier",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Gardevoir"
+    ],
+    "ex": false,
+    "image": "cTR_10_001090_00_METARUKOABARIA_U.webp",
+    "imagePath": "cards/B2/148.webp",
+    "setName": "Fantastical Parade",
+    "releaseDate": "2026-01-29"
+  },
+  {
+    "id": "B2-234",
+    "set": "B2",
+    "number": 234,
+    "name": "Protective Poncho",
+    "rarity": "UR",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Gardevoir"
+    ],
+    "ex": false,
+    "image": "cTR_20_001080_00_MAMORINOPONCHO_UR.webp",
+    "imagePath": "cards/B2/234.webp",
+    "setName": "Fantastical Parade",
+    "releaseDate": "2026-01-29"
+  },
+  {
+    "id": "B2a-087",
+    "set": "B2a",
+    "number": 87,
+    "name": "Big Air Balloon",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Paldean"
+    ],
+    "ex": false,
+    "image": "cTR_10_001180_00_BIGAIRBALLOON_U.webp",
+    "imagePath": "cards/B2a/87.webp",
+    "setName": "Paldean Wonders",
+    "releaseDate": "2026-02-26"
+  },
+  {
+    "id": "B2b-117",
+    "set": "B2b",
+    "number": 117,
+    "name": "Metal Core Barrier",
+    "rarity": "UR",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Mega Shine"
+    ],
+    "ex": false,
+    "image": "cTR_20_001090_00_METARUKOABARIA_UR.webp",
+    "imagePath": "cards/B2b/117.webp",
+    "setName": "Mega Shine",
+    "releaseDate": "2026-03-26"
+  },
+  {
+    "id": "B3-148",
+    "set": "B3",
+    "number": 148,
+    "name": "Lucky Egg",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Pulsing Aura"
+    ],
+    "ex": false,
+    "image": "cTR_10_001290_00_HAPPINESSEGG_U.webp",
+    "imagePath": "cards/B3/148.webp",
+    "setName": "Pulsing Aura",
+    "releaseDate": "2026-04-28"
+  },
+  {
+    "id": "B3a-069",
+    "set": "B3a",
+    "number": 69,
+    "name": "Ancient Booster Energy Capsule",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Paradox Drive"
+    ],
+    "ex": false,
+    "image": "cTR_10_001370_00_BUSUTOENAJIKODAI_U.webp",
+    "imagePath": "cards/B3a/69.webp",
+    "setName": "Paradox Drive",
+    "releaseDate": "2026-05-28"
+  },
+  {
+    "id": "B3a-070",
+    "set": "B3a",
+    "number": 70,
+    "name": "Future Booster Energy Capsule",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Paradox Drive"
+    ],
+    "ex": false,
+    "image": "cTR_10_001380_00_BUSUTOENAJIMIRAI_U.webp",
+    "imagePath": "cards/B3a/70.webp",
+    "setName": "Paradox Drive",
+    "releaseDate": "2026-05-28"
+  },
+  {
+    "id": "B3b-064",
+    "set": "B3b",
+    "number": 64,
+    "name": "Small Balloon",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Everyday Wonders"
+    ],
+    "ex": false,
+    "image": "cTR_10_001430_00_CHIISANAFUUSEN_U.webp",
+    "imagePath": "cards/B3b/64.webp",
+    "setName": "Everyday Wonders",
+    "releaseDate": "2026-06-30"
+  },
+  {
+    "id": "B3b-065",
+    "set": "B3b",
+    "number": 65,
+    "name": "Elegant Cape",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Everyday Wonders"
+    ],
+    "ex": false,
+    "image": "cTR_10_001440_00_YUUGANAMANTO_U.webp",
+    "imagePath": "cards/B3b/65.webp",
+    "setName": "Everyday Wonders",
+    "releaseDate": "2026-06-30"
+  },
+  {
+    "id": "B3b-106",
+    "set": "B3b",
+    "number": 106,
+    "name": "Small Balloon",
+    "rarity": "UR",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Everyday Wonders"
+    ],
+    "ex": false,
+    "image": "cTR_20_001430_00_CHIISANAFUUSEN_UR.webp",
+    "imagePath": "cards/B3b/106.webp",
+    "setName": "Everyday Wonders",
+    "releaseDate": "2026-06-30"
+  },
+  {
+    "id": "B4-148",
+    "set": "B4",
+    "number": 148,
+    "name": "Deceptive Needle",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Ruler of the Skies"
+    ],
+    "ex": false,
+    "image": "cTR_10_001520_00_INCHIKIBARI_U.webp",
+    "imagePath": "cards/B4/148.webp",
+    "setName": "Ruler of the Skies",
+    "releaseDate": "2026-07-30"
+  },
+  {
+    "id": "B4-149",
+    "set": "B4",
+    "number": 149,
+    "name": "Clear Veil",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Ruler of the Skies"
+    ],
+    "ex": false,
+    "image": "cTR_10_001530_00_KURIAVEIL_U.webp",
+    "imagePath": "cards/B4/149.webp",
+    "setName": "Ruler of the Skies",
+    "releaseDate": "2026-07-30"
+  },
+  {
+    "id": "B4b-204",
+    "set": "B4b",
+    "number": 204,
+    "name": "Deceptive Needle",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Deluxe Pack Mega"
+    ],
+    "ex": false,
+    "image": "cTR_10_001520_00_INCHIKIBARI_U.webp",
+    "imagePath": "cards/B4b/204.webp",
+    "setName": "Deluxe Pack: Mega",
+    "releaseDate": "2026-09-30"
+  },
+  {
+    "id": "B4b-205",
+    "set": "B4b",
+    "number": 205,
+    "name": "Lucky Egg",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Deluxe Pack Mega"
+    ],
+    "ex": false,
+    "image": "cTR_10_001290_00_HAPPINESSEGG_U.webp",
+    "imagePath": "cards/B4b/205.webp",
+    "setName": "Deluxe Pack: Mega",
+    "releaseDate": "2026-09-30"
+  },
+  {
+    "id": "B4b-206",
+    "set": "B4b",
+    "number": 206,
+    "name": "Small Balloon",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Deluxe Pack Mega"
+    ],
+    "ex": false,
+    "image": "cTR_10_001430_00_CHIISANAFUUSEN_U.webp",
+    "imagePath": "cards/B4b/206.webp",
+    "setName": "Deluxe Pack: Mega",
+    "releaseDate": "2026-09-30"
+  },
+  {
+    "id": "B4b-207",
+    "set": "B4b",
+    "number": 207,
+    "name": "Ancient Booster Energy Capsule",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Deluxe Pack Mega"
+    ],
+    "ex": false,
+    "image": "cTR_10_001370_00_BUSUTOENAJIKODAI_U.webp",
+    "imagePath": "cards/B4b/207.webp",
+    "setName": "Deluxe Pack: Mega",
+    "releaseDate": "2026-09-30"
+  },
+  {
+    "id": "B4b-208",
+    "set": "B4b",
+    "number": 208,
+    "name": "Future Booster Energy Capsule",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Deluxe Pack Mega"
+    ],
+    "ex": false,
+    "image": "cTR_10_001380_00_BUSUTOENAJIMIRAI_U.webp",
+    "imagePath": "cards/B4b/208.webp",
+    "setName": "Deluxe Pack: Mega",
+    "releaseDate": "2026-09-30"
+  },
+  {
+    "id": "B4b-209",
+    "set": "B4b",
+    "number": 209,
+    "name": "Protective Poncho",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Deluxe Pack Mega"
+    ],
+    "ex": false,
+    "image": "cTR_10_001080_00_MAMORINOPONCHO_U.webp",
+    "imagePath": "cards/B4b/209.webp",
+    "setName": "Deluxe Pack: Mega",
+    "releaseDate": "2026-09-30"
+  },
+  {
+    "id": "B4b-210",
+    "set": "B4b",
+    "number": 210,
+    "name": "Metal Core Barrier",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Deluxe Pack Mega"
+    ],
+    "ex": false,
+    "image": "cTR_10_001090_00_METARUKOABARIA_U.webp",
+    "imagePath": "cards/B4b/210.webp",
+    "setName": "Deluxe Pack: Mega",
+    "releaseDate": "2026-09-30"
+  },
+  {
+    "id": "B4b-211",
+    "set": "B4b",
+    "number": 211,
+    "name": "Elegant Cape",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Deluxe Pack Mega"
+    ],
+    "ex": false,
+    "image": "cTR_10_001440_00_YUUGANAMANTO_U.webp",
+    "imagePath": "cards/B4b/211.webp",
+    "setName": "Deluxe Pack: Mega",
+    "releaseDate": "2026-09-30"
+  },
+  {
+    "id": "B4b-370",
+    "set": "B4b",
+    "number": 370,
+    "name": "Deceptive Needle",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Deluxe Pack Mega"
+    ],
+    "ex": false,
+    "image": "cTR_10_001520_01_INCHIKIBARI_U.webp",
+    "imagePath": "cards/B4b/370.webp",
+    "setName": "Deluxe Pack: Mega",
+    "releaseDate": "2026-09-30"
+  },
+  {
+    "id": "B4b-371",
+    "set": "B4b",
+    "number": 371,
+    "name": "Lucky Egg",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Deluxe Pack Mega"
+    ],
+    "ex": false,
+    "image": "cTR_10_001290_01_HAPPINESSEGG_U.webp",
+    "imagePath": "cards/B4b/371.webp",
+    "setName": "Deluxe Pack: Mega",
+    "releaseDate": "2026-09-30"
+  },
+  {
+    "id": "B4b-372",
+    "set": "B4b",
+    "number": 372,
+    "name": "Small Balloon",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Deluxe Pack Mega"
+    ],
+    "ex": false,
+    "image": "cTR_10_001430_01_CHIISANAFUUSEN_U.webp",
+    "imagePath": "cards/B4b/372.webp",
+    "setName": "Deluxe Pack: Mega",
+    "releaseDate": "2026-09-30"
+  },
+  {
+    "id": "B4b-373",
+    "set": "B4b",
+    "number": 373,
+    "name": "Ancient Booster Energy Capsule",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Deluxe Pack Mega"
+    ],
+    "ex": false,
+    "image": "cTR_10_001370_01_BUSUTOENAJIKODAI_U.webp",
+    "imagePath": "cards/B4b/373.webp",
+    "setName": "Deluxe Pack: Mega",
+    "releaseDate": "2026-09-30"
+  },
+  {
+    "id": "B4b-374",
+    "set": "B4b",
+    "number": 374,
+    "name": "Future Booster Energy Capsule",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Deluxe Pack Mega"
+    ],
+    "ex": false,
+    "image": "cTR_10_001380_01_BUSUTOENAJIMIRAI_U.webp",
+    "imagePath": "cards/B4b/374.webp",
+    "setName": "Deluxe Pack: Mega",
+    "releaseDate": "2026-09-30"
+  },
+  {
+    "id": "B4b-375",
+    "set": "B4b",
+    "number": 375,
+    "name": "Protective Poncho",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Deluxe Pack Mega"
+    ],
+    "ex": false,
+    "image": "cTR_10_001080_01_MAMORINOPONCHO_U.webp",
+    "imagePath": "cards/B4b/375.webp",
+    "setName": "Deluxe Pack: Mega",
+    "releaseDate": "2026-09-30"
+  },
+  {
+    "id": "B4b-376",
+    "set": "B4b",
+    "number": 376,
+    "name": "Metal Core Barrier",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Deluxe Pack Mega"
+    ],
+    "ex": false,
+    "image": "cTR_10_001090_01_METARUKOABARIA_U.webp",
+    "imagePath": "cards/B4b/376.webp",
+    "setName": "Deluxe Pack: Mega",
+    "releaseDate": "2026-09-30"
+  },
+  {
+    "id": "B4b-377",
+    "set": "B4b",
+    "number": 377,
+    "name": "Elegant Cape",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Deluxe Pack Mega"
+    ],
+    "ex": false,
+    "image": "cTR_10_001440_01_YUUGANAMANTO_U.webp",
+    "imagePath": "cards/B4b/377.webp",
+    "setName": "Deluxe Pack: Mega",
+    "releaseDate": "2026-09-30"
+  },
+  {
+    "id": "C1-123",
+    "set": "C1",
+    "number": 123,
+    "name": "Eviolite",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Dual Fusion Pikachu",
+      "Dual Fusion Mega Mewtwo X"
+    ],
+    "ex": false,
+    "image": "cTR_10_001700_00_SHINKANOKISEKI_U.webp",
+    "imagePath": "cards/C1/123.webp",
+    "setName": "Dual Fusion",
+    "releaseDate": "2026-10-29"
+  },
+  {
+    "id": "C1-124",
+    "set": "C1",
+    "number": 124,
+    "name": "Light Ball",
+    "rarity": "U",
+    "element": null,
+    "type": "tool",
+    "stage": null,
+    "health": null,
+    "retreatCost": null,
+    "weakness": null,
+    "goodWith": [],
+    "packs": [
+      "Dual Fusion Pikachu"
+    ],
+    "ex": false,
+    "image": "cTR_10_001710_00_DENKIDAMA_U.webp",
+    "imagePath": "cards/C1/124.webp",
+    "setName": "Dual Fusion",
+    "releaseDate": "2026-10-29"
   }
 ]
