@@ -106,7 +106,7 @@
     "ex": false,
     "image": "cTR_10_000260_00_ZUGAINOKASEKI_C.webp",
     "imagePath": "cards/A2/144.webp",
-    "setName": "Space-Time Smackdown",
+    "setName": "Pugna Espaciotemporal",
     "releaseDate": "2025-01-29"
   },
   {
@@ -128,7 +128,7 @@
     "ex": false,
     "image": "cTR_10_000270_00_TATENOKASEKI_C.webp",
     "imagePath": "cards/A2/145.webp",
-    "setName": "Space-Time Smackdown",
+    "setName": "Pugna Espaciotemporal",
     "releaseDate": "2025-01-29"
   },
   {
@@ -150,7 +150,7 @@
     "ex": false,
     "image": "cTR_10_000100_00_HIMITSUNOKOHAKU_C.webp",
     "imagePath": "cards/A4b/312.webp",
-    "setName": "Deluxe Pack: ex",
+    "setName": "Sobre Deluxe ex",
     "releaseDate": "2025-09-30"
   },
   {
@@ -172,7 +172,7 @@
     "ex": false,
     "image": "cTR_10_000100_01_HIMITSUNOKOHAKU_C.webp",
     "imagePath": "cards/A4b/313.webp",
-    "setName": "Deluxe Pack: ex",
+    "setName": "Sobre Deluxe ex",
     "releaseDate": "2025-09-30"
   },
   {
@@ -194,7 +194,7 @@
     "ex": false,
     "image": "cTR_10_000880_00_HANENOKASEKI_C.webp",
     "imagePath": "cards/B1/214.webp",
-    "setName": "Mega Rising",
+    "setName": "Megaascenso",
     "releaseDate": "2025-10-30"
   },
   {
@@ -216,7 +216,7 @@
     "ex": false,
     "image": "cTR_10_000900_00_FUTANOKASEKI_C.webp",
     "imagePath": "cards/B1/216.webp",
-    "setName": "Mega Rising",
+    "setName": "Megaascenso",
     "releaseDate": "2025-10-30"
   }
 ]

@@ -130,7 +130,7 @@
     "ex": false,
     "image": "cPK_20_003300_01_PALKIAex_IM.webp",
     "imagePath": "cards/A2/204.webp",
-    "setName": "Space-Time Smackdown",
+    "setName": "Pugna Espaciotemporal",
     "releaseDate": "2025-01-29"
   },
   {
@@ -152,7 +152,7 @@
     "ex": false,
     "image": "cPK_20_004000_01_DIALGAex_IM.webp",
     "imagePath": "cards/A2/205.webp",
-    "setName": "Space-Time Smackdown",
+    "setName": "Pugna Espaciotemporal",
     "releaseDate": "2025-01-29"
   },
   {
@@ -196,7 +196,7 @@
     "ex": false,
     "image": "cPK_20_005520_01_GIRATINAex_IM.webp",
     "imagePath": "cards/A2b/96.webp",
-    "setName": "Shining Revelry",
+    "setName": "Festival Brillante",
     "releaseDate": "2025-03-27"
   },
   {
@@ -220,7 +220,7 @@
     "ex": false,
     "image": "cTR_20_000550_01_GUZUMA_IM.webp",
     "imagePath": "cards/A3/208.webp",
-    "setName": "Celestial Guardians",
+    "setName": "Guardianes Celestiales",
     "releaseDate": "2025-04-30"
   },
   {
@@ -244,7 +244,7 @@
     "ex": false,
     "image": "cTR_20_000590_01_LILIE_IM.webp",
     "imagePath": "cards/A3/209.webp",
-    "setName": "Celestial Guardians",
+    "setName": "Guardianes Celestiales",
     "releaseDate": "2025-04-30"
   },
   {
@@ -266,7 +266,7 @@
     "ex": false,
     "image": "cPK_20_007480_01_MASSIVOONex_IM.webp",
     "imagePath": "cards/A3a/88.webp",
-    "setName": "Extradimensional Crisis",
+    "setName": "Crisis Dimensional",
     "releaseDate": "2025-05-29"
   },
   {
@@ -288,7 +288,7 @@
     "ex": false,
     "image": "cPK_20_008480_01_EIEVUIex_IM.webp",
     "imagePath": "cards/A3b/92.webp",
-    "setName": "Eevee Grove",
+    "setName": "Arboleda de Eevee",
     "releaseDate": "2025-06-26"
   },
   {
@@ -310,7 +310,7 @@
     "ex": false,
     "image": "cPK_20_008900_01_HOUOUex_IM.webp",
     "imagePath": "cards/A4/210.webp",
-    "setName": "Wisdom of Sea and Sky",
+    "setName": "Saber Marino y Celeste",
     "releaseDate": "2025-07-30"
   },
   {
@@ -332,7 +332,7 @@
     "ex": false,
     "image": "cPK_20_010050_01_LUGIAex_IM.webp",
     "imagePath": "cards/A4/211.webp",
-    "setName": "Wisdom of Sea and Sky",
+    "setName": "Saber Marino y Celeste",
     "releaseDate": "2025-07-30"
   },
   {
@@ -354,7 +354,7 @@
     "ex": false,
     "image": "cPK_20_010400_01_SUICUNEex_IM.webp",
     "imagePath": "cards/A4a/90.webp",
-    "setName": "Secluded Springs",
+    "setName": "Manantial Oculto",
     "releaseDate": "2025-08-28"
   },
   {
@@ -376,7 +376,7 @@
     "ex": false,
     "image": "cPK_20_000960_04_PIKACHUex_IM.webp",
     "imagePath": "cards/A4b/376.webp",
-    "setName": "Deluxe Pack: ex",
+    "setName": "Sobre Deluxe ex",
     "releaseDate": "2025-09-30"
   },
   {
@@ -398,7 +398,7 @@
     "ex": false,
     "image": "cPK_20_011180_01_MEGABURSYAMOex_IM.webp",
     "imagePath": "cards/B1/284.webp",
-    "setName": "Mega Rising",
+    "setName": "Megaascenso",
     "releaseDate": "2025-10-30"
   },
   {
@@ -420,7 +420,7 @@
     "ex": false,
     "image": "cPK_20_011340_01_MEGAGYARADOSex_IM.webp",
     "imagePath": "cards/B1/285.webp",
-    "setName": "Mega Rising",
+    "setName": "Megaascenso",
     "releaseDate": "2025-10-30"
   },
   {
@@ -442,7 +442,7 @@
     "ex": false,
     "image": "cPK_20_011840_01_MEGATYLTALISex_IM.webp",
     "imagePath": "cards/B1/286.webp",
-    "setName": "Mega Rising",
+    "setName": "Megaascenso",
     "releaseDate": "2025-10-30"
   },
   {
@@ -469,7 +469,7 @@
     "ex": false,
     "image": "cPK_20_013190_01_MEGALIZARDONYex_IM.webp",
     "imagePath": "cards/B1a/87.webp",
-    "setName": "Crimson Blaze",
+    "setName": "Fuego Carmesí",
     "releaseDate": "2025-12-17"
   },
   {
@@ -491,7 +491,7 @@
     "ex": false,
     "image": "cPK_20_014320_01_MEGASIRNIGHTex_IM.webp",
     "imagePath": "cards/B2/203.webp",
-    "setName": "Fantastical Parade",
+    "setName": "Desfile de Ensueño",
     "releaseDate": "2026-01-29"
   },
   {
@@ -513,7 +513,7 @@
     "ex": false,
     "image": "cPK_20_014900_00_NYARTH_IM.webp",
     "imagePath": "cards/B2/204.webp",
-    "setName": "Fantastical Parade",
+    "setName": "Desfile de Ensueño",
     "releaseDate": "2026-01-29"
   },
   {
@@ -535,7 +535,7 @@
     "ex": false,
     "image": "cTR_20_001210_01_PEPER_IM.webp",
     "imagePath": "cards/B2a/115.webp",
-    "setName": "Paldean Wonders",
+    "setName": "Encantos de Paldea",
     "releaseDate": "2026-02-26"
   },
   {
@@ -557,7 +557,7 @@
     "ex": false,
     "image": "cPK_20_016350_00_MEW_IM.webp",
     "imagePath": "cards/B2b/85.webp",
-    "setName": "Mega Shine",
+    "setName": "Megavariocolor",
     "releaseDate": "2026-03-26"
   },
   {
@@ -579,7 +579,7 @@
     "ex": false,
     "image": "cPK_20_016350_01_MEW_IM.webp",
     "imagePath": "cards/B2b/86.webp",
-    "setName": "Mega Shine",
+    "setName": "Megavariocolor",
     "releaseDate": "2026-03-26"
   },
   {
@@ -601,7 +601,7 @@
     "ex": false,
     "image": "cPK_20_017130_00_MESSON_IM.webp",
     "imagePath": "cards/B3/203.webp",
-    "setName": "Pulsing Aura",
+    "setName": "Aura Pulsante",
     "releaseDate": "2026-04-28"
   },
   {
@@ -623,7 +623,7 @@
     "ex": false,
     "image": "cPK_20_017460_01_MEGALUCARIOex_IM.webp",
     "imagePath": "cards/B3/204.webp",
-    "setName": "Pulsing Aura",
+    "setName": "Aura Pulsante",
     "releaseDate": "2026-04-28"
   },
   {
@@ -645,7 +645,7 @@
     "ex": false,
     "image": "cPK_20_018830_01_TERAPAGOSex_IM.webp",
     "imagePath": "cards/B3a/93.webp",
-    "setName": "Paradox Drive",
+    "setName": "Impulso Paradójico",
     "releaseDate": "2026-05-28"
   },
   {
@@ -667,7 +667,7 @@
     "ex": false,
     "image": "cPK_20_019220_01_DEDENNEex_IM.webp",
     "imagePath": "cards/B3b/90.webp",
-    "setName": "Everyday Wonders",
+    "setName": "Maravillas Cotidianas",
     "releaseDate": "2026-06-30"
   },
   {
@@ -689,7 +689,7 @@
     "ex": false,
     "image": "cPK_20_020160_01_ROTOMex_IM.webp",
     "imagePath": "cards/B4/202.webp",
-    "setName": "Ruler of the Skies",
+    "setName": "Dominador de los Cielos",
     "releaseDate": "2026-07-30"
   },
   {
@@ -711,7 +711,7 @@
     "ex": false,
     "image": "cPK_20_020810_01_MEGARAYQUAZAex_IM.webp",
     "imagePath": "cards/B4/203.webp",
-    "setName": "Ruler of the Skies",
+    "setName": "Dominador de los Cielos",
     "releaseDate": "2026-07-30"
   },
   {
@@ -733,7 +733,7 @@
     "ex": false,
     "image": "cTR_20_001630_01_ROCKETDANNODAISAKUSEN_IM.webp",
     "imagePath": "cards/B4a/94.webp",
-    "setName": "Team Rocket’s Ambition",
+    "setName": "La Ambición del Team Rocket",
     "releaseDate": "2026-08-27"
   },
   {
@@ -755,7 +755,7 @@
     "ex": false,
     "image": "cPK_20_016150_03_MEGALIZARDONXex_IM.webp",
     "imagePath": "cards/B4b/425.webp",
-    "setName": "Deluxe Pack: Mega",
+    "setName": "Sobre Deluxe Mega",
     "releaseDate": "2026-09-30"
   },
   {
@@ -778,7 +778,7 @@
     "ex": false,
     "image": "cPK_20_022200_02_PIKACHUex_IM.webp",
     "imagePath": "cards/C1/183.webp",
-    "setName": "Dual Fusion",
+    "setName": "Fusión Dual",
     "releaseDate": "2026-10-29"
   },
   {
@@ -800,7 +800,7 @@
     "ex": false,
     "image": "cPK_20_022280_00_PURIN_IM.webp",
     "imagePath": "cards/C1/184.webp",
-    "setName": "Dual Fusion",
+    "setName": "Fusión Dual",
     "releaseDate": "2026-10-29"
   },
   {
@@ -823,7 +823,7 @@
     "ex": false,
     "image": "cPK_20_022330_02_MEGAMEWTWOXex_IM.webp",
     "imagePath": "cards/C1/185.webp",
-    "setName": "Dual Fusion",
+    "setName": "Fusión Dual",
     "releaseDate": "2026-10-29"
   },
   {
@@ -845,7 +845,7 @@
     "ex": false,
     "image": "cPK_20_022610_00_BRACKY_IM.webp",
     "imagePath": "cards/C1/186.webp",
-    "setName": "Dual Fusion",
+    "setName": "Fusión Dual",
     "releaseDate": "2026-10-29"
   },
   {
@@ -879,7 +879,7 @@
     "ex": false,
     "image": "cPK_90_005410_00_PIKACHUex_IM.webp",
     "imagePath": "cards/PROMO-B/103.webp",
-    "setName": "Promo B",
+    "setName": "Promo-B",
     "releaseDate": "2025-10-30"
   }
 ]
